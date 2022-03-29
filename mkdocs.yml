@@ -1,0 +1,32 @@
+site_name: CS Masters Application
+site_author: '22fall EECS申请群'
+copyright: '&copy; 2022 EECS申请群'
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    primary: blue
+  features:
+    - navigation.top
+    - toc.follow
+    - navigation.instant
+  icon:
+    repo: fontawesome/brands/github
+markdown_extensions:
+  - meta
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+nav:
+    - Home: index.md
+    - 选校梯度: 选校梯度.md
+    - 贡献者: 贡献者.md
+extra:
+  social:
+    - icon: fontawesome/brands/qq
+      link: https://jq.qq.com/?_wv=1027&k=Ikr0DObs
+repo_url: https://github.com/CS-Masters-Application/CS-Masters-Application.github.io
+repo_name: CS-Masters-Application
+edit_uri: edit/master/docs/
