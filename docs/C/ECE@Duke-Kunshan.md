@@ -8,4 +8,4 @@
 
 ## 申请季实时信息
 
-[回到列表](../选校梯度.md)
+[回到列表 :fontawesome-solid-house:](../选校梯度.md){ .md-button }
