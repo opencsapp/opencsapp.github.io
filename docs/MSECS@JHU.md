@@ -4,7 +4,7 @@
 
 ## 代表性dp
 
-有top2 gpa3.3被录的
+有top2 gpa3.3+BATTMD实习被录的
 
 ## 网申备注
 
