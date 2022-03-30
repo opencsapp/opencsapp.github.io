@@ -57,7 +57,6 @@ nav:
       - MSCS@GaTech: MSCS@GaTech.md
       - CS75@UCSD: CS75@UCSD.md
       - MMath-course@Waterloo: MMath-course@Waterloo.md
-      - ECE@CMU: ECE@CMU.md
       - ECE@UT Austin: ECE@UT Austin.md
     - B+:
       - ScM CS@Brown: ScM CS@Brown.md
@@ -67,6 +66,7 @@ nav:
       - MCS@UIUC: MCS@UIUC.md
       - MSCSE@UMich: MSCSE@UMich.md
       - MScAc@UofT: MScAc@UofT.md
+      - ECE@CMU: ECE@CMU.md
       - ECE Meng@UBC: ECE Meng@UBC.md
       - MDSAI@Waterloo: MDSAI@Waterloo.md
     - B:
@@ -137,6 +137,7 @@ nav:
       - MSCS@Berkeley: MSCS@Berkeley.md
       - MSCS@Cornell: MSCS@Cornell.md
       - MSCS@Purdue: MSCS@Purdue.md
+      - MSc@UofT: MSc@UofT.md
       - MSCS@UWM: MSCS@UWM.md
     - 零基础转码项目:
       - MSCS@Brandeis: MSCS@Brandeis.md
