@@ -33,7 +33,10 @@ nav:
       - MSCS@UT-Austin: MSCS@UT-Austin.md
       - CSE@MIT: CSE@MIT.md
     - A+:
+      - MLT@CMU: MLT@CMU.md
       - MSCS@CMU: MSCS@CMU.md
+      - MSR@CMU: MSR@CMU.md
+      - CS Meng@Cornell: CS Meng@Cornell.md
       - MSCS@UCLA: MSCS@UCLA.md
       - MCIS@UPenn: MCIS@UPenn.md
       - CSE@Harvard: CSE@Harvard.md
@@ -46,7 +49,7 @@ nav:
       - MSAII@CMU: MSAII@CMU.md
       - MSCV@CMU: MSCV@CMU.md
       - MSML@CMU: MSML@CMU.md
-      - CS Meng@Cornell: CS Meng@Cornell.md
+      - MSCS@UIUC: MSCS@UIUC.md
       - MSCS@Yale: MSCS@Yale.md
       - MS&E@Stanford: MS&E@Stanford.md
       - DS@UPenn: DS@UPenn.md
