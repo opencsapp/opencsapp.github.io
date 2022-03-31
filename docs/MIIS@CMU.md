@@ -1,5 +1,7 @@
 ## 录取偏好
 NLP项目，录取看pub。录取非常diverse，甚至有数量可观的文转码录取样本。同时CMU SCS除MSR/MLT/MCDS之外的项目录取非常非常random，不同学校录取dp之间方差极大，根据SJTU 22fall情况怀疑这些项目是一个学校只录一个，211以上陆本都有机会，尤其是同校没有人申的情况下，推荐抽抽彩票
+
+已知MIIS录取并不看priority
 ## 代表性dp
 【22fall】 SJTU 89分ACL findings+EMNLP两篇共一发表，1篇ACL一作在投，1篇ICLR一作在投录
 
