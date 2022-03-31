@@ -1,7 +1,7 @@
 ## 录取偏好
 
 ## 代表性dp
-【22fall】SJTU 3.78/4.3 2篇infocom 3作
+【22fall】SJTU 3.78/4.3 2篇infocom 3作录取
 ## 网申备注
 不需要video essay，虽然挂靠在LTI但是MCDS admission committee并不会看video essay
 ## 项目特点
