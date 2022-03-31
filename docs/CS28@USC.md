@@ -3,7 +3,7 @@
 ## 代表性dp
 
 ## 网申备注
-推荐信optional，不交不影响录取。SoP optional但还是要写
+推荐信optional，不会看，不交不影响录取。SoP optional但还是要写
 ## 项目特点
 
 ## 申请季实时信息
