@@ -12,6 +12,8 @@
 
 科研校，workload比较大，而且ms和phd的bar差距非常大，非清北华五转博无望
 
+巴尔的摩治安不好，但JHU校警很给力，校内安全有保障，出校有校车接驳
+
 ## 申请季实时信息
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
