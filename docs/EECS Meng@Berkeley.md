@@ -1,7 +1,7 @@
 ## 录取偏好
 传闻喜欢录取有Berkeley交换经历的学生
 ## 代表性dp
-【22fall】 SJTU 88+ UCSD暑研 一篇CVPR二作在投 苏州微软实习
+【22fall】 SJTU 88+ UCSD暑研 一篇CVPR二作在投 苏州微软实习录取
 
 【22fall】 ZJU 90分 一篇二作，一篇二作在投录取
 ## 网申备注
