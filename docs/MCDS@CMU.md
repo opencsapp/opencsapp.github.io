@@ -1,7 +1,7 @@
 ## 录取偏好
 
 ## 代表性dp
-【22fall】 SJTU CS年级第一，GPA 94/100，无Pub，三段数据库硬核实习，GitHub 3k followers，多个高star项目录取
+【22fall】SJTU CS年级第一，GPA 94/100，无Pub，三段数据库硬核实习，GitHub 3k followers，多个高star项目录取
 
 【22fall】SJTU 3.78/4.3 2篇infocom 3作录取
 ## 网申备注
