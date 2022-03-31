@@ -6,6 +6,8 @@
 
 ## 网申备注
 
+portfolio重中之重，一定要认真准备
+
 Code Sample要求："Something that shows your graphics coding skills, or some code related to visual computing, is ideal, but if you don't have that,  good clean, well commented code, not from a class, but from a research or other development project is best."
 
 ## 项目特点
