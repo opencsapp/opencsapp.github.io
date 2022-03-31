@@ -78,7 +78,6 @@ nav:
       - CSE@GaTech: CSE@GaTech.md
       - MSCS@NWU: MSCS@NWU.md
       - MSCS@UCSB: MSCS@UCSB.md
-      - MISM@CMU: MISM@CMU.md
       - DS@Columbia: DS@Columbia.md
       - CSDA@Dartmouth: CSDA@Dartmouth.md
       - ECE@GaTech: ECE@GaTech.md
@@ -86,6 +85,7 @@ nav:
       - DS@UMich: DS@UMich.md
     - B+:
       - MSE-SS@CMU: MSE-SS@CMU.md
+      - MISM@CMU: MISM@CMU.md
       - MSCS@NYU Courant: MSCS@NYU Courant.md
       - MCS@Rice: MCS@Rice.md
       - MSc@SFU: MSc@SFU.md
@@ -93,7 +93,6 @@ nav:
       - MCS@UCI: MCS@UCI.md
       - CS28@USC: CS28@USC.md
       - CS-PMP@UWM: CS-PMP@UWM.md
-      - MSIM@CMU: MSIM@CMU.md
       - MSMITE@CMU: MSMITE@CMU.md
       - ECE MEng@Cornell: ECE MEng@Cornell.md
       - ECE@Duke: ECE@Duke.md
