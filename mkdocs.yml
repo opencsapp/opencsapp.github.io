@@ -1,6 +1,6 @@
 site_name: CS Masters Application
-site_author: '22fall EECS申请群'
-copyright: '&copy; 2022 EECS申请群'
+site_author: 'CS-Masters-Application'
+copyright: '&copy; 2022 CS-Masters-Application'
 theme:
   name: material
   custom_dir: overrides
