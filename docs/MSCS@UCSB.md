@@ -6,7 +6,7 @@
 
 ## 代表性dp
 
-【22fall】SCUT 89+ 方向有Prof.很match 一段实习，三段科研
+【22fall】SCUT 89+ 有方向很match的Prof. 一段实习，三段科研
 
 ## 网申备注
 
