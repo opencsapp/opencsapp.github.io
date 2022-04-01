@@ -6,6 +6,8 @@
 【22fall】SJTU 3.78/4.3 2篇infocom 3作录取
 
 【22fall】 ZJU 90分 一篇二作，一篇二作在投录取
+
+【22fall】SJTU 密院dd 两篇顶会二作在投 两篇一作非常普通不知名发表
 ## 网申备注
 不需要video essay，虽然挂靠在LTI但是MCDS admission committee并不会看video essay
 ## 项目特点
