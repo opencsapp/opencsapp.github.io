@@ -6,7 +6,9 @@
 
 ## 代表性dp
 
-【22fall】SCUT 3.8+/4 前3% 有方向很match的Prof. 一段实习，三段科研
+【22fall】THU 3.75(90.15/100) UCSB暑研
+
+【22fall】SCUT 3.8+/4 前3% 有方向很match的Prof. 一段实习，三段国内科研
 
 ## 网申备注
 
