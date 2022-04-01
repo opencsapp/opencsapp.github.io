@@ -11,4 +11,6 @@
 
 Portland Campus 22fall有tuition减免
 
+21fall在11月末起左右提交就会被发配Vancouver了。
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
