@@ -9,6 +9,8 @@
 
 【22fall】SJTU 密院dd 两篇顶会二作在投 两篇一作非常普通不知名发表 录取
 
+【22fall】THU 信院非cs，3.84/4.00， G323 T103，MSRA 8个月实习，一篇ML顶会二作在投 第二波录取
+
 ## 网申备注
 不需要video essay，虽然挂靠在LTI但是MCDS admission committee并不会看video essay
 
