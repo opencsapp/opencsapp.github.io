@@ -4,6 +4,8 @@
 
 ## 代表性dp
 
+【22fall】SCUT 89+ 方向有Prof.很match 一段实习，三段科研，ad带25%奖
+
 ## 网申备注
 
 portfolio重中之重，一定要认真准备
@@ -18,7 +20,7 @@ Code Sample要求："Something that shows your graphics coding skills, or some c
 
 ## 申请季实时信息
 
-开奖通常分两拨，一次是1月1开始算的第8周通知，一次是极少名额的wl转正
+开奖通常分两拨，一次是1月1开始算的第8周通知，一次是极少名额的wl转正(被wl的人很少，转正概率较大)
 
 a very competitive program, with a 10-15% acceptance rate
 
