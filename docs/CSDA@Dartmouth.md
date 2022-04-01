@@ -4,7 +4,7 @@
 
 ## 代表性dp
 
-【22fall】SCUT 89+ 方向有Prof.很match 一段实习，三段科研，ad带25%奖
+【22fall】SCUT 3.8+/4 前3% 有方向很match的Prof. 一段实习，三段科研
 
 ## 网申备注
 
