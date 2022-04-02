@@ -6,6 +6,8 @@
 【22fall】 SJTU CS系无ad，两人WL
 
 【21fall】 SJTU 环境90分转专业录取 有CS二专和近乎完整的先修课
+
+【21fall】 ECNU CS系3.8+，一科研一BAT实习+一外企实习
 ## 网申备注
 
 ## 项目特点
