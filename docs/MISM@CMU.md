@@ -9,6 +9,8 @@ Heinz是接受拼分的，四次还是五次以内。不用提交每次的成绩
 ## 项目特点
 不算特别科班的项目，转码的同学基本也会申请。分12-month，16-month（genral），bida and global（一年阿德莱德一年Pittsburg）。就业数据在官网可以查到，即使是无cpt的global path好像也是不错的。
 
+出路详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+
 ## 申请季实时信息
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
