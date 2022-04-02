@@ -5,6 +5,7 @@
 ## 网申备注
 
 ## 项目特点
+出路详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
 ## 申请季实时信息
 
