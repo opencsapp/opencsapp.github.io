@@ -10,9 +10,11 @@
 ## 网申备注
 
 ## 项目特点
-选课灵活，一些15的system课都有crosslist到ece的课号
+选课灵活，一些15的system课都有crosslist到ece的课号。需要关注21fall课改，之后选SCS课优先级较低
 
-需要关注21fall课改，之后选SCS课优先级较低
+出路详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+
 ## 申请季实时信息
 22fall坑位较少，大量defer到23spring。
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
