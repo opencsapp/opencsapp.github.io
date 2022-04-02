@@ -44,6 +44,7 @@ nav:
       - EE@Stanford: EE@Stanford.md
       - ICME@Stanford: ICME@Stanford.md
     - S:
+      - CS@Cornell Tech: CS@Cornell Tech.md
       - MCDS@CMU: MCDS@CMU.md
       - MIIS@CMU: MIIS@CMU.md
       - MSAII@CMU: MSAII@CMU.md
@@ -65,7 +66,6 @@ nav:
       - ScM CS@Brown: ScM CS@Brown.md
       - MSCS@Columbia: MSCS@Columbia.md
       - CM@Cornell Tech: CM@Cornell Tech.md
-      - CS@Cornell Tech: CS@Cornell Tech.md
       - MCS@UIUC: MCS@UIUC.md
       - MSCSE@UMich: MSCSE@UMich.md
       - MScAc@UofT: MScAc@UofT.md
