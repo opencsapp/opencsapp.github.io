@@ -2,6 +2,8 @@
 GRE严卡328，浙大友好
 ## 代表性dp
 【22fall】 ZJU 90+ GRE325被拒
+
+【22fall】 SCUT 3.9+ GRE329 ad
 ## 网申备注
 
 ## 项目特点
