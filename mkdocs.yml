@@ -14,10 +14,14 @@ theme:
   icon:
     repo: fontawesome/brands/github
 markdown_extensions:
+markdown_extensions:
   - meta
   - attr_list
   - md_in_html
   - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.emoji:
