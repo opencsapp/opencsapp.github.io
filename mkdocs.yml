@@ -96,6 +96,7 @@ nav:
       - CS-PMP@UWM: CS-PMP@UWM.md
       - MSMITE@CMU: MSMITE@CMU.md
       - ECE MEng@Cornell: ECE MEng@Cornell.md
+      - MPS-IS@Cornell: MPS-IS@Cornell.md
       - ECE@Duke: ECE@Duke.md
       - MEng@UCLA: MEng@UCLA.md
       - EC79@UCSD: EC79@UCSD.md
@@ -103,7 +104,6 @@ nav:
       - EC93@UCSD: EC93@UCSD.md
       - ECE Meng@UofT: ECE Meng@UofT.md
       - ECE Meng@Waterloo: ECE Meng@Waterloo.md
-      - MPS-IS@Cornell: MPS-IS@Cornell.md
     - B:
       - MSECS@JHU: MSECS@JHU.md
       - CS General@NEU: CS General@NEU.md
