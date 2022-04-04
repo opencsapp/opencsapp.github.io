@@ -10,10 +10,14 @@
 
 ## 项目特点
 
-workload非常非常大，往年基本都是1.5-2年毕业
+cggt workload非常非常大，往年基本都是1.5-2年毕业；upenn dual很容易，dual的话通常是3年毕业
 
-upenn dual很容易，dual的话通常是3年毕业
+21fall找工结果还可以：去Santa Monica studio、Nvidia、Apple、Waymo、R star的都有
 
 ## 申请季实时信息
+
+22fall offer holder群聚集很多喜欢图形学的人 :)
+
+占位费300刀
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
