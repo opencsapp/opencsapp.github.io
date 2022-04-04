@@ -1,6 +1,6 @@
 # 欢迎来到CS Masters Application Book
 
-本站内容由开源自发贡献产生, 欢迎根据[使用指南](使用指南.md)中的指引贡献内容
+本站内容开源自发贡献。根据[使用指南](使用指南.md)中的指引贡献内容或右上角给项目点个Star:star:就是对我们最大的支持！
 
 内容遵循[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/): Creative Commons Attribution-Noncommercial-ShareAlike协议
 
