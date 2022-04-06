@@ -48,7 +48,6 @@ nav:
       - EE@Stanford: EE@Stanford.md
       - ICME@Stanford: ICME@Stanford.md
     - S:
-      - CS Meng@Cornell Tech: CS Meng@Cornell Tech.md
       - MCDS@CMU: MCDS@CMU.md
       - MIIS@CMU: MIIS@CMU.md
       - MSAII@CMU: MSAII@CMU.md
@@ -60,6 +59,7 @@ nav:
       - DS@UPenn: DS@UPenn.md
     - A+:
       - EECS Meng@Berkeley: EECS Meng@Berkeley.md
+      - CS Meng@Cornell Tech: CS Meng@Cornell Tech.md
       - MSIN@CMU: MSIN@CMU.md
       - MSCS@Duke: MSCS@Duke.md
       - MSCS@GaTech: MSCS@GaTech.md
