@@ -8,6 +8,7 @@ GRE严卡328，浙大友好
 
 【22fall】 SCUT 3.9+ GRE329 ad
 
+【20fall】 top30 CS 3.8+ ad
 ## 网申备注
 
 ## 项目特点
