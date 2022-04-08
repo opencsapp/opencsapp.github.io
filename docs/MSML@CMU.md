@@ -11,6 +11,6 @@
 ML系下的Professional ML项目，出路详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
 ## 申请季实时信息
-22fall感觉bar有所降低，并不卡pub
+22fall感觉bar有所降低，并不卡pub。但项目每年人数大概<=40，所以bar在这一档的学校里是偏高的。
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
