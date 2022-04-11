@@ -2,7 +2,7 @@ site_name: CS Masters Application
 site_author: 'CS-Masters-Application'
 copyright: '&copy; 2022 CS-Masters-Application'
 theme:
-  favicon: images/favicon.svg
+  favicon: images/favicon_fa.png
   name: material
   custom_dir: overrides
   palette:
