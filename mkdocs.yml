@@ -2,9 +2,6 @@ site_name: CS Masters Application
 site_author: 'CS-Masters-Application'
 copyright: '&copy; 2022 CS-Masters-Application'
 theme:
-  icon:
-    logo: fontawesome/solid/building-columns
-  favicon: images/favicon_fa.png
   name: material
   custom_dir: overrides
   palette:
@@ -13,8 +10,9 @@ theme:
     - navigation.top
     - toc.follow
     - navigation.instant
-
+  favicon: images/school.svg
   icon:
+    logo: material/school
     repo: fontawesome/brands/github
 markdown_extensions:
 markdown_extensions:
