@@ -10,7 +10,7 @@ theme:
     - navigation.top
     - toc.follow
     - navigation.instant
-  favicon: https://github.com/squidfunk/mkdocs-material/raw/master/material/.icons/material/school.svg
+  favicon: images/logo.png
   icon:
     logo: material/school
     repo: fontawesome/brands/github
