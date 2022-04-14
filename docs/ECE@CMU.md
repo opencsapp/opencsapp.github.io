@@ -2,6 +2,8 @@
 
 有给fall申请人发spring offer的传统。
 
+关注文书，非绩点控。
+
 ## 代表性dp
 【23Spring】top30 3.8+102+325，无pub有大厂实习
 
