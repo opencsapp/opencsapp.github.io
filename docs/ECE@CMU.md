@@ -1,5 +1,7 @@
 ## 录取偏好
 
+有给fall申请人发spring offer的传统。
+
 ## 代表性dp
 【23Spring】top30 3.8+102+325，无pub有大厂实习
 
