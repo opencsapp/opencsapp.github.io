@@ -5,7 +5,7 @@
 ## 网申备注
 
 ## 项目特点
-class size小
+class size小，一年项目，可以延期
 ## 申请季实时信息
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
