@@ -1,4 +1,4 @@
-# CS选校之禅 | Zen of CS Maters Application
+# CS选校之禅 | Zen of CS Masters Application
 
 多方参考胜过相信权威
 
