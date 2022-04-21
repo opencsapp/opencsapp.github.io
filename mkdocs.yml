@@ -6,6 +6,7 @@ theme:
   custom_dir: overrides
   palette:
     primary: blue
+    accent: light blue
   features:
     - navigation.top
     - toc.follow
