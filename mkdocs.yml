@@ -83,6 +83,7 @@ nav:
       - CSE@GaTech: CSE@GaTech.md
       - MSCS@NWU: MSCS@NWU.md
       - MSCS@UCSB: MSCS@UCSB.md
+      - MSMITE@CMU: MSMITE@CMU.md
       - DS@Columbia: DS@Columbia.md
       - CSDA@Dartmouth: CSDA@Dartmouth.md
       - ECE@GaTech: ECE@GaTech.md
@@ -99,7 +100,6 @@ nav:
       - MCS@UCI: MCS@UCI.md
       - CS28@USC: CS28@USC.md
       - CS-PMP@UWM: CS-PMP@UWM.md
-      - MSMITE@CMU: MSMITE@CMU.md
       - ECE MEng@Cornell: ECE MEng@Cornell.md
       - MPS-IS@Cornell: MPS-IS@Cornell.md
       - ECE@Duke: ECE@Duke.md
