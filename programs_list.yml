@@ -75,6 +75,7 @@
       - MSE-SS@CMU
       - MISM@CMU
       - MSCS@NYU Courant
+      - MSCS@NYU Tandon
       - MCS@Rice
       - MSc@SFU
       - MCS@TAMU
@@ -91,7 +92,7 @@
     CS:
       - MSECS@JHU
       - CS General@NEU
-      - MSCS@NYU Tandon
+      - MSCS@UCSC
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
@@ -101,12 +102,12 @@
       - MSCSE@PSU
       - MSCS@UCD
       - NetSys@UCI
-      - MSCS@UCSC
       - MSCS@UF
       - MSCS@UMass
       - MSCS@UMN
       - MCS@UVa
       - MSCS@UVa
+      - MSCS@Rutgers
       - MSCS@WUSTL
     NONCS:
       - ECE@Duke-Kunshan
@@ -116,7 +117,6 @@
     CS:
       - MSCS@BU
       - MSCS@Emory
-      - MSCS@Rutgers
       - MSCS@SBU
       - MSCS@Tufts
       - MSCS@UTD
