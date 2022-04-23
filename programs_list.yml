@@ -2,7 +2,6 @@
     CS:
       - MSECS@Princeton
       - MSCS@Stanford
-      - MSCS@UT-Austin
     NONCS:
       - CSE@MIT
 - SS:
@@ -13,6 +12,7 @@
       - CS Meng@Cornell
       - MSCS@UCLA
       - MCIS@UPenn
+      - MSCS@UT-Austin
     NONCS:
       - CSE@Harvard
       - DS@Harvard
@@ -61,9 +61,11 @@
       - MSCS@NWU
       - MSCS@UCSB
     NONCS:
+      - EC79@UCSD
       - MSMITE@CMU
       - DS@Columbia
       - CSDA@Dartmouth
+      - ECE@Duke
       - ECE@GaTech
       - ECE Meng@UIUC
       - CGGT@UPenn
@@ -82,19 +84,17 @@
     NONCS:
       - ECE MEng@Cornell
       - MPS-IS@Cornell
-      - ECE@Duke
       - MEng@UCLA
-      - EC79@UCSD
       - EC82@UCSD
       - EC93@UCSD
-      - ECE Meng@UofT
-      - ECE Meng@Waterloo
 - B:
     CS:
       - MSECS@JHU
       - CS General@NEU
       - MSCS@NYU Tandon
     NONCS:
+      - ECE Meng@UofT
+      - ECE Meng@Waterloo
 - B-:
     CS:
       - MSCSE@OSU
