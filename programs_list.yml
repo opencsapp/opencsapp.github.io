@@ -26,25 +26,24 @@
       - MSCV@CMU
       - MSML@CMU
       - MSCS@UIUC
-      - MSCS@Yale
-      - EECS Meng@Berkeley
     NONCS:
       - MS&E@Stanford
       - DS@UPenn
 - A+:
     CS:
+      - MSCS@Yale
+      - EECS Meng@Berkeley
       - CS Meng@Cornell Tech
       - MSIN@CMU
       - MSCS@Duke
       - MSCS@GaTech
-      - CS75@UCSD
       - MMath-course@Waterloo
     NONCS:
       - ECE@UT Austin
 - A:
     CS:
+      - CS75@UCSD
       - ScM CS@Brown
-      - MSCS@Columbia
       - CM@Cornell Tech
       - MCS@UIUC
       - MSCSE@UMich
@@ -55,6 +54,7 @@
       - MDSAI@Waterloo
 - A-:
     CS:
+      - MSCS@Columbia
       - SESV@CMU
       - MSCS@Dartmouth
       - CSE@GaTech
