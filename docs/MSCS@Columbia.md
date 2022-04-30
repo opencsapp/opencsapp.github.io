@@ -14,6 +14,8 @@
 ## 项目特点
 东海岸大众情人项目，专排综排都很强，NYC location，class size大
 
+international student课程固定为4+4+2来上的
+
 ## 申请季实时信息
 21fall以来劝退贴不少，主要控诉class size太大以及career support不好。哥大老校长22年辞职，在任期间搞哥大教育产业化，导致综排很高，硕士class size太大，reputation不好。未来可能会缩招（存疑）
 
