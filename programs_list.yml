@@ -72,7 +72,6 @@
 - B+:
     CS:
       - MSE-SS@CMU
-      - MISM@CMU
       - MSCS@NYU Courant
       - MSCS@NYU Tandon
       - MCS@Rice
@@ -82,6 +81,7 @@
       - CS28@USC
       - CS-PMP@UWM
     NONCS:
+      - MISM@CMU
       - ECE MEng@Cornell
       - ECE Meng@UIUC
       - MPS-IS@Cornell
