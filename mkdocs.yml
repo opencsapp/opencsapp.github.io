@@ -31,6 +31,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
     - Home: index.md
+    - 内容征集: 内容征集.md
     - 使用指南: 使用指南.md
     - 选校梯度: 选校梯度.md
 $programs_list
