@@ -1,4 +1,4 @@
-# 欢迎来到CS Masters Application Book
+# 欢迎来到CS Masters Application
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![](https://img.shields.io/github/stars/CS-Masters-Application/CS-Masters-Application.github.io.svg)](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io/stargazers) [![](https://img.shields.io/github/forks/CS-Masters-Application/CS-Masters-Application.github.io.svg)](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io/network/members) [![](https://img.shields.io/github/commit-activity/y/CS-Masters-Application/CS-Masters-Application.github.io)](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io/graphs/commit-activity) [![](https://img.shields.io/badge/Application-CS%20Masters-9cf)](https://github.com/CS-Masters-Application/CS-Masters-Application.github.io)
 
