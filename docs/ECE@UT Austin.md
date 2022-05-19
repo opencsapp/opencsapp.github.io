@@ -10,4 +10,5 @@ SES track可以当做CS来上。class size很小，tech reputation好，2年项�
 22fall SES track陆本录取10+，DICE track地里未见录取
 
 22fall offer发的很晚，接近4.15
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
