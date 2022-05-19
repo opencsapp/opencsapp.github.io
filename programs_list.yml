@@ -122,6 +122,7 @@
       - MSCS@Tufts
       - MSCS@UTD
       - MSCS@Vanderbilt
+      - MengCS@VT
     NONCS:
       - IS@NEU
 - C:
@@ -130,6 +131,7 @@
       - MSCS@GWU
       - MSCS@SIT
     NONCS:
+      - IS@Pitt
 - 陆本黑洞:
     CS:
       - MSCS@Berkeley
