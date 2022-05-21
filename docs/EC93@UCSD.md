@@ -6,7 +6,7 @@
 ## 网申备注
 
 ## 项目特点
-UCSD ECE下最好的转码项目，每年有不少科班选手申请。项目名称为Computer Engineering。
+UCSD ECE MLDS项目，不可转入。
 
 ## 申请季实时信息
 
