@@ -6,7 +6,7 @@
 
 【22fall】 ZJU 90分 一篇二作，一篇二作在投录取
 
-【22fall】 HUST 86+(3.82绩点换算水) 一篇一作一篇二作在投录取 国一国二*1 BerkeleySummerSession 某AILab实习
+【22fall】 HUST 86+(3.82绩点换算水) 一篇一作一篇二作在投录取 国一国二*1 BerkeleySummerSession
 
 【22fall】 SEU 90.7(5%) 三段科研无论文
 
