@@ -13,6 +13,6 @@ GT因为开设线上课程有大量TA机会，经济适用之选；有coop，毕
 
 ## 申请季实时信息
 
-每年开奖都晚
+每年开奖都晚，并且没明确给decision ddl
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
