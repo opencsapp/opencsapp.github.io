@@ -19,4 +19,6 @@ international student课程固定为4+4+2来上的
 ## 申请季实时信息
 21fall以来劝退贴不少，主要控诉class size太大以及career support不好。哥大老校长22年辞职，在任期间搞哥大教育产业化，导致综排很高，硕士class size太大，reputation不好。未来可能会缩招（存疑）
 
+22fall缩招
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
