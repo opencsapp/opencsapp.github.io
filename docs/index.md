@@ -4,7 +4,7 @@
 
 本站内容开源协同创作，根据[内容征集](内容征集.md)中的指引贡献内容或右上角给项目点个Star:star:就是对我们最大的支持！
 
-欢迎加入[QQ群](https://jq.qq.com/?_wv=1027&k=Ikr0DObs)讨论，群号584637411
+欢迎加入社区讨论：[:fontawesome-brands-qq: QQ群：584637411](https://jq.qq.com/?_wv=1027&k=Ikr0DObs) | [:fontawesome-brands-discord: Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
 
