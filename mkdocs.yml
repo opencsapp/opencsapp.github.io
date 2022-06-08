@@ -5,6 +5,7 @@ theme:
   name: material
   custom_dir: overrides
   palette:
+  - scheme: default
     primary: blue
     accent: amber
   features:
