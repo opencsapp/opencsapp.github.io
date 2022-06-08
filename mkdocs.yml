@@ -51,5 +51,3 @@ extra:
 repo_url: https://github.com/CS-Masters-Application/CS-Masters-Application.github.io
 repo_name: CS-Masters-Application
 edit_uri: edit/master/docs/
-extra_css:
-  - stylesheets/extra.css
