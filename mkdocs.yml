@@ -49,6 +49,6 @@ extra:
   analytics:
     provider: google
     property: G-MWWFQ6MJG4
-repo_url: https://github.com/csmsapp/csmsapp.io
+repo_url: https://github.com/csmsapp/csmsapp.github.io
 repo_name: csmsapp
 edit_uri: edit/master/docs/
