@@ -1,6 +1,6 @@
 site_name: CS Masters Application
-site_author: 'CS-Masters-Application'
-copyright: '&copy; 2022 CS-Masters-Application'
+site_author: 'csmsapp'
+copyright: '&copy; 2022 csmsapp'
 theme:
   name: material
   custom_dir: overrides
@@ -49,6 +49,6 @@ extra:
   analytics:
     provider: google
     property: G-MWWFQ6MJG4
-repo_url: https://github.com/CS-Masters-Application/CS-Masters-Application.github.io
-repo_name: CS-Masters-Application
+repo_url: https://github.com/csmsapp/csmsapp.io
+repo_name: csmsapp
 edit_uri: edit/master/docs/
