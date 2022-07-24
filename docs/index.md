@@ -14,6 +14,8 @@
 
 <center><iframe width="100%" height="600" src="https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing?widget=true&amp;headers=false;rm=minimal&amp;single=true&amp"></iframe></center>
 
+[:fontawesome-solid-pen-to-square: 在Google Sheets中查看和编辑](#){ .md-button .md-button--primary }
+
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
