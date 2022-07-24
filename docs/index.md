@@ -12,7 +12,7 @@
 
 - [:fontawesome-brands-discord: Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
-<center><iframe width="100%" height="100%" src="https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing?widget=true&amp;headers=false;rm=minimal&amp;single=true&amp"></iframe></center>
+<center><iframe width="100%" height="500" src="https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing?widget=true&amp;headers=false;rm=minimal&amp;single=true&amp"></iframe></center>
 
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
 
