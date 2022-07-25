@@ -52,3 +52,5 @@ extra:
 repo_url: https://github.com/csmsapp/csmsapp.github.io
 repo_name: csmsapp
 edit_uri: edit/master/docs/
+extra_css:
+  - stylesheets/extra.css
