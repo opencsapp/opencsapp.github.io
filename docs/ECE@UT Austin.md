@@ -11,4 +11,6 @@ SES track可以当做CS来上。class size很小，tech reputation好，2年项�
 
 22fall offer发的很晚，接近4.15
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

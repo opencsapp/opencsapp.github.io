@@ -10,4 +10,6 @@
 ## 申请季实时信息
 tandon在20fall以前的bar应该是没有courant高的，在20-21fall左右持平甚至比courant还高。
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

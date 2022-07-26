@@ -17,4 +17,6 @@
 
 今年(22Fall)CS Align可以说是杀疯了，报的人特别多，拒的也特别多。达到qualify之后的录取非常随机，背景更好不会带来更高的录取率
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

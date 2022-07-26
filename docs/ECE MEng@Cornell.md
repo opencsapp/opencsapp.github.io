@@ -17,4 +17,6 @@ coop对于22fall来说已经不存在了，但是延期没有一点问题
 
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

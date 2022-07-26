@@ -23,4 +23,6 @@
 ## 申请季实时信息
 22fall坑位较少，大量defer到23spring。
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

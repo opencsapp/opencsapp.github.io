@@ -15,4 +15,6 @@
 ## 申请季实时信息
 bar一年比一年高，22fall左右很少看到3.5一下的被录取，也可能是没报。
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

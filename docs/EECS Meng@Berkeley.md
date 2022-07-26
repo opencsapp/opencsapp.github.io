@@ -18,4 +18,6 @@
 ## 申请季实时信息
 22fall入学听说比较难延期到1.5年，需要有academic purpose
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

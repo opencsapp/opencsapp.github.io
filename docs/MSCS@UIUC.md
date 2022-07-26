@@ -11,4 +11,6 @@
 ## 申请季实时信息
 2022fall有申请MSCS被邀请录取PhD的dp
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

@@ -21,4 +21,6 @@ international student课程固定为4+4+2来上的
 
 22fall缩招
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

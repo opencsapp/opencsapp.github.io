@@ -10,4 +10,6 @@
 出路详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

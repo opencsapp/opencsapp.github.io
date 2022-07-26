@@ -11,4 +11,6 @@
 
 22fall有同学误申了MSc之后申请转申MScAc，面试后录取
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

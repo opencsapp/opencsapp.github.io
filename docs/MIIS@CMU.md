@@ -17,4 +17,6 @@ NLP项目，录取看pub。录取非常diverse，甚至有数量可观的文转�
 LTI下的Professional NLP项目，MLE率还不错，转博率低，但有direct study保留了转博可能。有一定空间选非AI的CS课，SDE也是主要出路之一。详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

@@ -13,4 +13,6 @@ GPA狂魔，建议3.7+申请，高gpa t90+就够了
 
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

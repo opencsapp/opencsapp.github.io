@@ -9,4 +9,6 @@
 ## 申请季实时信息
 dp比较少，22fall没见到几个录取，考虑难度梯度升档
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

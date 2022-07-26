@@ -19,4 +19,6 @@ UofT录取看大三GPA，对陆本非常友好（指对北美校没有额外优�
 项目整体偏MLE，实习自己找SDE需要学校同意，听说操作不难。
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

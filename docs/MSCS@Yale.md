@@ -17,4 +17,6 @@ GRE严卡328，浙大友好
 ## 申请季实时信息
 22fall疫情年GRE要求仍然没有放松
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

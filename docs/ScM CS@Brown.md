@@ -14,4 +14,6 @@ MS严卡托福105
 ## 申请季实时信息
 22fall扩招中，需要关注class size相较之前变大
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

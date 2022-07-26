@@ -11,4 +11,6 @@ RI下的2年带thesis科研型硕士，转博率不错，出路详细参考[官�
 
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

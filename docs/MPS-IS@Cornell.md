@@ -16,4 +16,6 @@ CS背景和其它专业五五开，偏好有HCI经历/对HCI感兴趣的
 
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

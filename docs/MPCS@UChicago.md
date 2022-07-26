@@ -13,4 +13,6 @@ bar并不低，适合高GPA文转码，科班低GPA有实习可以尝试
 
 ## 申请季实时信息
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

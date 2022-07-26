@@ -26,4 +26,6 @@ Code Sample要求："Something that shows your graphics coding skills, or some c
 
 a very competitive program, with a 10-15% acceptance rate
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }

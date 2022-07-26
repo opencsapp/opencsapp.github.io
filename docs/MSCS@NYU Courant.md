@@ -12,4 +12,6 @@
 
 申请的不多，但tandon申请的很多，这两年tandon bar涨的飞快
 
+## 介绍帖
+
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
