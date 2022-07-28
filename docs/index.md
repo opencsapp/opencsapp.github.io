@@ -6,7 +6,7 @@
 
 欢迎加入社区讨论：
 
-- [:fontawesome-brands-qq: QQ①群：584637411](https://jq.qq.com/?_wv=1027&k=Ikr0DObs)
+- [:fontawesome-brands-qq: QQ①群：770878309](https://jq.qq.com/?_wv=1027&k=Bx7hEAfh)
 
 - [:fontawesome-brands-qq: QQ②群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
 
