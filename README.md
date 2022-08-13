@@ -7,7 +7,7 @@
 本站内容开源协同创作，根据[内容征集](内容征集.md)中的指引贡献内容或右上角给项目点个Star:star:就是对我们最大的支持！
 
 欢迎加入社区讨论：
-* [QQ①群[2000人]：770878309](https://jq.qq.com/?_wv=1027&k=Bx7hEAfh)
+* [QQ①群[1000人]：940054608](https://jq.qq.com/?_wv=1027&k=yAmXwWYl)
 * [QQ②群[500人]：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
 * [Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
