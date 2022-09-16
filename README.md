@@ -11,6 +11,8 @@
 * [QQ②群[500人]：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
 * [Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
+[![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date) 
+
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
