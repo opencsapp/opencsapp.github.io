@@ -6,9 +6,9 @@
 
 欢迎加入社区讨论：
 
-- [:fontawesome-brands-qq: QQ①群[1000人]：940054608](https://jq.qq.com/?_wv=1027&k=yAmXwWYl)
+- [:fontawesome-brands-qq: QQ①群：466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW)
 
-- [:fontawesome-brands-qq: QQ②群[500人]：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
+- [:fontawesome-brands-qq: QQ②群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
 
 - [:fontawesome-brands-discord: Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
