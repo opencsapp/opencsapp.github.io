@@ -3,6 +3,7 @@
 ## 代表性dp
 
 ## 网申备注
+不允许使用Interfolio Dossier提交推荐信。
 
 ## 项目特点
 西海岸top2，带Co-op，分cv和big data俩track，比较mle向

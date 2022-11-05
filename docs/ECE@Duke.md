@@ -3,6 +3,7 @@ Meng和MS的bar差不多
 ## 代表性dp
 
 ## 网申备注
+支持Interfolio
 
 ## 项目特点
 
