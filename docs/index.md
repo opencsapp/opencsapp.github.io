@@ -4,7 +4,7 @@
 
 本站内容开源协同创作，根据[内容征集](内容征集.md)中的指引贡献内容或右上角给项目点个Star:star:就是对我们最大的支持！
 
-网站域名[csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
+网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
 欢迎加入社区讨论：
 
