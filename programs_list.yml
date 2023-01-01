@@ -38,26 +38,26 @@
       - MSCS@Duke
       - MSCS@GaTech
       - MMath@Waterloo
+      - MSCSE@UMich
     NONCS:
+      - MDSAI@Waterloo
       - ECE@UT Austin
 - A:
     CS:
+      - SESV@CMU
+      - CSE@GaTech
       - CS75@UCSD
-      - ScM CS@Brown
       - CM@Cornell Tech
-      - MCS@UIUC
-      - MSCSE@UMich
     NONCS:
       - MScAc@UofT
       - ECE@CMU
       - ECE Meng@UBC
-      - MDSAI@Waterloo
 - A-:
     CS:
+      - ScM CS@Brown
+      - MCS@UIUC
       - MSCS@Columbia
-      - SESV@CMU
       - MSCS@Dartmouth
-      - CSE@GaTech
       - MSCS@NWU
       - MSCS@UCSB
     NONCS:
