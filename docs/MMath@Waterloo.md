@@ -7,7 +7,7 @@
 ## 项目特点
 class size小，大概一届20-30人。加拿大找工reputation非常好，湾区校友多，共用本科生的Co-op系统，也可以自己找。邻近Kitchener有Google Waterloo，最近要扩2k个hc。上3个term课，Co-op 2个term，学制灵活可延长做Co-op
 ## 申请季实时信息
-2022fallcourse based无陆本录取。（修正错误：23fall course based不再招生）
+2022fall course based无陆本录取。23fall course based取消，不再招生，可以关注waterloo ece meng (co-op)
 
 ## 介绍帖
 
