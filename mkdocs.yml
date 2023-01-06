@@ -10,7 +10,6 @@ theme:
     accent: amber
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.top
     - toc.follow
     - navigation.instant
