@@ -42,9 +42,8 @@ $programs_list
     - CS选校之禅: CS选校之禅.md
     - 贡献者: 贡献者.md
     - 赞赏计划: 赞赏计划.md
-  - DataPoints:
-    - dp汇总表: dp汇总表.md
-    - 提交新dp: 提交新dp.md
+  - DataPoints: DataPoints.md
+  - 提交DataPoints: 提交DataPoints.md
 extra:
   homepage: /选校梯度/
   social:
