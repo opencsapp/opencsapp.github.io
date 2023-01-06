@@ -9,6 +9,7 @@ theme:
     primary: blue
     accent: amber
   features:
+    - content.action.edit
     - navigation.tabs
     - navigation.top
     - toc.follow
