@@ -33,17 +33,17 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 nav:
-  - CS Masters Application:
+  CS Masters Application:
       - Home: index.md
       - 内容征集: 内容征集.md
       - 使用指南: 使用指南.md
       - 选校梯度: 选校梯度.md
-  $programs_list
+$programs_list
       - 外部链接: 外部链接.md
       - CS选校之禅: CS选校之禅.md
       - 贡献者: 贡献者.md
       - 赞赏计划: 赞赏计划.md
-  - DataPoints:
+  DataPoints:
       - dp汇总表: dp汇总表.md
       - 提交新dp: 提交新dp.md
 extra:
