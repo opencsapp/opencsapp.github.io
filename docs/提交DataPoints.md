@@ -1,5 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 ---
+# 提交DataPoints
