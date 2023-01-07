@@ -1,6 +1,6 @@
 site_name: CS Masters Application
 site_author: 'csmsapp'
-copyright: '&copy; 2022 csmsapp'
+copyright: '&copy; 2022-2023 csmsapp'
 theme:
   name: material
   custom_dir: overrides
