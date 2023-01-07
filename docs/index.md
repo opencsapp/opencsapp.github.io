@@ -6,6 +6,8 @@
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
+我们很高兴宣布新的[DataPoints&copy;](datapoints.md)，快来尝试吧！
+
 欢迎加入社区讨论：
 
 - [:fontawesome-brands-qq: QQ①群：466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW)
