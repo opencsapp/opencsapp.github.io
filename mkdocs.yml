@@ -43,9 +43,9 @@ $programs_list
     - CS选校之禅: CS选校之禅.md
     - 贡献者: 贡献者.md
     - 赞赏计划: 赞赏计划.md
-  - datapoints&copy: DataPoints.md
+  - DataPoints&copy: datapoints.md
   - 提交DataPoints:
-    - 提交指引: 提交DataPoints.md
+    - 提交指引: datapoints_submit.md
     - 申请者信息收集表: 申请者信息收集表.md
     - DataPoints收集表: DataPoints收集表.md
     - 提交新项目: 提交新项目.md
