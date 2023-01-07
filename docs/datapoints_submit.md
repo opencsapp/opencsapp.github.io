@@ -35,6 +35,10 @@ hide:
 
 您的信息已经实时汇总到了[DataPoints&copy;数据库](datapoints.md)
 
+### 为什么我在[DataPoints&copy;数据库](datapoints.md)中看到的账户都是乱码
+
+因为没有登录，登录后刷新即可看到昵称
+
 ### 你们提供的选项没有符合我背景的描述
 
 请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的需求，管理员会帮你处理。
