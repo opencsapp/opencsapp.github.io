@@ -16,10 +16,6 @@
 
 - [:fontawesome-brands-discord: Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
-<center><iframe width="100%" height="600" src="https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing?widget=true&amp;headers=false;rm=minimal&amp;single=true&amp"></iframe></center>
-
-[:fontawesome-solid-pen-to-square: 在Google Sheets中查看和编辑](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing){ .md-button .md-button--primary }
-
 [![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date) 
 
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
