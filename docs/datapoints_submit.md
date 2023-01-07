@@ -19,13 +19,9 @@ hide:
 
 请提交一个新的[申请者信息收集表](申请者信息收集表.md)，并在[DataPoints信息收集表](DataPoints收集表.md)中将之前的DataPoints链接到新的个人信息。我们会定期删除这些冗余的用户信息。
 
-### 我因为隐私问题想撤回我的DataPoints。
+### 为什么我无法通过微信扫码登录
 
-请在[DataPoints信息收集表](DataPoints收集表.md)中将之前的DataPoints删除即可。
-
-### 我因为隐私问题想撤回我的个人信息。
-
-请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的用户名，管理员会帮你处理。
+这是因为浏览器限制了重定向，请在地址栏右侧允许重定向之后再次尝试。或者也可以先[登录SeaTable](https://cloud.seatable.cn/)之后刷新该页面。
 
 ### 为什么我在[DataPoints信息收集表](DataPoints收集表.md)中填写完成之后，没有找到提交按钮
 
@@ -43,3 +39,10 @@ hide:
 
 请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的反馈，管理员会帮你处理。
 
+### 我因为隐私问题想撤回我的DataPoints。
+
+请在[DataPoints信息收集表](DataPoints收集表.md)中将之前的DataPoints删除即可。
+
+### 我因为隐私问题想撤回我的个人信息。
+
+请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的用户名，管理员会帮你处理。
