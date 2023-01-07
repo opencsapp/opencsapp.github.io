@@ -23,6 +23,10 @@ hide:
 
 这是因为浏览器限制了重定向，请在地址栏右侧允许重定向之后再次尝试。或者也可以先[登录SeaTable](https://cloud.seatable.cn/)之后刷新该页面。
 
+### 403 Forbidden. CSRF verification failed. Request aborted.
+
+这是因为CSRF cookie设置问题，请直接在表格下方找到 在SeaTable中填写 按钮，点击进入填写。
+
 ### 为什么我在[DataPoints信息收集表](DataPoints收集表.md)中填写完成之后，没有找到提交按钮
 
 [DataPoints信息收集表](DataPoints收集表.md)自动保存，无需提交
