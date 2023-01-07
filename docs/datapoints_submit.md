@@ -31,7 +31,7 @@ hide:
 
 您的信息已经实时汇总到了[DataPoints&copy;数据库](datapoints.md)
 
-### 你们提供的单选选项没有符合我背景的描述
+### 你们提供的选项没有符合我背景的描述
 
 请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的需求，管理员会帮你处理。
 
