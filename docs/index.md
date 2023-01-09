@@ -6,7 +6,11 @@
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
+## Insights
+
 我们很高兴宣布新的[DataPoints&copy;](datapoints.md)，快来尝试吧！
+
+[外部链接](外部链接.md)中收录了非常有用的工具网站，give it a try!
 
 欢迎加入社区讨论：
 
