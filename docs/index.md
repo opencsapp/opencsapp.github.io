@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # 欢迎来到CS Masters Application
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/stargazers) [![](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/network/members) [![](https://img.shields.io/github/commit-activity/y/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/graphs/commit-activity) [![](https://img.shields.io/badge/Application-CS%20Masters-9cf)](https://github.com/csmsapp/csmsapp.github.io)
