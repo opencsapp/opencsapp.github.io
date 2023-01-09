@@ -10,12 +10,6 @@ hide:
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
-## Insights
-
-我们很高兴宣布新的[DataPoints&copy;](datapoints.md)，快来尝试吧！
-
-[外部链接](外部链接.md)中收录了非常有用的工具网站，give it a try!
-
 欢迎加入社区讨论：
 
 - [:fontawesome-brands-qq: QQ①群：466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW)
@@ -23,6 +17,12 @@ hide:
 - [:fontawesome-brands-qq: QQ②群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
 
 - [:fontawesome-brands-discord: Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
+
+## Insights
+
+我们很高兴宣布新的[DataPoints&copy;](datapoints.md)，快来尝试吧！
+
+[外部链接](外部链接.md)中收录了非常有用的工具网站，give it a try!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date) 
 
