@@ -3,6 +3,7 @@
 
 ## 代表性dp
 【22fall】SJTU 密院dd RISS暑研 两篇顶会二作在投 录取
+【22fall】UCLA CS本 GPA4.0 一段robo相关research 录取
 
 ## 网申备注
 
