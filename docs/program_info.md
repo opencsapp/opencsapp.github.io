@@ -6,6 +6,6 @@ hide:
 
 # CS Masters Application 项目信息表
 
-<center><iframe width="100%" height="960" src="https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing?widget=true&amp;headers=false;rm=minimal&amp;single=true&amp"></iframe></center>
+<iframe className="dtable-embed" src="https://cloud.seatable.cn/dtable/links/e144437476754c23b4f5" frameBorder="0" width="100%" height="960" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-[:fontawesome-solid-pen-to-square: 在Google Sheets中查看和编辑](https://docs.google.com/spreadsheets/d/1-EB2sscgYKgyMF5sM5EVgYmQlo-Qf9YJ5ErlYAIbxy8/edit?usp=sharing){ .md-button .md-button--primary }
+[:fontawesome-solid-pen-to-square: 在SeaTable中查看和编辑](https://cloud.seatable.cn/dtable/links/e144437476754c23b4f5){ .md-button .md-button--primary }
