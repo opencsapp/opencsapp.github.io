@@ -9,6 +9,13 @@
 ### 托福成绩够100分了，但是口语不到20分，需要再刷吗？
 需要，根据往年Datapoints来看，口语低于20对申请有一定影响（扣分），且有一些学校硬卡口语小分，建议有时间再刷一刷。
 
+## 选校
+### 为什么加拿大授课项目大都是ECE Meng？
+因为加拿大的ECE/CS Master of (Applied) Science都是全奖研究型项目，不是为了上课招工设计的。这里不用care CS title的问题。
+
+### 美国有研究型硕士吗？
+有，但是很少，比如UIUC MSCS/CMU MLT/CMU MSR等，是少数的研究型硕士项目，一般可以争取到TA/RA奖。
+
 ## 网申
 
 ### 如果项目主页只给了Institute Code，没有给Department Code， 送分的时候应该如何选择？
