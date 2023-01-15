@@ -52,3 +52,9 @@
 这种情况主要分为三类，一些项目如NWU是每轮一个pool，可能造成不同轮次之间难度不同，这个需要根据往年datapoints进行tradeoff；另外也有像CMU MSIN这种项目，设置一个priority ddl，但是两轮材料是一起review的，priority round只是省了申请费，并不能帮助你更快地获得申请结果，也不能和后一轮的同学分开录取，学校这样做的目的是分流申请提交时间，给volunteer留下更多的时间进行材料的整理；还有一种情况类似于NEU CS的录取，其中隐形地分出了一些轮次，同时是rolling base的录取，交的太晚会导致没有available position，所以建议这种还是尽早提交。
 
 ## PhD申请
+
+### 哪些老师有招生资格？
+一般来讲tenure-track的老师都可以招生，同时如果你申请了某学校的CS PhD项目，可以关注其CS系的附属教师（共同任命），这些老师可能是ECE/Cognitive Science等等系的faculty，但是也可以在CS系招生。
+
+### 如何筛选POI？
+推荐几个方法，首先可以通过CSRankings进行初筛，非常快速方便，但是一个弊端是这种筛选只关注了论文数量，可能没有发现一些数量少质量高的POI；还有一种方式是从官方的faculty list中遍历，这种方式的好处是不会遗漏任何一个老师（除了少数刚来的AP），但是弊端是工作量非常大，很多学校的faculty list堪称噩梦，比如GaTech CoC，又长又没有老师的研究兴趣。在以上两种方式的基础上，可以通过另外两个辅助方式进行查漏补缺。分别是可以在Computer Science Professors/Twitter上查找新入职的AP；另外一个是可以使用Google搜索 学校如CMU + 你的研究兴趣如Natural Language Processing + site:github.io，这种方式可以很方便的搜到各个PhD学生的主页，看他们的研究兴趣就可以顺藤摸瓜找到他们的老板。上述这些网站都可以在[外部链接](外部链接.md)中找到。
