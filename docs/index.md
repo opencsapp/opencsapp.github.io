@@ -22,6 +22,8 @@ hide:
 
 我们很高兴宣布新的[DataPoints&copy;](datapoints.md)，快来尝试吧！
 
+[申请FAQ](faq.md)栏目中收集了一些群内大家常问的问题及解答，欢迎补充！
+
 [外部链接](外部链接.md)中收录了非常有用的工具网站，give it a try!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date) 
