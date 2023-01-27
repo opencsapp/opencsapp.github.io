@@ -9,6 +9,10 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Check source code
+        uses: actions/checkout@main
+      - name: AutoCorrect
+        uses: huacnlee/autocorrect-action@main
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
