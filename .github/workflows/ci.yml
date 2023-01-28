@@ -1,4 +1,4 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
@@ -11,11 +11,9 @@ jobs:
     steps:
       - name: Check source code
         uses: actions/checkout@v2
-      - name: AutoCorrect
-        uses: huacnlee/autocorrect-action@main
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material
       - run: python ./script.py
       - run: mkdocs gh-deploy --force
