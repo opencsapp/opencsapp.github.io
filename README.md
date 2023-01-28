@@ -7,11 +7,12 @@
 本站内容开源协同创作，根据[内容征集](https://csmsapp.org/%E5%86%85%E5%AE%B9%E5%BE%81%E9%9B%86/)中的指引贡献内容或右上角给项目点个 Star:star: 就是对我们最大的支持！
 
 欢迎加入社区讨论：
-* [QQ①群：466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW)
-* [QQ②群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
-* [Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date) 
+- [QQ① 群：466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW)
+- [QQ② 群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
+- [Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date)
 
 [![Stargazers repo roster for @csmsapp/csmsapp.github.io](https://reporoster.com/stars/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/stargazers)
 

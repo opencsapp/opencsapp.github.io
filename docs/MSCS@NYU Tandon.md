@@ -1,14 +1,16 @@
 ## 录取偏好
-倾向CS科班出身，高绩点选手。
 
-## 代表性dp
+倾向 CS 科班出身，高绩点选手。
+
+## 代表性 dp
 
 ## 网申备注
 
 ## 项目特点
 
 ## 申请季实时信息
-tandon在20fall以前的bar应该是没有courant高的，在20-21fall左右持平甚至比courant还高。
+
+tandon 在 20fall 以前的 bar 应该是没有 courant 高的，在 20-21fall 左右持平甚至比 courant 还高。
 
 ## 介绍帖
 

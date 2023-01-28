@@ -1,6 +1,8 @@
 ## 录取偏好
-比较看重背景是否match，并不传统搞CS的，喜欢录取computational+X的背景
-## 代表性dp
+
+比较看重背景是否 match，并不传统搞 CS 的，喜欢录取 computational+X 的背景
+
+## 代表性 dp
 
 ## 网申备注
 

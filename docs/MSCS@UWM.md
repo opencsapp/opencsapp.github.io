@@ -1,7 +1,11 @@
 ## 录取偏好
+
 CS Under Major@US University
-## 代表性dp
+
+## 代表性 dp
+
 AT Least GPA 3.8+
+
 ## 网申备注
 
 ## 项目特点

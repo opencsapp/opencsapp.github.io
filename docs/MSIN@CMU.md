@@ -1,17 +1,20 @@
 ## 录取偏好
 
-录取非常玄学，看文书match程度
+录取非常玄学，看文书 match 程度
 
-## 代表性dp
-【22fall】 SJTU CS系无ad，两人WL
+## 代表性 dp
 
-【21fall】 SJTU 环境90分转专业录取 有CS二专和近乎完整的先修课
+【22fall】SJTU CS 系无 ad，两人 WL
 
-【21fall】 ECNU CS系3.8+，一科研一BAT实习+一外企实习
+【21fall】SJTU 环境 90 分转专业录取 有 CS 二专和近乎完整的先修课
+
+【21fall】ECNU CS 系 3.8+，一科研一 BAT 实习 + 一外企实习
+
 ## 网申备注
 
 ## 项目特点
-出路详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+
+出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
 ## 申请季实时信息
 
