@@ -1,12 +1,17 @@
 ## 录取偏好
-可以当做PhD申请
-## 代表性dp
-【22fall】 SJTU 89分ACL findings+EMNLP两篇共一发表，1篇ACL一作在投，1篇ICLR一作在投录
+
+可以当做 PhD 申请
+
+## 代表性 dp
+
+【22fall】SJTU 89 分 ACL findings+EMNLP 两篇共一发表，1 篇 ACL 一作在投，1 篇 ICLR 一作在投录
 
 ## 网申备注
 
 ## 项目特点
-2年带thesis科研型硕士，转博率不错，详细参考[官方dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+
+2 年带 thesis 科研型硕士，转博率不错，详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+
 ## 申请季实时信息
 
 ## 介绍帖

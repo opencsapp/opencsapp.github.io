@@ -1,11 +1,14 @@
 ## 录取偏好
-比较喜欢录取有创业想法的同学，文书与面试尽量往enterpreneurship上面靠
+
+比较喜欢录取有创业想法的同学，文书与面试尽量往 enterpreneurship 上面靠
 
 转码较友好
-## 代表性dp
+
+## 代表性 dp
 
 ## 网申备注
-支持Interfolio
+
+支持 Interfolio
 
 ## 项目特点
 

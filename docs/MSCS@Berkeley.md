@@ -1,11 +1,15 @@
 ## 录取偏好
+
 不招收外校学生
-## 代表性dp
+
+## 代表性 dp
 
 ## 网申备注
 
 ## 项目特点
-本校本科生的5th-year master's program
+
+本校本科生的 5th-year master's program
+
 ## 申请季实时信息
 
 ## 介绍帖
