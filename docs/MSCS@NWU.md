@@ -14,6 +14,8 @@
 
 ## 申请季实时信息
 
+【23fall】在第一轮录取中, 根据地里的消息, 陆本全被拒。
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
