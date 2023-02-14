@@ -14,4 +14,4 @@
 
 读研只是方法；读研并非目的
 
-by [Flash](https://xichenpan.com/)
+by [Flash](https://github.com/Flash-321)
