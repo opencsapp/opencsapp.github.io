@@ -15,6 +15,10 @@ hide:
 
 # FAQ
 
+### 如何保证我提交的datapoints会开源而非被owner用于收费访问获利？
+
+[DataPoints&copy;数据库](datapoints.md)是完全开源的，任何用户均可点击右上角导出全部数据，这保证DataPoints&copy;中的信息不会被私人垄断。我们欢迎任何个人或团体在[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)条款下分享或构建材料，只需遵守条款的Attribution, NonCommercial, ShareAlike规则即可。
+
 ### 我通过申请者信息收集表提交了个人信息，现在想要更改其中某些信息，应当如何操作
 
 请提交一个新的[申请者信息收集表](申请者信息收集表.md)，并在[DataPoints 收集表](DataPoints收集表.md)中将之前的 DataPoints 链接到新的个人信息。我们会定期删除这些冗余的用户信息。
