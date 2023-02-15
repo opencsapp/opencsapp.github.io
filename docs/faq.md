@@ -2,6 +2,28 @@
 
 欢迎评论区提问，管理员会回答后编入本文档
 
+## 常用词缩写 (Random Order)
+
+dp: datapoints
+AD: Admission
+Rej: Rejection
+PoI: Professor of Interest
+LoR: Letter of Recommendation
+Pub: Publication
+ap: assistant professor
+ao: admission officer
+vo: visa officer
+com/comm: committee
+IRCC: Immigration, Refugees and Citizenship Canada
+SDE: Software Development Engineer
+MLE: Machine Learning Engineer
+RS: Research Scientist
+DS: Data Science
+MS: Master of Science
+ScM: Science Master
+MPhil: Master of Philosophy
+DPhil: Doctor of Philosophy
+
 ## 背景
 
 ### 我目前大二，想要考 TOEFL，在申请的时候有效吗？
