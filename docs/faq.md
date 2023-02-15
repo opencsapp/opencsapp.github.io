@@ -134,6 +134,14 @@ I20: 接offer之后学校签发的文件，用于办签证
 
 是考察口语水平，可以参考这个[Quora 回答](https://qr.ae/prYfVB)
 
+### 双盲的在投论文可以写进CV里吗？
+
+可以参考Author Guideline，大部分AI Conference都只要求不主动宣传即可，作为申请材料是完全OK的，如果有Arxiv preprint也可以把链接放进CV。其他领域可能会严格一些，可以使用伪标题，写明Under Review，authorship写成1st author publication这种即可。
+
+### 如何更新新的实习/科研/论文？
+
+PhD申请随时可以和POI update，对于MS，大部分学校是不支持update的，有一些学校可以通过portal update，比如Yale，CMU SCS（仅限论文）。没有写明的可以和小秘发邮件，问一下是否可以帮忙update CV即可。
+
 ## 录取
 
 ### 某些学校有几轮申请，有什么区别，我应该申哪一轮？
