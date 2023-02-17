@@ -13,6 +13,8 @@ hide:
 4. 进展的提交可以在[Progress 收集表](Progress收集表.md)中进行，操作与 DataPoints 相同
 5. 对于没有在数据库中录入的项目，通过[添加新项目](添加新项目.md)进行添加后，即可在项目字段中找到。
 
+ [:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary }
+
 # FAQ
 
 ### 如何保证我提交的datapoints会开源而非被owner用于收费访问获利？
