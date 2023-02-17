@@ -5,9 +5,9 @@ hide:
 
 # DataPoints&copy;提交
 
-[:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary }
-
 [:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](DataPoints收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](Progress收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](申请者信息收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](添加新项目.md){ .md-button }
+
+[:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary }
 
 # 如何提交
 
