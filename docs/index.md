@@ -21,7 +21,7 @@ hide:
 
 ## Insights
 
-我们很高兴宣布[DataPoints&copy;](datapoints.md)，快来尝试吧！期待大家[提交新的DataPoints](datapoints_submit.md)
+我们很高兴宣布[DataPoints&copy;](datapoints.md)，快来尝试吧！期待大家[提交新的 DataPoints](datapoints_submit.md)
 
 [申请 FAQ](faq.md)栏目中收集了一些群内大家常问的问题及解答，欢迎补充！
 
