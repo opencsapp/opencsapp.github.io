@@ -5,6 +5,8 @@ hide:
 
 # DataPoints&copy;提交
 
+[:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary } [:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](DataPoints收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](Progress收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](申请者信息收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](添加新项目.md){ .md-button }
+
 # 如何提交
 
 1. [DataPoints&copy;数据库](datapoints.md)是一个只读的数据表，对应的 DataPoints，Progress，申请者信息，项目列表四个子表的更改请通过[DataPoints 收集表](DataPoints收集表.md)，[Progress 收集表](Progress收集表.md)，[申请者信息收集表](申请者信息收集表.md)，[添加新项目](添加新项目.md)进行。
@@ -12,8 +14,6 @@ hide:
 3. 然后在[DataPoints 收集表](DataPoints收集表.md)中提交录取 DataPoints，填写过程中可以通过申请者字段链接到自己的账户，并关联以上填写的个人信息。DataPoints 支持无限次更改
 4. 进展的提交可以在[Progress 收集表](Progress收集表.md)中进行，操作与 DataPoints 相同
 5. 对于没有在数据库中录入的项目，通过[添加新项目](添加新项目.md)进行添加后，即可在项目字段中找到。
-
- [:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary } [:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](DataPoints收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](Progress收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](申请者信息收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](添加新项目.md){ .md-button }
 
 # FAQ
 
