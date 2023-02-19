@@ -4,7 +4,7 @@
 
 ## 如何提交DataPoints
 
-请按照[DataPoints&copy提交](submit.md)中的指引进行操作
+请按照[DataPoints&copy;提交](submit.md)中的指引进行操作
 
 ## 如何贡献内容
 
