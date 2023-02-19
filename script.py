@@ -35,7 +35,7 @@ if __name__ == "__main__":
         mkdocs_origin = f.read()
     with open('mkdocs.yml', 'w', encoding="utf-8") as f:
         f.write(mkdocs_origin.replace('$programs_list', mkdocs_content.replace('- ', '    - ')))
-    with open('./docs/选校梯度.md', 'r', encoding="utf-8") as f:
+    with open('./docs/grade.md', 'r', encoding="utf-8") as f:
         docs_origin = f.read()
-    with open('./docs/选校梯度.md', 'w', encoding="utf-8") as f:
+    with open('./docs/grade.md', 'w', encoding="utf-8") as f:
         f.write(docs_origin.replace('$programs_list', ''.join(docs_content)))
