@@ -40,6 +40,18 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
    ![](images/6.png)
 
+### 通过[QQ 群](https://jq.qq.com/?_wv=1027&k=Ikr0DObs)手动更新
+
+1. 点击想要更改的页面右上角的编辑图标（铅笔形状）
+
+2. 复制文档内容到本地进行更改
+
+3. 群中@群主和管理员提供你更改后的文档
+
+### 评论区
+
+欢迎在评论区讨论，维护者会精选信息编入 pages
+
 ## 如何更新梯度
 
 请直接点击更新[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)，并进行PR
@@ -76,15 +88,3 @@ Blog内容和格式不限，以经验分享为主，建议包括个人基本情�
 [回到列表 :fontawesome-solid-house:](blog.md){ .md-button }
 
 ```
-
-### 通过[QQ 群](https://jq.qq.com/?_wv=1027&k=Ikr0DObs)手动更新
-
-1. 点击想要更改的页面右上角的编辑图标（铅笔形状）
-
-2. 复制文档内容到本地进行更改
-
-3. 群中@群主和管理员提供你更改后的文档
-
-### 评论区
-
-欢迎在评论区讨论，维护者会精选信息编入 pages
