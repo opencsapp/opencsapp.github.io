@@ -34,7 +34,7 @@ if __name__ == "__main__":
     with open('mkdocs.yml', 'r', encoding="utf-8") as f:
         mkdocs_origin = f.read()
     with open('mkdocs.yml', 'w', encoding="utf-8") as f:
-        f.write(mkdocs_origin.replace('$programs_list', mkdocs_content.replace('\n', '\n    ')))
+        f.write(mkdocs_origin.replace('$programs_list', mkdocs_content.replace('- ', '    - ')))
     with open('./docs/grade.md', 'r', encoding="utf-8") as f:
         docs_origin = f.read()
     with open('./docs/grade.md', 'w', encoding="utf-8") as f:
@@ -51,7 +51,7 @@ if __name__ == "__main__":
     with open('mkdocs.yml', 'r', encoding="utf-8") as f:
         mkdocs_origin = f.read()
     with open('mkdocs.yml', 'w', encoding="utf-8") as f:
-        f.write(mkdocs_origin.replace('$blogs_list', mkdocs_content.replace('\n', '\n      ')))
+        f.write(mkdocs_origin.replace('$blogs_list', mkdocs_content.replace('- ', '      - ')))
     with open('./docs/blog.md', 'r', encoding="utf-8") as f:
         docs_origin = f.read()
     with open('./docs/blog.md', 'w', encoding="utf-8") as f:
