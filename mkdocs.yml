@@ -14,11 +14,12 @@ theme:
     - navigation.top
     - toc.follow
     - navigation.instant
+    - search.highlight
   favicon: images/logo.png
   icon:
     logo: material/school
     repo: fontawesome/brands/github
-markdown_extensions:
+
 markdown_extensions:
   - meta
   - attr_list
@@ -28,7 +29,11 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
