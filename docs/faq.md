@@ -48,6 +48,10 @@ deposit: 入学前的押金
 
 I20: 接offer之后学校签发的文件，用于办签证
 
+bar: 准入门槛，指录取难度
+
+co-op: Cooperative education，学期内官方带薪实习。
+
 ## 背景
 
 ### 我目前大二，想要考 TOEFL，在申请的时候有效吗？
