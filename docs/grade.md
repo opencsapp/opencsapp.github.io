@@ -1,5 +1,5 @@
 !!! note "用法"
-       1. 请先阅读[使用指南](使用指南.md)
+       1. 请先阅读[使用指南](guide.md)
        2. 斜体代表非CS title项目
        3. 点击项目名即可进入项目详情页
        4. [:book: 选校梯度历史记录](https://githistory.xyz/csmsapp/csmsapp.github.io/blob/master/programs_list.yml)
