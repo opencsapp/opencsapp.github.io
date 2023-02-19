@@ -10,10 +10,11 @@ theme:
     accent: amber
   features:
     - content.action.edit
+    - content.code.copy
     - navigation.tabs
     - navigation.top
-    - toc.follow
     - navigation.instant
+    - toc.follow
     - search.highlight
   favicon: images/logo.png
   icon:
