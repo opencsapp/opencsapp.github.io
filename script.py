@@ -52,7 +52,7 @@ if __name__ == "__main__":
         mkdocs_origin = f.read()
     with open('mkdocs.yml', 'w', encoding="utf-8") as f:
         f.write(mkdocs_origin.replace('$blogs_list', mkdocs_content.replace('\n', '\n      ')))
-    with open('./docs/blogs.md', 'r', encoding="utf-8") as f:
+    with open('./docs/blog.md', 'r', encoding="utf-8") as f:
         docs_origin = f.read()
-    with open('./docs/blogs.md', 'w', encoding="utf-8") as f:
+    with open('./docs/blog.md', 'w', encoding="utf-8") as f:
         f.write(docs_origin.replace('$blogs_list', ''.join(docs_content)))
