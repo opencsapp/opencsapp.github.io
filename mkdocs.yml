@@ -40,7 +40,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins:
-  - glightbox
+  - glightbox:
       loop: true
 
 nav:
