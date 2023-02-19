@@ -41,7 +41,7 @@ nav:
 $programs_list
     - 经验分享:
       - 索引: blog.md
-$blogs
+$blogs_list
     - 申请FAQ: faq.md
     - 外部链接: link.md
     - CS选校之禅: zen.md
