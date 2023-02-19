@@ -46,9 +46,9 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
 ## 如何添加新项目
 
-首先点击[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)添加新项目。然后拷贝以下项目模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与选校梯度中一致，完成内容填写后PR即可。
+首先点击[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)添加新项目。然后拷贝以下项目模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)中一致，完成内容填写后PR即可。
 
-``` markdown title="新项目模板"
+``` markdown title="项目模板"
 ## 录取偏好
 
 ## 代表性 dp
@@ -67,7 +67,15 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
 ## 如何添加Blog
 
-Blog内容和格式不限，以经验分享为主，建议包括个人基本情况和录取结果。首先点击[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)添加新Blog。然后[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与Blog列表中一致，进行内容填写后PR即可。
+Blog内容和格式不限，以经验分享为主，建议包括个人基本情况和录取结果。首先点击[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)添加新Blog。然后拷贝以下Blog模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml中一致，进行内容填写后PR即可。
+
+``` markdown title="Blog模板"
+
+***Write in Here***
+
+[回到列表 :fontawesome-solid-house:](blog.md){ .md-button }
+
+```
 
 ### 通过[QQ 群](https://jq.qq.com/?_wv=1027&k=Ikr0DObs)手动更新
 
