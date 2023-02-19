@@ -42,6 +42,7 @@ markdown_extensions:
 plugins:
   - glightbox:
       loop: true
+      zoomable: true
 
 nav:
   - CS Masters Application:
