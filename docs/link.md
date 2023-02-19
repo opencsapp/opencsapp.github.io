@@ -14,7 +14,7 @@ CSRankings 根据 dblp 中收录顶会论文数量进行排名
 
 ### [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 
-CS Open Rankings 是结合了 U.S. News, csrankings.org, placement rank,best paper awards 进行的综合排名
+CS Open Rankings 是结合了 U.S. News, csrankings.org, placement rank, best paper awards 进行的综合排名
 
 ### [Computer Science Professors](https://drafty.cs.brown.edu/csprofessors?src=csopendata)
 
@@ -53,3 +53,7 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 ### [华中科技大学光电飞跃手册](https://hust-feiyue.github.io/)
 
 ### [华科生存手册 (Under Construction)](https://1037survival.gitbook.io/)
+
+### [四川大学计软网生存手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
+
+### [四川大学飞跃手册](http://scu-flying.com/)
