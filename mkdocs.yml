@@ -39,6 +39,9 @@ nav:
     - 使用指南: guide.md
     - 选校梯度: grade.md
 $programs_list
+    - 经验分享:
+      - 索引: blog.md
+$blogs
     - 申请FAQ: faq.md
     - 外部链接: link.md
     - CS选校之禅: zen.md
