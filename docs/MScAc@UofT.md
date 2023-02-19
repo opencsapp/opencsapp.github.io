@@ -28,4 +28,4 @@ UofT 录取看大三 GPA，对陆本非常友好（指对北美校没有额外�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

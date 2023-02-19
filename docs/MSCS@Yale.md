@@ -26,4 +26,4 @@ GRE 严卡 328，浙大友好
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -21,4 +21,4 @@ waterloo 本科+GPA3.9+2 年实习经验
 
 ---
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

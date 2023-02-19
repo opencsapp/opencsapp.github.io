@@ -18,4 +18,4 @@ SES track 可以当做 CS 来上。class size 很小，tech reputation 好，2 �
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -20,4 +20,4 @@ Portland Campus 22fall 有 tuition 减免
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

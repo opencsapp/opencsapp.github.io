@@ -17,4 +17,4 @@ RI 下的 2 年带 thesis 科研型硕士，转博率不错，出路详细参考
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

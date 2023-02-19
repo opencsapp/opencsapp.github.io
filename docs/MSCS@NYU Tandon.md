@@ -14,4 +14,4 @@ tandon 在 20fall 以前的 bar 应该是没有 courant 高的，在 20-21fall �
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

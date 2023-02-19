@@ -34,4 +34,4 @@ reddit 有人提到 22fall MS CSE 有 6k+申请者且缩招，历史上最多申
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

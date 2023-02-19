@@ -24,4 +24,4 @@ SCS 就业旗舰项目，毕业后大部分大厂 SDE，出路详细参考[官�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -18,4 +18,4 @@ CS 背景和其它专业五五开，偏好有 HCI 经历/对 HCI 感兴趣的
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -19,4 +19,4 @@ CSE 不是计算机科学与工程，而是计算科学与工程（和应用数�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -18,4 +18,4 @@ RI 下的 Professional CV 项目，MLE 率还不错，转博率低，SDE 也是�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

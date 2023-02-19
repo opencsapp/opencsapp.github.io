@@ -19,4 +19,4 @@ https://cdn.lukerr.com/nyu/tandon.html 2020Fall Tandon 录取报告包括（CS/C
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

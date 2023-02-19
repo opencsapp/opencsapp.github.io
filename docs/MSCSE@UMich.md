@@ -14,4 +14,4 @@ dp 比较少，22fall 没见到几个录取，考虑难度梯度升档
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

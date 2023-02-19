@@ -20,4 +20,4 @@ GT 因为开设线上课程有大量 TA 机会，经济适用之选；有 coop�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -19,4 +19,4 @@ coop 对于 22fall 来说已经不存在了，但是延期没有一点问题
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

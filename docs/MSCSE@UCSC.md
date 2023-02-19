@@ -12,4 +12,4 @@ loc 很好，离 SV 非常近。学校在森林里
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

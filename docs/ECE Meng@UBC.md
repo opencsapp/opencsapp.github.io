@@ -26,4 +26,4 @@ Academic IELTS requirements: Total of 7/9 with a minimum score of 6.0 in each co
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

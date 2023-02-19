@@ -20,4 +20,4 @@ Heinz 是接受拼分的，四次还是五次以内。不用提交每次的成�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

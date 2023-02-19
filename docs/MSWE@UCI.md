@@ -22,4 +22,4 @@ bar 一年比一年高，22fall 左右很少看到 3.5 一下的被录取，也�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

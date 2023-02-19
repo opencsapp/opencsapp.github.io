@@ -16,4 +16,4 @@ MEng 比 MS 多两门管理课，可互转，可以全软课毕业，上岸率�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

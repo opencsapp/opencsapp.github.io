@@ -16,4 +16,4 @@ class size 小，不内卷。据说有休斯顿当地小厂托底，找工情况
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

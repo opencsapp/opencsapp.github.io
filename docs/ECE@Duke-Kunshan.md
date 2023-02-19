@@ -18,4 +18,4 @@
 ## 介绍帖
 
 22fall 的提前批喜欢收高均分选手，985/中外合办 3.7/3.8 基本是提前批的 bar。
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

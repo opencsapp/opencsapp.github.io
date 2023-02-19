@@ -18,4 +18,4 @@ class size 小，大概一届 20-30 人。加拿大找工 reputation 非常好�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

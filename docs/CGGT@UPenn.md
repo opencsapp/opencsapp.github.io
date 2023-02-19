@@ -22,4 +22,4 @@ cggt workload 非常非常大，往年基本都是 1.5-2 年毕业；upenn dual 
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

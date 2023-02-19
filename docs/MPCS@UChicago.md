@@ -16,4 +16,4 @@ bar 并不低，适合高 GPA 文转码，科班低 GPA 有实习可以尝试
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

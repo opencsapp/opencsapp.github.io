@@ -18,4 +18,4 @@ ML 系下的 Professional ML 项目，出路详细参考[官方 dashboard](https
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

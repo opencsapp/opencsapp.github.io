@@ -12,4 +12,4 @@ UCSD ECE 下最好的转码项目，每年有不少科班选手申请，项目�
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -24,4 +24,4 @@ LTI 下的 Professional NLP 项目，MLE 率还不错，转博率低，但有 di
 
 ## 介绍帖
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
