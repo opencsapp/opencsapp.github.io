@@ -46,6 +46,8 @@ decline/accept: 拒绝/接受offer
 
 deposit: 入学前的押金
 
+Cong: Congratulations
+
 I20: 接offer之后学校签发的文件，用于办签证
 
 bar: 准入门槛，指录取难度
