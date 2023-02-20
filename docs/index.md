@@ -21,7 +21,7 @@ hide:
 
 ## Insights
 
-很高兴介绍我们的新[经验介绍](blog.md)版块，欢迎投稿！
+很高兴介绍我们的[经验介绍](blog.md)版块，欢迎投稿！
 
 [DataPoints&copy;](datapoints.md)提供了录取结果实时播报，快来尝试吧！期待大家[提交新的 DataPoints](datapoints_submit.md)
 
