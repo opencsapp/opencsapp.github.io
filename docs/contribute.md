@@ -79,7 +79,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
 ## 如何添加Blog
 
-Blog内容和格式不限，以经验分享为主，建议包括个人基本情况和录取结果。首先点击[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)添加新Blog。然后拷贝以下Blog模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml中一致，进行内容填写后PR即可。
+Blog内容和格式不限，以经验分享为主，建议包括个人基本情况和录取结果。首先点击[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)添加新Blog。然后拷贝以下Blog模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)中一致，进行内容填写后PR即可。
 
 ``` markdown title="Blog模板"
 
