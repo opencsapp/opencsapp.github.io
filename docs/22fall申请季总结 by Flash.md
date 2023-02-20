@@ -130,3 +130,5 @@ GRE 152+169+3.5
 关于申请过程中的信息素养，21fallSJTU的学长有一篇很好的帖子，大家可以去参考https://www.1point3acres.com/bbs/thread-761193-1-1.html
 
 PhD会做Multimodal & knowledge，欢迎同道多多交流！！
+
+[回到列表 :fontawesome-solid-house:](blog.md){ .md-button }
