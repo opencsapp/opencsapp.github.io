@@ -84,8 +84,11 @@ GRE 152+169+3.5
 #### 选校+Results
 
 彩票：<span style="color:green">Waterloo CS PhD(offer); Austin ECE-SES(ad); UIUC MCS(ad); UToronto MScAc(ad);</span> <span style="color:red">Berkeley EECS Meng(rej); CMU MIIS(rej)/MSAII(rej); GaTech MSCS(rej); UPenn CIS(rej); Yale MSCS(rej)</span>
+
 冲刺：<span style="color:green">Brown MSCS(ad);</span> <span style="color:red">GaTech CSE(CoC)(rej); CMU ECE/SESV(rej); CMU MSIN(rej); UMich CSE(rej); UCSD CS75(rej); McGill MSc(rej)</span>
+
 主申：<span style="color:green">UCLA Meng(ad); UCSD EC79(ad)</span>
+
 保底：<span style="color:green">NEU Seattle MSCS(ad); Tandon MSCS(ad)</span>
 
 ## 申请季的故事
