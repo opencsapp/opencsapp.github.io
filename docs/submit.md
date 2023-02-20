@@ -5,17 +5,17 @@ hide:
 
 # DataPoints&copy;提交
 
-[:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](DataPoints收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](Progress收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](申请者信息收集表.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](添加新项目.md){ .md-button }
+[:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](newdatapoints.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](newprogress.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](newapplicant.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](newprogram.md){ .md-button }
 
 [:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary }
 
 # 如何提交
 
-1. [DataPoints&copy;数据库](datapoints.md)是一个只读的数据表，对应的 DataPoints，Progress，申请者信息，项目列表四个子表的更改请通过[DataPoints 收集表](DataPoints收集表.md)，[Progress 收集表](Progress收集表.md)，[申请者信息收集表](申请者信息收集表.md)，[添加新项目](添加新项目.md)进行。
-2. 首先在[申请者信息收集表](申请者信息收集表.md)中提交自己的个人信息（仅需一次，不可更改）
-3. 然后在[DataPoints 收集表](DataPoints收集表.md)中提交录取 DataPoints，填写过程中可以通过申请者字段链接到自己的账户，并关联以上填写的个人信息。DataPoints 支持无限次更改
-4. 进展的提交可以在[Progress 收集表](Progress收集表.md)中进行，操作与 DataPoints 相同
-5. 对于没有在数据库中录入的项目，通过[添加新项目](添加新项目.md)进行添加后，即可在项目字段中找到。
+1. [DataPoints&copy;数据库](datapoints.md)是一个只读的数据表，对应的 DataPoints，Progress，申请者信息，项目列表四个子表的更改请通过[DataPoints 收集表](newdatapoints.md)，[Progress 收集表](newprogress.md)，[申请者信息收集表](newapplicant.md)，[添加新项目](newprogram.md)进行。
+2. 首先在[申请者信息收集表](newapplicant.md)中提交自己的个人信息（仅需一次，不可更改）
+3. 然后在[DataPoints 收集表](newdatapoints.md)中提交录取 DataPoints，填写过程中可以通过申请者字段链接到自己的账户，并关联以上填写的个人信息。DataPoints 支持无限次更改
+4. 进展的提交可以在[Progress 收集表](newprogress.md)中进行，操作与 DataPoints 相同
+5. 对于没有在数据库中录入的项目，通过[添加新项目](newprogram.md)进行添加后，即可在项目字段中找到。
 
 # FAQ
 
@@ -25,7 +25,7 @@ hide:
 
 ### 我通过申请者信息收集表提交了个人信息，现在想要更改其中某些信息，应当如何操作
 
-请提交一个新的[申请者信息收集表](申请者信息收集表.md)，并在[DataPoints 收集表](DataPoints收集表.md)中将之前的 DataPoints 链接到新的个人信息。我们会定期删除这些冗余的用户信息。
+请提交一个新的[申请者信息收集表](newapplicant.md)，并在[DataPoints 收集表](newdatapoints.md)中将之前的 DataPoints 链接到新的个人信息。我们会定期删除这些冗余的用户信息。
 
 ### 为什么我无法通过微信扫码登录
 
@@ -39,11 +39,11 @@ hide:
 
 在该行最左侧序号处悬浮，可以找到缩放按钮，点击即可在标签页中浏览该条记录
 
-### 为什么我在[DataPoints 收集表](DataPoints收集表.md)中填写完成之后，没有找到提交按钮
+### 为什么我在[DataPoints 收集表](newdatapoints.md)中填写完成之后，没有找到提交按钮
 
-[DataPoints 收集表](DataPoints收集表.md)自动保存，无需提交
+[DataPoints 收集表](newdatapoints.md)自动保存，无需提交
 
-### 为什么我在[DataPoints 收集表](DataPoints收集表.md)中填写完成之后，没有看到其他用户的记录
+### 为什么我在[DataPoints 收集表](newdatapoints.md)中填写完成之后，没有看到其他用户的记录
 
 您的信息已经实时汇总到了[DataPoints&copy;数据库](datapoints.md)
 
@@ -65,7 +65,7 @@ hide:
 
 ### 我因为隐私问题想撤回我的 DataPoints。
 
-请在[DataPoints 收集表](DataPoints收集表.md)中将之前的 DataPoints 删除即可。
+请在[DataPoints 收集表](newdatapoints.md)中将之前的 DataPoints 删除即可。
 
 ### 我因为隐私问题想撤回我的个人信息。
 
