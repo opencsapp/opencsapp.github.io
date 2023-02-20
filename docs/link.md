@@ -48,12 +48,17 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 飞跃手册是各大高校自主编写的留学指导书以及本校案例库，本校 data point 对选校指导意义很大
 
-### [上海交通大学大学飞跃手册 (Under Construction)](https://survivesjtu.github.io/SJTU-Application/#/)
+### [上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
 
 ### [华中科技大学光电飞跃手册](https://hust-feiyue.github.io/)
 
-### [华科生存手册 (Under Construction)](https://1037survival.gitbook.io/)
+### [四川大学飞跃手册](http://scu-flying.com/)
+
+## 生存手册
+
+### [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
+
+### [华科生存手册](https://1037survival.gitbook.io/)
 
 ### [四川大学计软网生存手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
 
-### [四川大学飞跃手册](http://scu-flying.com/)
