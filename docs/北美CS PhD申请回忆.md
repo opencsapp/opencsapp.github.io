@@ -1,5 +1,9 @@
 # 北美CS PhD申请回忆
 
+[原文链接](https://denghilbert.github.io/blog/PhD%E7%94%B3%E8%AF%B7%E5%9B%9E%E5%BF%86.html)
+
+![image](https://user-images.githubusercontent.com/48356412/220137165-567a6e81-767c-4d82-b9bc-86704fd342ff.png)
+
 写的不一定很完整，后面想起来了再补，最近旅游休息休息。
 
 PhD项目的录取基本结束，自己狗屎运也撞上了俩，最终决定去Cornell。闲着突然心血来潮想记录下申请，加上flash居然在csmsapp开通了[blog模块](blog.md)，那就过来挂一下分享。想一起交流申请，或者Ithaca租房能带带我的小伙伴，欢迎过来加个好友哇，联系方式留在了[主页](http://denghilbert.github.io/)里面。
