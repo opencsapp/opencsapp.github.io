@@ -8,6 +8,7 @@
     CS:
       - MLT@CMU
       - MSCS@CMU
+      - MSML@CMU
       - MSR@CMU
       - CS Meng@Cornell
       - MSCS@UCLA
@@ -16,7 +17,6 @@
     NONCS:
       - CSE@Harvard
       - DS@Harvard
-      - EE@Stanford
       - ICME@Stanford
 - S:
     CS:
@@ -24,21 +24,21 @@
       - MIIS@CMU
       - MSAII@CMU
       - MSCV@CMU
-      - MSML@CMU
       - MSCS@UIUC
     NONCS:
+      - EE@Stanford
       - MS&E@Stanford
       - DS@UPenn
 - A+:
     CS:
-      - MSCS@Yale
+      - One-Year MSCS@Yale
       - EECS Meng@Berkeley
       - CS Meng@Cornell Tech
       - MSIN@CMU
       - MSCS@Duke
       - MSCS@GaTech
-      - MMath@Waterloo
       - MSCSE@UMich
+      - MSCS@NWU
     NONCS:
       - MDSAI@Waterloo
       - ECE@UT Austin
@@ -58,7 +58,6 @@
       - MCS@UIUC
       - MSCS@Columbia
       - MSCS@Dartmouth
-      - MSCS@NWU
       - MSCS@UCSB
     NONCS:
       - EC79@UCSD
@@ -69,6 +68,7 @@
       - ECE@GaTech
       - CGGT@UPenn
       - DS@UMich
+      - MEng@UCLA
 - B+:
     CS:
       - MSE-SS@CMU
@@ -85,7 +85,6 @@
       - ECE MEng@Cornell
       - ECE Meng@UIUC
       - MPS-IS@Cornell
-      - MEng@UCLA
       - EC82@UCSD
       - EC93@UCSD
 - B:
