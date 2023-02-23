@@ -7,7 +7,9 @@ hide:
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/stargazers) [![](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/network/members) [![](https://img.shields.io/github/commit-activity/y/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/graphs/commit-activity) [![](https://img.shields.io/badge/Application-CS%20Masters-9cf)](https://github.com/csmsapp/csmsapp.github.io)
 
-本站内容开源协同创作，根据[内容征集](contribute.md)中的指引贡献内容或右上角给项目点个 Star:star:就是对我们最大的支持！
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+本站内容开源协同创作，根据[内容征集](contribute.md)中的指引贡献内容或右上角给项目点个<a href="https://github.com/csmsapp/csmsapp.github.io" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star csmsapp/csmsapp.github.io on GitHub">Star</a>就是对我们最大的支持！
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
