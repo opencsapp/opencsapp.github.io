@@ -5,14 +5,11 @@ hide:
 
 # 欢迎来到 CS Masters Application
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/stargazers) [![](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/network/members) [![](https://img.shields.io/github/commit-activity/y/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/graphs/commit-activity) [![](https://img.shields.io/badge/Application-CS%20Masters-9cf)](https://github.com/csmsapp/csmsapp.github.io)
-
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io" data-icon="octicon-star" data-show-count="true" aria-label="Star csmsapp/csmsapp.github.io on GitHub">Star</a>
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io/subscription" data-icon="octicon-eye" aria-label="Watch csmsapp/csmsapp.github.io on GitHub">Watch</a> <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork csmsapp/csmsapp.github.io on GitHub">Fork</a> <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io" data-icon="octicon-star" aria-label="Star csmsapp/csmsapp.github.io on GitHub">Star</a> 
 
-本站内容开源协同创作，根据[内容征集](contribute.md)中的指引贡献内容或右上角给项目点个<a href="https://github.com/csmsapp/csmsapp.github.io" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-show-count="true" aria-label="Star csmsapp/csmsapp.github.io on GitHub">Star</a>就是对我们最大的支持！
+本站内容开源协同创作，根据[内容征集](contribute.md)中的指引贡献内容或点击上方按钮给项目点亮 :star:Star 就是对我们最大的支持！
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
