@@ -9,7 +9,7 @@ hide:
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io/subscription" data-icon="octicon-eye" aria-label="Watch csmsapp/csmsapp.github.io on GitHub">Watch</a> <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io/fork" data-icon="octicon-repo-forked" aria-label="Fork csmsapp/csmsapp.github.io on GitHub">Fork</a> <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io" data-icon="octicon-star" aria-label="Star csmsapp/csmsapp.github.io on GitHub">Star</a> <a class="github-button" href="https://github.com/flash-321" aria-label="Follow @flash-321 on GitHub">Follow @flash-321</a>
 
-本站内容开源协同创作，根据[内容征集](contribute.md)中的指引贡献内容或点击上方按钮给项目点亮 :star:Star 就是对我们最大的支持！
+本站内容开源协同创作，[贡献内容](contribute.md)或点击上方按钮给项目点亮 :star:Star 就是对我们最大的支持！
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
