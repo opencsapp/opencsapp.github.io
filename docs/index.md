@@ -25,11 +25,11 @@ hide:
 
 很高兴介绍我们的[经验分享](blog.md)版块，欢迎投稿！
 
-[DataPoints&copy;](datapoints.md)提供了录取结果实时播报，快来尝试吧！期待大家[提交新的 DataPoints](submit.md)
+[DataPoints&copy;](datapoints.md)提供了录取结果实时播报，快来尝试吧！期待大家[提交 DataPoints](submit.md)
 
-[申请 FAQ](faq.md)栏目中收集了一些群内大家常问的问题及解答，欢迎补充！
+[申请 FAQ](faq.md)栏目中收集了一些常见问题及解答，欢迎评论区提问！
 
-[外部链接](link.md)中收录了非常有用的工具网站，give it a try!
+[外部链接](link.md)中收录了很多实用的工具网站，give it a try!
 
 [![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date)
 
