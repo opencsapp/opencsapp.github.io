@@ -1,6 +1,10 @@
 # 欢迎来到 CS Masters Application
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] [![](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/stargazers) [![](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io.svg)](https://github.com/csmsapp/csmsapp.github.io/network/members) [![](https://img.shields.io/github/commit-activity/y/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/graphs/commit-activity) [![](https://img.shields.io/badge/Application-CS%20Masters-9cf)](https://csmsapp.github.io/)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
+[![GitHub watchers](https://img.shields.io/github/watchers/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/subscription)
+[![GitHub forks](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/fork)
+[![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/Flash-321?style=social)](https://github.com/Flash-321)
 
 ### 内容请访问 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
