@@ -5,9 +5,7 @@ hide:
 
 # 欢迎来到 CS Masters Application
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io/subscription" data-icon="octicon-eye" data-show-count="true" aria-label="Watch csmsapp/csmsapp.github.io on GitHub">Watch</a> <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io/fork" data-icon="octicon-repo-forked" data-show-count="true" aria-label="Fork csmsapp/csmsapp.github.io on GitHub">Fork</a> <a class="github-button" href="https://github.com/csmsapp/csmsapp.github.io" data-icon="octicon-star" data-show-count="true" aria-label="Star csmsapp/csmsapp.github.io on GitHub">Star</a> <a class="github-button" href="https://github.com/flash-321" data-show-count="true" aria-label="Follow @flash-321 on GitHub">Follow @flash-321</a>
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![GitHub watchers](https://img.shields.io/github/watchers/csmsapp/csmsapp.github.io?style=social) ![GitHub forks](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social) ![GitHub followers](https://img.shields.io/github/followers/Flash-321?style=social)
 
 本站内容开源协同创作，[贡献内容](contribute.md)或点击上方按钮给项目点亮 :star:Star 就是对我们最大的支持！
 
