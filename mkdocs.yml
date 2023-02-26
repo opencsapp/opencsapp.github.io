@@ -53,6 +53,7 @@ nav:
     - 使用指南: guide.md
     - 选校梯度: grade.md
 $programs_list
+    - Alumni: alumni.md
     - 经验分享: blog.md
     - Blog:
 $blogs_list
