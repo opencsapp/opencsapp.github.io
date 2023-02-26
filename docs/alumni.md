@@ -5,7 +5,7 @@
 
 ## 2023 Fall
 
-### Flash ![image](https://user-images.githubusercontent.com/48356412/221398597-a9859d20-6d1d-4372-bbd0-8ef2e2656c26.png){align=left style="height:6em; border-radius:50%"}
+### Flash ![image](https://user-images.githubusercontent.com/48356412/221398597-a9859d20-6d1d-4372-bbd0-8ef2e2656c26.png){align=left style="height:6em; border-radius:100%"}
 
 **From** BS CS @ SJTU
 
