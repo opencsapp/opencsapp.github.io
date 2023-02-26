@@ -5,7 +5,11 @@ hide:
 
 # 欢迎来到 CS Masters Application
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] ![GitHub watchers](https://img.shields.io/github/watchers/csmsapp/csmsapp.github.io?style=social) ![GitHub forks](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social) ![GitHub followers](https://img.shields.io/github/followers/Flash-321?style=social)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
+[![GitHub watchers](https://img.shields.io/github/watchers/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/subscription)
+[![GitHub forks](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/fork)
+[![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io)
+[![GitHub followers](https://img.shields.io/github/followers/Flash-321?style=social)](https://github.com/Flash-321)
 
 本站内容开源协同创作，[贡献内容](contribute.md)或点击上方按钮给项目点亮 :star:Star 就是对我们最大的支持！
 
