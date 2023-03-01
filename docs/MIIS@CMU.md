@@ -6,6 +6,8 @@ NLP 项目，录取看 pub。录取非常 diverse，甚至有数量可观的文�
 
 ## 代表性 dp
 
+【23fall】SCU 91 分 水会一作 顶会在投 video essay高强度被浏览 录 （强烈怀疑是按本科学校groupby后取top1）
+
 【22fall】SJTU 89 分 ACL findings+EMNLP 两篇共一发表，1 篇 ACL 一作在投，1 篇 ICLR 一作在投录
 
 【22fall】SJTU 88 分 1 篇 ACL 一作 video essay 没被看脆拒
