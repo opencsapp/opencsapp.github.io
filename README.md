@@ -4,7 +4,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/subscription)
 [![GitHub forks](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/fork)
 [![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io)
-[![GitHub followers](https://img.shields.io/github/followers/Flash-321?style=social)](https://github.com/Flash-321)
+[![GitHub followers](https://img.shields.io/github/followers/xichenpan?style=social)](https://github.com/xichenpan)
 
 ### 内容请访问 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
