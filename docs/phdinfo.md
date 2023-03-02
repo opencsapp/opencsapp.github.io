@@ -1,6 +1,6 @@
 # PhD申请信息
 
-### Massachusetts Institute of Technology (MIT)
+## Massachusetts Institute of Technology (MIT)
 ### EECS PhD
 强Committee，每年只有一个batch，一般在一月末
 
