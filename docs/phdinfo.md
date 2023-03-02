@@ -33,3 +33,11 @@ CoC下面好几个School，分别独立申请，强Prof，timeline看老板
 ## University of California, Santa Barbara (UCSB)
 ### CS PhD
 强Prof, timeline看老板
+
+## University of California, San Diego (UCSD)
+### CS PhD
+强Prof, timeline看老板，跨度很大，从1月初到2月中旬都有
+
+## EPFL
+### EDIC PhD
+第一轮强committee，第二轮强Prof, timeline看老板，一般1月中旬前完成面试
