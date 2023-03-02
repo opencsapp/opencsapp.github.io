@@ -8,6 +8,10 @@
 ### CS PhD
 Prof可以和同事一起提名到committee录取，timeline看老板
 
+## Cornell University
+### CS PhD
+强committee，但是代表committee面试的是poi，timeline看老板，一般整个1月都有可能
+
 ## Georgia Institute of Technology (GaTech)
 ### CoC PhD
 CoC下面好几个School，分别独立申请，强Prof，timeline看老板
@@ -18,6 +22,10 @@ CoC下面好几个School，分别独立申请，强Prof，timeline看老板
 ### Center for Data Science (CDS) PhD
 强committee，面试很多轮，funding多
 
+## Northwestern University (NWU)
+### CS PhD
+基本强Prof, 一般一年两批左右，timeline看老板，第一年全员fellowship
+
 ## University of Waterloo
 ### CS PhD
 强Prof，timeline看老板
@@ -25,13 +33,3 @@ CoC下面好几个School，分别独立申请，强Prof，timeline看老板
 ## University of California, Santa Barbara (UCSB)
 ### CS PhD
 强Prof, timeline看老板
-
-## Northwestern University (NWU)
-### CS PhD
-基本强Prof, 一般一年两批左右，timeline看老板，第一年全员fellowship
-
-## Cornell University
-### CS PhD
-强committee，但是代表committee面试的是poi，timeline看老板，一般整个1月都有可能
-
-## University of Illinois Urbana-Champaign (UIUC)
