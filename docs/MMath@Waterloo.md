@@ -1,6 +1,8 @@
 ## 录取偏好
 
-陆本申请很少，录取很少
+23Fall 开始Course-based 取消。Thesis-based研究向全奖Master(TA+RA)，强Prof，可套磁。
+
+找工 Course-based co-op 可以关注 School of Engineering ECE Meng (co-op) 或者 School of Math MDSAI (co-op)。
 
 ## 代表性 dp
 
@@ -10,11 +12,10 @@
 
 ## 项目特点
 
-class size 小，大概一届 20-30 人。加拿大找工 reputation 非常好，湾区校友多，共用本科生的 Co-op 系统，也可以自己找。邻近 Kitchener 有 Google Waterloo，最近要扩 2k 个 hc。上 3 个 term 课，Co-op 2 个 term，学制灵活可延长做 Co-op
+Thesis-based研究向全奖Master. 可以 co-op 但要和research相关。
 
 ## 申请季实时信息
 
-2022fall course based 无陆本录取。23fall course based 取消，不再招生，可以关注 waterloo ece meng (co-op)
 
 ## 介绍帖
 
