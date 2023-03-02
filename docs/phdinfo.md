@@ -16,6 +16,14 @@ Prof可以和同事一起提名到committee录取，timeline看老板
 ### CoC PhD
 CoC下面好几个School，分别独立申请，强Prof，timeline看老板
 
+## Duke University
+### CS PhD
+committee中有两位老师同意就能发offer，所有人前**两年**的funding由学院出，可以rotation
+
+## University of Southern California (USC)
+### CS PhD
+强Prof, committee决定有无fellowship，带fellowship的offer2月初发，剩下的timeline看老板
+
 ## New York University (NYU)
 ### Courant CS PhD
 偏强Prof，老板有话语权，无rotation。每年2月初有一个batch，后边少量wl递补录取
