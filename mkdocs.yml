@@ -56,6 +56,7 @@ $programs_list
     - 经验分享: blog.md
     - Blog:
 $blogs_list
+    - Phd申请: phdinfo.md
     - 申请FAQ: faq.md
     - 外部链接: link.md
     - CS选校之禅: zen.md
