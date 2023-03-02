@@ -11,7 +11,7 @@ hide:
 [![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/xichenpan?style=social)](https://github.com/xichenpan)
 
-本站内容开源协同创作，[贡献内容](contribute.md)或点击上方按钮给项目点亮 :star:Star 就是对我们最大的支持！
+本站内容开源协同创作，期待你[贡献内容](contribute.md)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
