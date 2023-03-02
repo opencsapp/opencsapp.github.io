@@ -26,6 +26,6 @@ CoC下面好几个School，分别独立申请，强Prof，timeline看老板
 ### CS PhD
 强Prof, timeline看老板
 
-## Northwestern University (NU)
+## Northwestern University (NWU)
 ### CS PhD
 基本强Prof, 一般一年两批左右，timeline看老板，第一年全员fellowship
