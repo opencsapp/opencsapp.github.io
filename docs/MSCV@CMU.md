@@ -16,7 +16,7 @@
 
 RI 下的 Professional CV 项目，MLE 率还不错，转博率低，SDE 也是主要出路之一。详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
-RI单独吧这个项目拎出来，[入口](https://admissions.scs.cmu.edu/account/login?r=https%3a%2f%2fadmissions.scs.cmu.edu%2fapply%2ffrm%3f857f530c-fb7d-4f58-8ed4-8ef6c01b0d4b)
+RI单独把这个项目拎出来，[入口](https://admissions.scs.cmu.edu/account/login?r=https%3a%2f%2fadmissions.scs.cmu.edu%2fapply%2ffrm%3f857f530c-fb7d-4f58-8ed4-8ef6c01b0d4b)
 
 ## 申请季实时信息
 
