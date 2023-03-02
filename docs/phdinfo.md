@@ -32,6 +32,6 @@ CoC下面好几个School，分别独立申请，强Prof，timeline看老板
 
 ## Cornell University
 ### CS PhD
-强committee，但是代表committee面试的是poi，timeline看老板
+强committee，但是代表committee面试的是poi，timeline看老板，一般整个1月都有可能
 
 ## University of Illinois Urbana-Champaign (UIUC)
