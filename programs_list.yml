@@ -25,6 +25,7 @@
       - MSAII@CMU
       - MSCV@CMU
       - MSCS@UIUC
+      - MMath@Waterloo
     NONCS:
       - EE@Stanford
       - MS&E@Stanford
