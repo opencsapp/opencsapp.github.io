@@ -10,7 +10,6 @@
       - MSCS@CMU
       - MSML@CMU
       - MSR@CMU
-      - CS Meng@Cornell
       - MSCS@UCLA
       - MCIS@UPenn
       - MSCS@UT-Austin
@@ -26,6 +25,7 @@
       - MSCV@CMU
       - MSCS@UIUC
       - MMath@Waterloo
+      - CS Meng@Cornell
     NONCS:
       - EE@Stanford
       - MS&E@Stanford
