@@ -14,6 +14,6 @@ hide:
        5. 鼠标悬浮在列头上的i符号，可以查看该字段的详细说明
        6. 点击右上角插件，可以体验丰富的图表统计和高级查询功能。其中高级统计功能预设了几组可视化图表
 
-<iframe className="dtable-embed" src="https://cloud.seatable.cn/dtable/external-links/ff48695db50e48358d5b/" frameBorder="0" width="100%" height="960" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe className="dtable-embed" src="https://cloud.seatable.cn/dtable/external-links/ff48695db50e48358d5b/" frameBorder="0" width="100%" height="960" allowfullscreen="true" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [:fontawesome-solid-square-poll-horizontal: 提交新 DataPoints](submit.md){ .md-button .md-button--primary }    [:fontawesome-solid-pen-to-square: 在 SeaTable 中浏览](https://cloud.seatable.cn/dtable/external-links/ff48695db50e48358d5b/){ .md-button}
