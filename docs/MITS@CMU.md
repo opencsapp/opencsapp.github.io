@@ -3,6 +3,7 @@
 
 ## 代表性 dp
 【22fall】华科 CS, GPA 3.88/4.0, AD
+
 【23fall】XJTU 管院BA, GPA 3.76/4.0, 四段大厂实习（微软SDE）, AD
 
 ## 网申备注
