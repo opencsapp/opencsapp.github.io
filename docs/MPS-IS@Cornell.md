@@ -1,11 +1,21 @@
 ## 录取偏好
 
-## 代表性dp
+CS 背景和其它专业五五开，偏好有 HCI 经历/对 HCI 感兴趣的
+
+## 代表性 dp
 
 ## 网申备注
 
+需要 WES 或其它成绩认证，托福口语严卡 25
+
 ## 项目特点
+
+优点：选课优先级仅次于同院下的 CS，几乎可以当作 CS 上，HCI 方向也很不错
+
+缺点：无法 defer，一年项目无法实习（但不出意外可以申请延一学期）
 
 ## 申请季实时信息
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+## 介绍帖
+
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

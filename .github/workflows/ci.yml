@@ -1,4 +1,4 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
@@ -9,9 +9,12 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Check source code
+        uses: actions/checkout@v2
       - uses: actions/setup-python@v2
         with:
           python-version: 3.x
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-glightbox
+      - run: python ./script.py
       - run: mkdocs gh-deploy --force

@@ -1,12 +1,25 @@
 ## 录取偏好
+
 985 85+可冲
 
-## 代表性dp
+## 代表性 dp
 
 ## 网申备注
 
+- **从 22fall 开始新增 ECE Meng Co-op 项目**,这是另外一个项目，需要另外的申请费。
+- 文书需要交申请费，进入内部系统之后，才能看见所需要回答的题目（参考官网申请流程）
+- 春季秋季都可以申请
+
 ## 项目特点
-无coop，无scheduled break，没法实习
+
+- ECE Meng 项目本身无 coop，无 scheduled break
+- 加拿大修改了不能工作 20 小时以上的限制，现在不确定是否可以自己找实习。
+
 ## 申请季实时信息
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+- 23fall：
+  2022 年 12 月 10 号开始已经有人拿到 ECE Meng 的 offer，所以早申请的话 offer 下的还是比较快
+
+## 介绍帖
+
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

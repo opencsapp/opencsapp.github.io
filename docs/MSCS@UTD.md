@@ -1,11 +1,19 @@
 ## 录取偏好
 
-## 代表性dp
+转码友好。
+
+## 代表性 dp
 
 ## 网申备注
+
+不交齐推荐信，不交申请费，材料也能被审核并且收到 offer。（**并不推荐大家为了省钱有意这么做**
 
 ## 项目特点
 
 ## 申请季实时信息
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+永远奋斗在一线挽救失学儿童。
+
+## 介绍帖
+
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

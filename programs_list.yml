@@ -1,0 +1,172 @@
+- SSS: 
+    CS:
+      - MSECS@Princeton
+      - MSCS@Stanford
+    NONCS:
+      - CSE@MIT
+- SS:
+    CS:
+      - MLT@CMU
+      - MSCS@CMU
+      - MSML@CMU
+      - MSR@CMU
+      - MSCS@UCLA
+      - MCIS@UPenn
+      - MSCS@UT-Austin
+    NONCS:
+      - CSE@Harvard
+      - DS@Harvard
+      - ICME@Stanford
+- S:
+    CS:
+      - MCDS@CMU
+      - MIIS@CMU
+      - MSAII@CMU
+      - MSCV@CMU
+      - MSCS@UIUC
+      - MMath@Waterloo
+      - CS Meng@Cornell
+    NONCS:
+      - EE@Stanford
+      - MS&E@Stanford
+      - DS@UPenn
+- A+:
+    CS:
+      - One-Year MSCS@Yale
+      - EECS Meng@Berkeley
+      - CS Meng@Cornell Tech
+      - MSIN@CMU
+      - MSCS@Duke
+      - MSCS@GaTech
+      - MSCSE@UMich
+      - MSCS@NWU
+    NONCS:
+      - MDSAI@Waterloo
+      - ECE@UT Austin
+- A:
+    CS:
+      - SESV@CMU
+      - CSE@GaTech
+      - CS75@UCSD
+      - CM@Cornell Tech
+    NONCS:
+      - MScAc@UofT
+      - ECE@CMU
+      - MITS@CMU
+      - ECE Meng@UBC
+- A-:
+    CS:
+      - ScM CS@Brown
+      - MCS@UIUC
+      - MSCS@Columbia
+      - MSCS@Dartmouth
+      - MSCS@UCSB
+    NONCS:
+      - EC79@UCSD
+      - MSMITE@CMU
+      - DS@Columbia
+      - CSDA@Dartmouth
+      - ECE@Duke
+      - ECE@GaTech
+      - CGGT@UPenn
+      - DS@UMich
+      - MEng@UCLA
+- B+:
+    CS:
+      - MSE-SS@CMU
+      - MSCS@NYU Courant
+      - MSCS@NYU Tandon
+      - MCS@Rice
+      - MPCS@SFU
+      - MCS@TAMU
+      - MCS@UCI
+      - CS28@USC
+      - CS-PMP@Wisc
+    NONCS:
+      - MISM@CMU
+      - ECE MEng@Cornell
+      - ECE Meng@UIUC
+      - MPS-IS@Cornell
+      - EC82@UCSD
+      - EC93@UCSD
+- B:
+    CS:
+      - MSECS@JHU
+      - CS General@NEU
+      - MSCSE@UCSC
+    NONCS:
+      - ECE Meng@UofT
+      - ECE Meng@Waterloo
+- B-:
+    CS:
+      - MSCSE@OSU
+      - MSCSE@PSU
+      - MSCS@UCD
+      - NetSys@UCI
+      - MSCS@UF
+      - MSCS@UMass
+      - MSCS@UMN
+      - MCS@UVa
+      - MSCS@UVa
+      - MSCS@Rutgers
+      - MSCS@WUSTL
+      - MCS@NCSU
+      - EE-PMP@UW
+    NONCS:
+      - ECE@Duke-Kunshan
+      - ECE@GaTech-Shenzhen
+      - CE@NYU Tandon
+- C+:
+    CS:
+      - MSCS@BU
+      - MSCS@Emory
+      - MSCS@SBU
+      - MSCS@Tufts
+      - MSCS@UTD
+      - MSCS@Vanderbilt
+      - CS Meng@VT
+    NONCS:
+      - IS@NEU
+- C:
+    CS:
+      - MSCS@BC
+      - MSCS@GWU
+      - MSCS@SIT
+    NONCS:
+      - IS@Pitt
+- 待分类:
+    CS:
+      - MSWE@UCI
+      - PCP@Wisc
+      - MSCS@SMU
+      - MSCS@Utah
+      - MSCS@SCU
+      - MSCS@Syracuse
+      - MPCS@UChicago
+      - Two-Year MSCS@Yale
+      - MSCS@Wisc
+    NONCS:
+- 陆本黑洞:
+    CS:
+      - MSCS@Berkeley
+      - MSCS@Cornell
+      - MSCS@Purdue
+      - MSc@UofT
+    NONCS:
+- 零基础转码项目:
+    CS:
+      - MSCS@Brandeis
+      - CS Align@NEU
+      - MSCS@SCU
+      - MSCS@Syracuse
+      - MPCS@UChicago
+      - MCIT@UPenn
+      - CS37@USC
+      - MSWE@UCI
+      - PCP@Wisc
+      - MSCS@SMU
+      - MSCS@Utah
+    NONCS:
+      - ISB@NEU
+      - MSIM@UIUC
+      - MSIS@UNC

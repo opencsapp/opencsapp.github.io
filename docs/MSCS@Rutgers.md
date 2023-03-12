@@ -1,8 +1,8 @@
 ## 录取偏好
 
-## 代表性dp
+## 代表性 dp
 
-先修满足的情况下转专业比较友好，适合中低GPA主申或者保底（3.2-3.7）
+先修满足的情况下转专业比较友好，适合中低 GPA 主申或者保底（3.2-3.7）
 
 ## 网申备注
 
@@ -12,4 +12,6 @@
 
 ## 申请季实时信息
 
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+## 介绍帖
+
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

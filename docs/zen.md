@@ -1,4 +1,4 @@
-# CS选校之禅 | Zen of CS Maters Application
+# CS 选校之禅 | Zen of CS Masters Application
 
 多方参考胜过相信权威
 
@@ -14,4 +14,4 @@
 
 读研只是方法；读研并非目的
 
-by Flash
+by [Flash](https://github.com/xichenpan)
