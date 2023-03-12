@@ -14,6 +14,8 @@ class size 小，不内卷。据说有休斯顿当地小厂托底，找工情况
 
 2022fall 缩招
 
+20233fall转码录取人数极少
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
