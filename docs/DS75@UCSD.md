@@ -6,10 +6,8 @@
 
 ## 项目特点
 
-据说有休斯顿当地小厂托底，找工情况比较好
-
 ## 申请季实时信息
+22fall疑似点击就送
 
-23fall给转码发ad的比例跟22fall相比大幅降低
 
 [回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
