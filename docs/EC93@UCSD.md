@@ -10,6 +10,8 @@
 
 UCSD ECE MLDS 项目，不可转入。
 
+[官方Admission/Enrollment/Placement统计](https://ir.ucsd.edu/grad/index.html)
+
 ## 申请季实时信息
 
 ## 介绍帖
