@@ -1,4 +1,4 @@
-- SSS: 
+- SSS:
     CS:
       - MSECS@Princeton
       - MSCS@Stanford
@@ -39,7 +39,6 @@
       - MSCS@Duke
       - MSCS@GaTech
       - MSCSE@UMich
-      - MSCS@NWU
     NONCS:
       - MDSAI@Waterloo
       - ECE@UT Austin
@@ -96,6 +95,7 @@
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
+      - MSIM@UIUC
 - B-:
     CS:
       - MSCSE@OSU
@@ -151,6 +151,7 @@
       - MSCS@Cornell
       - MSCS@Purdue
       - MSc@UofT
+      - MSCS@NWU
     NONCS:
 - 零基础转码项目:
     CS:
@@ -167,5 +168,4 @@
       - MSCS@Utah
     NONCS:
       - ISB@NEU
-      - MSIM@UIUC
       - MSIS@UNC
