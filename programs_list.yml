@@ -13,6 +13,7 @@
       - MSCS@UCLA
       - MCIS@UPenn
       - MSCS@UT-Austin
+      - Two-Year MSCS@Yale
     NONCS:
       - CSE@Harvard
       - DS@Harvard
@@ -26,6 +27,7 @@
       - MSCS@UIUC
       - MMath@Waterloo
       - CS Meng@Cornell
+      - MSCS@Wisc
     NONCS:
       - EE@Stanford
       - MS&E@Stanford
@@ -39,8 +41,11 @@
       - MSCS@Duke
       - MSCS@GaTech
       - MSCSE@UMich
+      - MSCS@NWU
+      - MCS@UIUC
     NONCS:
       - MDSAI@Waterloo
+      - ECE Meng(coop)@Waterloo
       - ECE@UT Austin
 - A:
     CS:
@@ -55,13 +60,13 @@
 - A-:
     CS:
       - ScM CS@Brown
-      - MCS@UIUC
       - MSCS@Columbia
       - MSCS@Dartmouth
       - MSCS@UCSB
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
+      - MITS@CMU
       - DS@Columbia
       - CSDA@Dartmouth
       - ECE@Duke
@@ -78,9 +83,11 @@
       - MPCS@SFU
       - MCS@TAMU
       - MCS@UCI
+      - MSWE@UCI
       - CS28@USC
       - CS-PMP@Wisc
     NONCS:
+      - DS75@UCSD
       - MISM@CMU
       - ECE MEng@Cornell
       - ECE Meng@UIUC
@@ -137,15 +144,12 @@
       - IS@Pitt
 - 待分类:
     CS:
-      - MSWE@UCI
       - PCP@Wisc
       - MSCS@SMU
       - MSCS@Utah
       - MSCS@SCU
       - MSCS@Syracuse
       - MPCS@UChicago
-      - Two-Year MSCS@Yale
-      - MSCS@Wisc
     NONCS:
 - 陆本黑洞:
     CS:

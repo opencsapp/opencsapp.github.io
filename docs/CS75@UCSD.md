@@ -26,6 +26,8 @@ size 不算小，官网给的数据是 21Fall 1,165 admits, 501 New Students。�
 
 CS76 和 CS75 的选课方案不一样，申请难度相对较低，但实际上进校之后很好转 CS75。如果第一学期 GPA 较高的话，第二学期就可以转，反之亦然。硬件背景更好的可以申 CS76 曲线救国。
 
+[官方Admission/Enrollment/Placement统计](https://ir.ucsd.edu/grad/index.html)
+
 ## 申请季实时信息
 
 reddit 有人提到 22fall MS CSE 有 6k+申请者且缩招，历史上最多申请和最少坑位

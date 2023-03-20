@@ -17,5 +17,6 @@
 ## 申请季实时信息
 
 ## 介绍帖
+[Cornell CS MEng(Tech) 入学找工体验](https://www.1point3acres.com/bbs/thread-953015-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
