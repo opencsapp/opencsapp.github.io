@@ -32,7 +32,6 @@
       - EE@Stanford
       - MS&E@Stanford
       - DS@UPenn
-      - ECE Meng(coop)@Waterloo
 - A+:
     CS:
       - One-Year MSCS@Yale
@@ -43,10 +42,11 @@
       - MSCS@GaTech
       - MSCSE@UMich
       - MSCS@NWU
+      - MCS@UIUC
     NONCS:
       - MDSAI@Waterloo
+      - ECE Meng(coop)@Waterloo
       - ECE@UT Austin
-      - MITS@CMU
 - A:
     CS:
       - SESV@CMU
@@ -60,13 +60,13 @@
 - A-:
     CS:
       - ScM CS@Brown
-      - MCS@UIUC
       - MSCS@Columbia
       - MSCS@Dartmouth
       - MSCS@UCSB
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
+      - MITS@CMU
       - DS@Columbia
       - CSDA@Dartmouth
       - ECE@Duke
