@@ -151,15 +151,14 @@
       - MSCS@Syracuse
       - MPCS@UChicago
     NONCS:
+      - MI@UofT
 - 陆本黑洞:
     CS:
       - MSCS@Berkeley
       - MSCS@Cornell
       - MSCS@Purdue
       - MSc@UofT
-      - MSCS@NWU
     NONCS:
-      - MI@UofT
 - 零基础转码项目:
     CS:
       - MSCS@Brandeis
