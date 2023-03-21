@@ -13,6 +13,8 @@ SDU 86.5 5实习3科研 录取
 
 找工时CV和LinkedIn上可以直接写ECE，EE title带来的负面影响很小
 
+已经改名[ECE Professional Master’s Program (PMP)](https://www.ece.uw.edu/academics/pmp/)， 但目前仍然是Master of Science in Electrical Engineering (MSEE) degree，听说系里在推进改成ECE degree。
+
 ## 申请季实时信息
 
 ## 介绍帖
