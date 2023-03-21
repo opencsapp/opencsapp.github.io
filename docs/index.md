@@ -15,13 +15,9 @@ hide:
 
 网址 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
-欢迎加入社区讨论：
-
-- [:fontawesome-brands-qq: QQ① 群：466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW)
-
-- [:fontawesome-brands-qq: QQ② 群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
-
-- [:fontawesome-brands-discord: Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
+[:fontawesome-brands-discord: Join QQ① 466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW){ .md-button}
+[:fontawesome-brands-discord: Join QQ① 544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N){ .md-button}
+[:fontawesome-brands-discord: Join Discord](https://discord.gg/HeB9QXZdFR){ .md-button}
 
 ## Insights
 
