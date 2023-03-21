@@ -25,7 +25,6 @@
       - MSAII@CMU
       - MSCV@CMU
       - MSCS@UIUC
-      - MMath@Waterloo
       - CS Meng@Cornell
       - MSCS@Wisc
     NONCS:
@@ -43,6 +42,7 @@
       - MSCSE@UMich
       - MSCS@NWU
       - MCS@UIUC
+      - MMath@Waterloo
     NONCS:
       - MDSAI@Waterloo
       - ECE Meng(coop)@Waterloo
