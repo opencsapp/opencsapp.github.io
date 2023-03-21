@@ -18,5 +18,6 @@ SDU 86.5 5实习3科研 录取
 ## 申请季实时信息
 
 ## 介绍帖
+[【2018 Fall】后疫情时代UW MSEE-PMP介绍](https://www.1point3acres.com/bbs/thread-979569-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
