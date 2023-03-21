@@ -16,7 +16,7 @@ hide:
 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
 [:fontawesome-brands-discord: Join QQ① 466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW){ .md-button}
-[:fontawesome-brands-discord: Join QQ① 544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N){ .md-button}
+[:fontawesome-brands-discord: Join QQ② 544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N){ .md-button}
 [:fontawesome-brands-discord: Join Discord](https://discord.gg/HeB9QXZdFR){ .md-button}
 
 ## Insights
