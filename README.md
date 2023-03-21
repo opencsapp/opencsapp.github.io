@@ -8,7 +8,9 @@
 
 ### 内容请访问 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
-本站内容开源协同创作，根据[内容征集](https://csmsapp.org/contribute/)中的指引贡献内容或右上角给项目点个 Star:star: 就是对我们最大的支持！
+本站内容开源协同创作，期待你[贡献内容](https://csmsapp.org/contribute/)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
+
+[csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
 欢迎加入社区讨论：
 
