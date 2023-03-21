@@ -9,7 +9,7 @@
 
 ## 项目特点
 20个月项目，可做 8个月 Co-op, 课非常水且不Tech
-毕业生去向因 Pathway 而异, 其中最 SDE 的是 IS 的 Pathway
+毕业生去向因 Pathway 而异, 其中最 SDE 的是 ISD(Information System Design) 的 Pathway
 
 
 ## 申请季实时信息
