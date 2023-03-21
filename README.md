@@ -6,11 +6,9 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/xichenpan?style=social)](https://github.com/xichenpan)
 
-### 内容请访问 [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
+### [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
 本站内容开源协同创作，期待你[贡献内容](https://csmsapp.org/contribute/)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
-
-[csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
 
 欢迎加入社区讨论：
 
