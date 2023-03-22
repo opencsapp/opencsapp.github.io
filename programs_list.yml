@@ -45,6 +45,7 @@
       - MMath@Waterloo
     NONCS:
       - MDSAI@Waterloo
+      - MITS@CMU
       - ECE Meng(coop)@Waterloo
       - ECE@UT Austin
 - A:
@@ -66,7 +67,6 @@
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
-      - MITS@CMU
       - DS@Columbia
       - CSDA@Dartmouth
       - ECE@Duke
