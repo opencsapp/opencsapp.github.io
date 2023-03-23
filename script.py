@@ -42,16 +42,9 @@ if __name__ == "__main__":
 
     with open('./blogs_list.yml', 'r', encoding='utf-8') as f:
         content = yaml.safe_load(f)
-    mkdocs_content = list()
     docs_content = list()
     for blog in content:
-        mkdocs_content.append('{0}: {0}.md'.format(blog))
         docs_content.append('[{0}]({0}.md)\n\n'.format(blog))
-    mkdocs_content = yaml.dump(mkdocs_content, sort_keys=False, default_flow_style=False, allow_unicode=True).replace('\'', '')
-    with open('mkdocs.yml', 'r', encoding="utf-8") as f:
-        mkdocs_origin = f.read()
-    with open('mkdocs.yml', 'w', encoding="utf-8") as f:
-        f.write(mkdocs_origin.replace('$blogs_list', mkdocs_content.replace('- ', '      - ')))
     with open('./docs/blog.md', 'r', encoding="utf-8") as f:
         docs_origin = f.read()
     with open('./docs/blog.md', 'w', encoding="utf-8") as f:
