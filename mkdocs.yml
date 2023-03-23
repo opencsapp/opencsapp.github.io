@@ -55,7 +55,6 @@ nav:
 $programs_list
     - 经验分享: blog.md
     - Blog:
-$blogs_list
     - PhD申请: phdinfo.md
     - 申请FAQ: faq.md
     - 外部链接: link.md
