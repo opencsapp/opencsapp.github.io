@@ -1,3 +1,7 @@
+---
+hide:
+  - navigation
+---
 # 22fall申请季总结 by Flash
 
 此贴原发于一亩三分地，后来Flash加签被check 10个月未果，23fall重新申请PhD，记录在[此贴](2023fall CS PhD 美国申请总结 by Flash.md)
