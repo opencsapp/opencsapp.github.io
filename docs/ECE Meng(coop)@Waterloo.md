@@ -5,9 +5,12 @@
 ## 网申备注
 23Fall疑似早提交有优势，申请付款后提交cv，ps
 ## 项目特点
-- 23Fall新开项目(22FALL有部分人被选中)，可与ece meng同时申请。
-- 项目时长5-6 terms (20-24 months) 可选1或2term做co-op，如果没有找到co-op则会转为普通ece meng毕业。
-- co-op使用全校共用的系统，要考虑到竞争性。
+
+23Fall新开项目(22FALL有部分人被选中)，可与ece meng同时申请。考虑到MMath Coursework停止招生，可能loo是想开设ECE Meng (Co-op)作为替代
+
+项目时长5-6 terms (20-24 months) 可选1或2term做co-op，如果没有找到co-op则会转为普通ece meng毕业。
+
+co-op使用全校共用的系统，要考虑到竞争性。
 
 ## 申请季实时信息
 22Fall报道12人，23Fall发的offer目测远多于此。
