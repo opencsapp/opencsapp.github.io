@@ -1,7 +1,7 @@
-# csmsapp Alumni
+# OpenCSApp Alumni
 
-??? note "Code of csmsapp Alumni"
-       csmsapp希望帮助connect校友找组织
+??? note "Code of OpenCSApp Alumni"
+       OpenCSApp希望帮助connect校友找组织
 
 ## 2023 Fall
 

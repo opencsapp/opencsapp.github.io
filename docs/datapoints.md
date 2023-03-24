@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# CS Masters Application DataPoints&copy;
+# Open CS Application DataPoints&copy;
 
 ??? note "请先阅读使用指南"
        1. DataPoints&copy;是host在SeaTable上的数据库，支持方便的过滤，排序，和分组，上手难度低。支持Python SDK，SQL Query等高阶操作，有需要的用户可通过[用户手册](https://seatable.cn/help/)和[Bilibili教程](https://space.bilibili.com/1305719772?spm_id_from=333.337.search-card.all.click)学习。

@@ -22,7 +22,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
    ![](docs/images/3.png)
 
-4. 点击`Create pull request`向`CS-Masters-Application.github.io:master`分支发起 Pull Request
+4. 点击`Create pull request`向`Open-CS-Application.github.io:master`分支发起 Pull Request
 
    ![](docs/images/4.png)
 

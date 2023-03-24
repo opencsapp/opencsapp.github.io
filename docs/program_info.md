@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# CS Masters Application 项目信息表
+# Open CS Application 项目信息表
 
 <iframe className="dtable-embed" src="https://cloud.seatable.cn/dtable/external-links/e531a223aa224b9ca104" frameBorder="0" width="100%" height="960" style="background: transparent; border: 1px solid #ccc;"></iframe>
 

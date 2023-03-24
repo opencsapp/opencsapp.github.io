@@ -61,11 +61,11 @@ hide:
 
 ### 单选提供的选项没有符合我背景的描述
 
-请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的需求，管理员会帮你处理。
+请打开一个[Issue](https://github.com/opencsapp/opencsapp.github.io/issues)提供你的需求，管理员会帮你处理。
 
 ### 我对字段有新的建议，应该如何反馈
 
-请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的反馈，管理员会帮你处理。
+请打开一个[Issue](https://github.com/opencsapp/opencsapp.github.io/issues)提供你的反馈，管理员会帮你处理。
 
 ### 我因为隐私问题想撤回我的 DataPoints。
 
@@ -73,4 +73,4 @@ hide:
 
 ### 我因为隐私问题想撤回我的个人信息。
 
-请打开一个[Issue](https://github.com/csmsapp/csmsapp.github.io/issues)提供你的用户名，管理员会帮你处理。
+请打开一个[Issue](https://github.com/opencsapp/opencsapp.github.io/issues)提供你的用户名，管理员会帮你处理。

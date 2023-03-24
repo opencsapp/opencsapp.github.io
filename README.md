@@ -1,14 +1,14 @@
 # 欢迎来到 Open CS Application
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa] 
-[![GitHub watchers](https://img.shields.io/github/watchers/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/subscription)
-[![GitHub forks](https://img.shields.io/github/forks/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io/fork)
-[![GitHub Repo stars](https://img.shields.io/github/stars/csmsapp/csmsapp.github.io?style=social)](https://github.com/csmsapp/csmsapp.github.io)
+[![GitHub watchers](https://img.shields.io/github/watchers/opencsapp/opencsapp.github.io?style=social)](https://github.com/opencsapp/opencsapp.github.io/subscription)
+[![GitHub forks](https://img.shields.io/github/forks/opencsapp/opencsapp.github.io?style=social)](https://github.com/opencsapp/opencsapp.github.io/fork)
+[![GitHub Repo stars](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io?style=social)](https://github.com/opencsapp/opencsapp.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/xichenpan?style=social)](https://github.com/xichenpan)
 
-### [opencs.app](https://opencs.app/) | [csmsapp.org](https://csmsapp.org/) | [csmsapp.github.io](https://csmsapp.github.io/)
+### [opencs.app](https://opencs.app/) | [csmsapp.org](https://csmsapp.org/) | [opencsapp.github.io](https://opencsapp.github.io/)
 
-本站内容开源协同创作，期待你[贡献内容](https://csmsapp.org/contribute/)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
+本站内容开源协同创作，期待你[贡献内容](https://opencs.app/contribute/)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
 
 欢迎加入社区讨论：
 
@@ -16,9 +16,9 @@
 - [QQ② 群：544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N)
 - [Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=csmsapp/csmsapp.github.io&type=Date)](https://star-history.com/#csmsapp/csmsapp.github.io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=opencsapp/opencsapp.github.io&type=Date)](https://star-history.com/#opencsapp/opencsapp.github.io&Date)
 
-[![Stargazers repo roster for @csmsapp/csmsapp.github.io](https://reporoster.com/stars/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/stargazers)
+[![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/stargazers)
 
 [![Forkers repo roster for @csmsapp/csmsapp.github.io](https://reporoster.com/forks/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/network/members)
 

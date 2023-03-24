@@ -1,6 +1,6 @@
 # 内容征集 | Call for Contribution
 
-欢迎来到 CS Masters Application，本站内容开源协同创作，欢迎用户贡献内容！由于现存内容多来自于几个核心 contributor，难免存在 bias，如果你在浏览过程中发现无论是项目信息有误，还是选校梯度值得商榷，我们都诚挚邀请你顺手 PR 一下帮助我们修正与改进。同时目前仍有大量项目信息不全，如果你了解该项目，我们也诚邀你通过 PR 留下你了解到的信息，帮助我们继续完善。所有贡献过内容的同学都将被记录在[贡献者](contributor.md)名单中，以感谢对我们的支持。
+欢迎来到 Open CS Application，本站内容开源协同创作，欢迎用户贡献内容！由于现存内容多来自于几个核心 contributor，难免存在 bias，如果你在浏览过程中发现无论是项目信息有误，还是选校梯度值得商榷，我们都诚挚邀请你顺手 PR 一下帮助我们修正与改进。同时目前仍有大量项目信息不全，如果你了解该项目，我们也诚邀你通过 PR 留下你了解到的信息，帮助我们继续完善。所有贡献过内容的同学都将被记录在[贡献者](contributor.md)名单中，以感谢对我们的支持。
 
 ## 如何提交DataPoints
 
@@ -28,7 +28,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
    ![](images/3.png)
 
-点击`Create pull request`向`CS-Masters-Application.github.io:master`分支发起 Pull Request
+点击`Create pull request`向`Open-CS-Application.github.io:master`分支发起 Pull Request
 
    ![](images/4.png)
 
@@ -54,11 +54,11 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
 ## 如何更新梯度
 
-请直接点击更新[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)，并进行PR
+请直接点击更新[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)，并进行PR
 
 ## 如何添加新项目
 
-首先点击[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)添加新项目。然后拷贝以下项目模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与[选校梯度](https://github.com/csmsapp/csmsapp.github.io/edit/master/programs_list.yml)中一致，完成内容填写后PR即可。
+首先点击[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)添加新项目。然后拷贝以下项目模板，并[点击此处](https://github.com/opencsapp/opencsapp.github.io/new/master/docs)创建新文件，保持命名与[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)中一致，完成内容填写后PR即可。
 
 ``` markdown title="项目模板"
 ## 录取偏好
@@ -79,7 +79,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
 ## 如何添加Blog
 
-Blog内容和格式不限，以经验分享为主，建议包括个人基本情况和录取结果。首先点击[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)添加新Blog。然后拷贝以下Blog模板，并[点击此处](https://github.com/csmsapp/csmsapp.github.io/new/master/docs)创建新文件，保持命名与[Blog列表](https://github.com/csmsapp/csmsapp.github.io/edit/master/blogs_list.yml)中一致，进行内容填写后PR即可。
+Blog内容和格式不限，以经验分享为主，建议包括个人基本情况和录取结果。首先点击[Blog列表](https://github.com/opencsapp/opencsapp.github.io/edit/master/blogs_list.yml)添加新Blog。然后拷贝以下Blog模板，并[点击此处](https://github.com/opencsapp/opencsapp.github.io/new/master/docs)创建新文件，保持命名与[Blog列表](https://github.com/opencsapp/opencsapp.github.io/edit/master/blogs_list.yml)中一致，进行内容填写后PR即可。
 
 ``` markdown title="Blog模板"
 

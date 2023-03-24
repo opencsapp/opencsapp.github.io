@@ -1,6 +1,6 @@
-site_name: CS Masters Application
-site_author: 'csmsapp'
-copyright: '&copy; 2022-2023 csmsapp'
+site_name: Open CS Application
+site_author: 'opencsapp'
+copyright: '&copy; 2022-2023 opencsapp'
 theme:
   name: material
   custom_dir: overrides
@@ -47,7 +47,7 @@ plugins:
       zoomable: true
 
 nav:
-  - CS Masters Application:
+  - Open CS Application:
     - Home: index.md
     - 内容征集: contribute.md
     - 使用指南: guide.md
@@ -87,8 +87,8 @@ extra:
     actions:
       - accept
       - manage 
-repo_url: https://github.com/csmsapp/csmsapp.github.io
-repo_name: csmsapp
+repo_url: https://github.com/opencsapp/opencsapp.github.io
+repo_name: opencsapp
 edit_uri: edit/master/docs/
 extra_css:
   - stylesheets/extra.css

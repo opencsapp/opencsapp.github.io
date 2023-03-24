@@ -184,7 +184,7 @@ GRE，当时为了申ETH学了三天裸了一个320（AW3.0），也是菜的真
 
 jia-bin给了点申请完之后焦虑期建议：https://twitter.com/jbhuang0604/status/1472410988322377732
 
-申请master的朋友，来看看flash the great创建的：[flash ranking （csmsapp）](https://csmsapp.org/)
+申请master的朋友，来看看flash the great创建的：[flash ranking （opencsapp）](https://opencs.app/)
 
 找教职以及PhD工资的统计，可以看看：https://jeffhuang.com/computer-science-open-data/#verified-computer-science-phd-stipends
 
