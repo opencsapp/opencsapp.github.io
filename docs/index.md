@@ -31,13 +31,13 @@ hide:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=opencsapp/opencsapp.github.io&type=Date)](https://star-history.com/#opencsapp/opencsapp.github.io&Date)
 
-[![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/opencsapp/oepncsapp.github.io)](https://github.com/oepncsapp/oepncsapp.github.io/stargazers)
+[![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/opencsapp/opencsapp.github.io)](https://github.com/opencsapp/opencsapp.github.io/stargazers)
 
-[![Forkers repo roster for @oepncsapp/oepncsapp.github.io](https://reporoster.com/forks/oepncsapp/oepncsapp.github.io)](https://github.com/oepncsapp/oepncsapp.github.io/network/members)
+[![Forkers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/forks/opencsapp/opencsapp.github.io)](https://github.com/opencsapp/opencsapp.github.io/network/members)
 
 ## Contributed By
-<a href="https://github.com/oepncsapp/oepncsapp.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=oepncsapp/oepncsapp.github.io" />
+<a href="https://github.com/opencsapp/opencsapp.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=opencsapp/opencsapp.github.io" />
 </a>
 
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
