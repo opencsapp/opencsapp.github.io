@@ -13,7 +13,7 @@ hide:
 
 本站内容开源协同创作，期待你[贡献内容](contribute.md)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
 
-[csmsapp.org](https://csmsapp.org/) | [opencsapp.github.io](https://opencsapp.github.io/)
+[opencs.app](https://opencs.app/) | [csmsapp.org](https://csmsapp.org/) | [opencsapp.github.io](https://opencsapp.github.io/)
 
 [:fontawesome-brands-discord: Join QQ① 466094878](https://jq.qq.com/?_wv=1027&k=2ui21aMW){ .md-button}
 [:fontawesome-brands-discord: Join QQ② 544855574](https://jq.qq.com/?_wv=1027&k=ujTUjy2N){ .md-button}
@@ -31,13 +31,13 @@ hide:
 
 [![Star History Chart](https://api.star-history.com/svg?repos=opencsapp/opencsapp.github.io&type=Date)](https://star-history.com/#opencsapp/opencsapp.github.io&Date)
 
-[![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/opencsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/stargazers)
+[![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/opencsapp/oepncsapp.github.io)](https://github.com/oepncsapp/oepncsapp.github.io/stargazers)
 
-[![Forkers repo roster for @csmsapp/csmsapp.github.io](https://reporoster.com/forks/csmsapp/csmsapp.github.io)](https://github.com/csmsapp/csmsapp.github.io/network/members)
+[![Forkers repo roster for @oepncsapp/oepncsapp.github.io](https://reporoster.com/forks/oepncsapp/oepncsapp.github.io)](https://github.com/oepncsapp/oepncsapp.github.io/network/members)
 
 ## Contributed By
-<a href="https://github.com/csmsapp/csmsapp.github.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=csmsapp/csmsapp.github.io" />
+<a href="https://github.com/oepncsapp/oepncsapp.github.io/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=oepncsapp/oepncsapp.github.io" />
 </a>
 
 本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
