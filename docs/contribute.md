@@ -40,7 +40,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
    ![](images/6.png)
 
-### 通过[QQ 群](https://jq.qq.com/?_wv=1027&k=Ikr0DObs)手动更新
+### 通过QQ 群手动更新
 
 1. 点击想要更改的页面右上角的编辑图标（铅笔形状）
 
