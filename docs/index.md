@@ -25,9 +25,9 @@ hide:
 
 [DataPoints&copy;](datapoints.md)提供了录取结果实时播报，快来尝试吧！期待大家[提交 DataPoints](submit.md)
 
-[申请 FAQ](faq.md)栏目中收集了一些常见问题及解答，欢迎评论区提问！
+[申请 FAQ](faq.md)栏目中收录了常见问题及解答。
 
-[外部链接](link.md)中收录了很多实用的工具网站，give it a try!
+[外部链接](link.md)中收录了很多实用的工具网站。
 
 [![Star History Chart](https://api.star-history.com/svg?repos=opencsapp/opencsapp.github.io&type=Date)](https://star-history.com/#opencsapp/opencsapp.github.io&Date)
 
