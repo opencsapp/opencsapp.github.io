@@ -1,4 +1,8 @@
-# CS PhD/Master F1签证
+---
+hide:
+  - navigation
+---
+# CS PhD&Master F1签证
 [原文链接](https://denghilbert.github.io/blog/%E6%B5%81%E7%A8%8B)
 
 
@@ -371,3 +375,5 @@ SEVIS费一定要保证签证面签前三个工作日缴纳。
 
 
 # 希望大家都遇到善良VO，顺利拿下！
+
+[回到列表 :fontawesome-solid-house:](blog.md){ .md-button }
