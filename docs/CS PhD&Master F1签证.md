@@ -103,11 +103,11 @@ SEVIS费一定要保证签证面签前三个工作日缴纳。
 
    
 
-   ![profile photo](https://denghilbert.github.io/blog/images/qian/image-20230322223724148.png)
+   ![profile photo](https://denghilbert.github.io/blog/images/qian/f1.png)
 
 7. 支付并打印缴费确认
 
-   ![profile photo](https://denghilbert.github.io/blog/images/qian/image-20230322224101541.png)
+   ![profile photo](https://denghilbert.github.io/blog/images/qian/conf.png)
 
 
 
