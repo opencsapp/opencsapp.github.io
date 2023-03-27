@@ -11,5 +11,7 @@
 ## 申请季实时信息
 
 ## 介绍帖
+[UCSD ECE(EC79 80 82 93)：项目介绍与课程横评](https://www.1point3acres.com/bbs/thread-981628-1-1.html)
+
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
