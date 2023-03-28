@@ -41,7 +41,7 @@ hide:
 1. [查询最早美签](https://tuixue.online/visa/)，网站还是有一丢丢延迟，但拿来参考预约时间很有帮助。
 2. 面签之前去雍和宫拜一下，有一丢丢灵（doge
 3. 沈阳不行，整体上应该是北京≈上海>广州
-4. 我用于面签的[CV](https://denghilbert.github.io/blog/images/qian/resume.md)和[Research Proposal/Study Plan](https://denghilbert.github.io/blog/images/qian/Research&nbspProposal&nbsp.md)结构（还没挂出来，让我mask一些个人信息。。。）
+4. 我用于面签的[CV](https://github.com/denghilbert/denghilbert.github.io/blob/main/blog/images/qian/resume.md)和[Research Proposal/Study Plan](https://github.com/denghilbert/denghilbert.github.io/blob/main/blog/images/qian/Research%20Proposal%20.md)结构（~~还没挂出来，让我mask一些个人信息。。。~~）
 5. 参考一下[官方给的要求](https://www.ustraveldocs.com/cn/cn-niv-typefandm.asp)以及模板[CV](https://www.ustraveldocs.com/Resume%CC%81%20LCW%20Edits-1.pdf)和[Research Proposal/Study Plan](https://www.ustraveldocs.com/cn/Research%20or%20Study%20Plan-1.pdf)
 6. 接上一条，自己的材料一定不要出现[Technology Alert List](https://www.bu.edu/isso/files/pdf/tal.pdf)上面的东西，老板的简历Master尽量避免
 7. PhD，面签的时候记得强调，拿的是全奖
