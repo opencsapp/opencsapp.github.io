@@ -17,5 +17,6 @@
 ## 申请季实时信息
 
 ## 介绍帖
+[【19Fall】JHU MSE CS 长文介绍](https://www.1point3acres.com/bbs/thread-613474-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
