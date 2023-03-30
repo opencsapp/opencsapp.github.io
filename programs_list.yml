@@ -64,6 +64,8 @@
       - MSCS@Columbia
       - MSCS@Dartmouth
       - MSCS@UCSB
+      - MCS@Rice
+      - MPCS@UChicago
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
@@ -79,7 +81,6 @@
       - MSE-SS@CMU
       - MSCS@NYU Courant
       - MSCS@NYU Tandon
-      - MCS@Rice
       - MPCS@SFU
       - MCS@TAMU
       - MCS@UCI
@@ -100,6 +101,7 @@
       - MSCSE@UCSC
       - MSCS&SE@UWB
       - NetSys@UCI
+      - MSECS@JHU
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
@@ -144,13 +146,11 @@
       - IS@Pitt
 - 待分类:
     CS:
-      - MSECS@JHU
       - PCP@Wisc
       - MSCS@SMU
       - MSCS@Utah
       - MSCS@SCU
       - MSCS@Syracuse
-      - MPCS@UChicago
     NONCS:
 - 陆本黑洞:
     CS:
