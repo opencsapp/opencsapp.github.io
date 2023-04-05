@@ -86,7 +86,6 @@
       - MCS@UCI
       - MSWE@UCI
       - CS28@USC
-      - CS-PMP@Wisc
     NONCS:
       - DS75@UCSD
       - MISM@CMU
@@ -147,6 +146,7 @@
 - 待分类:
     CS:
       - PCP@Wisc
+      - CS-PMP@Wisc
       - MSCS@SMU
       - MSCS@Utah
       - MSCS@SCU
