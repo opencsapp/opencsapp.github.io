@@ -32,6 +32,10 @@ Computer Science Professors 收录了各校各年度新晋 faculty 名录和研�
 
 TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极大方便找工/移民/硕博申请，推荐本科低年级同学了解。
 
+### [Global CS](https://global-cs-application.github.io/)
+
+针对欧洲港新澳洲地区计算机硕士相关项目的介绍网站
+
 ### [:fontawesome-brands-github: awesome-phd-advice](https://github.com/pliang279/awesome-phd-advice)
 
 为未来和当前的博士生收集的建议
