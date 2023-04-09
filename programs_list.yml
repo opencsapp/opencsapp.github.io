@@ -44,7 +44,6 @@
       - MCS@UIUC
       - MMath@Waterloo
     NONCS:
-      - MDSAI@Waterloo
       - ECE Meng(coop)@Waterloo
       - ECE@UT Austin
 - A:
@@ -54,6 +53,7 @@
       - CS75@UCSD
       - CM@Cornell Tech
     NONCS:
+      - MDSAI@Waterloo
       - MScAc@UofT
       - ECE@CMU
       - ECE Meng@UBC
