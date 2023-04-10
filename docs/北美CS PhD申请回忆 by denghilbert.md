@@ -2,7 +2,7 @@
 hide:
   - navigation
 ---
-# 北美CS PhD申请回忆
+# 北美CS PhD申请回忆 by denghilbert
 
 [原文链接](https://denghilbert.github.io/blog/PhD%E7%94%B3%E8%AF%B7%E5%9B%9E%E5%BF%86.html)
 
