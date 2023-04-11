@@ -11,7 +11,7 @@ hide:
 [![GitHub Repo stars](https://img.shields.io/github/stars/opencsapp/opencsapp.github.io?style=social)](https://github.com/opencsapp/opencsapp.github.io)
 [![GitHub followers](https://img.shields.io/github/followers/xichenpan?style=social)](https://github.com/xichenpan)
 
-本站内容开源协同创作，期待你[贡献内容](contribute.md)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
+**本站内容开源协同创作，期待你[贡献内容](contribute.md)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！**
 
 [opencs.app](https://opencs.app/) | [csmsapp.org](https://csmsapp.org/) | [opencsapp.github.io](https://opencsapp.github.io/)
 
