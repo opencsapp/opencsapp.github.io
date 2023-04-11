@@ -22,13 +22,13 @@ hide:
 
 以下因素会增加安调风险
 
-### 大量增加风险
+**大量增加风险**
 * STEM PhD / Postdoc
 * 参与敏感研究，如国防安全等研究项目
 * 敏感研究方向，如AI，可参考[美国alert list](https://www.bu.edu/isso/files/pdf/tal.pdf)
 * 敏感企业实习或全职工作经历，如华为等
 
-### 少量增加风险
+**少量增加风险**
 * STEM 研究型硕士
 * 中国国籍
 * 在中国大陆递签，尤其被北京office审理的case
