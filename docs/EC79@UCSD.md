@@ -13,5 +13,8 @@ UCSD ECE 下最好的转码项目，每年有不少科班选手申请，项目�
 ## 申请季实时信息
 
 ## 介绍帖
+[UCSD ECE(EC79 80 82 93)：项目介绍与课程横评](https://www.1point3acres.com/bbs/thread-981628-1-1.html)
+
+[【21 Spring】UCSD EC79 深度评价求米](https://www.1point3acres.com/bbs/thread-872283-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

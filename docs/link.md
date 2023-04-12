@@ -62,3 +62,8 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 ### [四川大学计软网生存手册](https://scu-cs-runner.github.io/SurviveSCUManual/)
 
+## 相关项目
+
+### [Global CS](https://global-cs-application.github.io/)
+
+针对欧洲港新澳洲地区计算机硕士相关项目的介绍网站

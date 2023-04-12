@@ -14,6 +14,8 @@ home unit 录取难度：CoC > ISyE > CEE 等其他 units
 
 非 CoC home unit 可以在春季学期申请转到 CoC unit. 不过 unit 也就选课有一些区别，转不转区别不大，最后毕业证是一样的
 
+各个home unit选课要求和项目信息参考https://cse.gatech.edu/sites/cse.gatech.edu/files/handbook-2022-12-06.pdf
+
 ## 申请季实时信息
 
 ## 介绍帖

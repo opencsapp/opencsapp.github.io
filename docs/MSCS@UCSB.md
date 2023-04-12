@@ -17,5 +17,6 @@ TA 机会很多
 ## 申请季实时信息
 
 ## 介绍帖
+[【22Fall】UCSB计算机硕士项目就读体验](https://www.1point3acres.com/bbs/thread-954851-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

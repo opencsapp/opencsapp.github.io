@@ -1,7 +1,7 @@
 ## 录取偏好
 
 录取者几乎全部来自海本，陆本有但是不多，20fall 有一个 fdu 的，21fall 有一个 sysu 的。
-有 Top2 同学获得 offer，但并未最终就读。
+有 Top2 同学获得 offer，但并未最终就读。23fall该项目有扩招趋势，有来自buaa和hit的同学获得offer。
 
 ## 代表性 dp
 

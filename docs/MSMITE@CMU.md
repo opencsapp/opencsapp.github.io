@@ -10,6 +10,8 @@
 
 出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
+实习统计参考[官方报告](https://www.cmu.edu/ini/student-services/career_services/internship.html)
+
 ## 申请季实时信息
 
 ## 介绍帖
