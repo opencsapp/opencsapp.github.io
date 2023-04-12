@@ -12,6 +12,10 @@
 
 dp 比较少，22fall 没见到几个录取，考虑难度梯度升档
 
+
+
+23fall 地里完全没有见到陆本实名dp，建议难度升档
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

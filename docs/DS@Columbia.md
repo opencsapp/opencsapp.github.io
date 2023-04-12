@@ -8,6 +8,8 @@
 
 ## 申请季实时信息
 
+23fall 陆本录取较往年变少
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
