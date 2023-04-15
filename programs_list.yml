@@ -124,6 +124,7 @@
     NONCS:
       - ECE@Duke-Kunshan
       - ECE@GaTech-Shenzhen
+      - ECE@uOttawa
       - CE@NYU Tandon
 - C+:
     CS:
@@ -136,6 +137,7 @@
       - CS Meng@VT
     NONCS:
       - IS@NEU
+      - SES@NEU
 - C:
     CS:
       - MSCS@BC
