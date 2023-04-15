@@ -19,5 +19,6 @@ MS 严卡托福 105
 22fall 扩招中，需要关注 class size 相较之前变大
 
 ## 介绍帖
+[【22Fall】Brown CS 一学期就读体验，推荐追求wlb以及找工的同学选择](https://www.1point3acres.com/bbs/thread-953121-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
