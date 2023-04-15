@@ -26,7 +26,7 @@ if __name__ == "__main__":
 
         docs_programs = programs.copy()
         for i, program in enumerate(docs_programs):
-            docs_programs[i] = '[*{0}*]({0}.md)\n\n'.format(program) if program in noncs_programs else '[{0}]({0}.md)\n\n'.format(program)
+            docs_programs[i] = '[*{0}*]({0}.md)\n\n'.format(program) if program in noncs_programs else '[**{0}**]({0}.md)\n\n'.format(program)
         docs_content.append('### {0}\n\n'.format(level))
         docs_content += docs_programs
 
