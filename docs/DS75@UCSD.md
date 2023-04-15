@@ -14,5 +14,4 @@ HDSI从18年开始筹备资金，21年挖了很多其他top15的senior和四大p
 
 22fall疑似点击就送
 
-
-[回到列表 :fontawesome-solid-house:](选校梯度.md){ .md-button }
+[回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
