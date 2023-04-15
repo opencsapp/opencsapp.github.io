@@ -1,6 +1,6 @@
 site_name: Open CS Application
-site_author: 'opencsapp'
-copyright: '&copy; 2022-2023 opencsapp'
+site_author: 'OpenCSApp'
+copyright: '&copy; 2022-2023 OpenCSApp'
 theme:
   name: material
   custom_dir: overrides
