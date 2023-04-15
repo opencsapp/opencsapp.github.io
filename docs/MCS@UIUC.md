@@ -10,10 +10,15 @@
 
 和 UIUC MSCS 仅是不做 thesis 的区别，上课完全相同。价格便宜，课程质量不错，学校 reputation 好。
 
+2023Fall开始可以coop，第三学期去做加上summer intern可以两段实习。
+
 ## 申请季实时信息
 
-2021/2022fall 连续扩招（2021fall 发了 200+offer，2022fall300+），难度降低了不少，但仍然是好项目。
+2021/2022fall 连续扩招（2021fall 发了 200+offer，2022fall 300+），难度降低了不少，但仍然是好项目。
+
+2023fall 难度上升明显
 
 ## 介绍帖
+[【23Fall】新政策: UIUC CS硕可以第三学期Coop+四学期毕业](https://www.1point3acres.com/bbs/thread-988120-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
