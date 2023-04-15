@@ -15,8 +15,8 @@
 - BCPNP
 - 现在项目分裂成三个子项目（针对不同 track）了，都申请的话需要分别交申请费，分别为：
   - Professional Computer Science MSc (Big Data)
-  - Master of Cybersecurity
-  - Master of Visual Computing
+  - [Master of Cybersecurity](./Cybersecurity%40SFU.md)
+  - [Master of Visual Computing](./VC%40SFU.md)
 
 ## 申请季实时信息
 
