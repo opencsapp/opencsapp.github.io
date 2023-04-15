@@ -13,6 +13,7 @@ theme:
     - content.code.copy
     - navigation.tabs
     - navigation.top
+    - navigation.footer
     - navigation.instant
     - toc.follow
     - search.highlight
