@@ -26,6 +26,8 @@ com/comm: committee
 
 IRCC: Immigration, Refugees and Citizenship Canada
 
+STEM: Science, Technology, Engineering, and Math
+
 SDE: Software Development Engineer
 
 MLE: Machine Learning Engineer
@@ -34,7 +36,11 @@ RS: Research Scientist
 
 DS: Data Science
 
-MS: Master of Science
+MS/MSc: Master of Science
+
+MASc: Master of Applied Science
+
+MEng: Master of Engineering
 
 ScM: Science Master
 
@@ -88,9 +94,11 @@ co-op: Cooperative education，学期内官方带薪实习。
 
 这种项目是送分统一送到学校的办公室，各个项目都可以 access 到送到学校的分数，只需要选择 Institute Code 即可，Department Code 没有影响，任意填写即可，一般可以选择 99
 
-### TOEFL/GRE 需要提前多久送分？
+### IELTS/TOEFL/GRE 需要提前多久送分？
 
 目前都是电子送分，根据很多项目 FAQ 的描述，ETS 每周两次将分数送到学校，送分之后网申界面没有显示 Verified 是因为小秘没有帮你 match 分数。所以在 ddl 前送分即可。
+
+另外，对于申请**加拿大**的大多数项目，似乎不需要提前送分（具体可查看官网要求或者咨询小蜜），申请时一般只需要在网申页面上传IELTS/TOEFL/GRE的PDF成绩单即可，仅当被正式录取后才需要安排送分。
 
 ### 我是半年前/一年前考的 TOEFL，当时送了分，现在还需要再送一次吗？
 
@@ -98,7 +106,7 @@ co-op: Cooperative education，学期内官方带薪实习。
 
 ### 申请越早提交越好吗？
 
-不是的，大部分项目都是在申请 DDL 之后整理材料进行 review，所以早交没有好处，不如继续打磨材料，丰富背景，到了 DDL 之前再提交。需要注意，有部分学校的申请系统有部分操作是由小秘手工完成的，如 Waterloo，Austin 等，需要交完申请费后等待他们发给你账号，所以建议至少提前 5 天注册一下申请系统，了解申请流程。
+看情况，**大部分项目**都是在申请 DDL 之后整理材料进行 review，所以早交没有好处，不如继续打磨材料，丰富背景，到了 DDL 之前再提交；但是对于某些rolling（滚动录取）的项目，比如CSG@NEU，ECE@uOttawa，ECE@Waterloo等，早提交的确有助于早点拿到录取结果。需要注意，有部分学校的申请系统有部分操作是由小秘手工完成的，如 Waterloo，Austin 等，需要交完申请费后等待他们发给你账号，所以建议至少提前 5 天注册一下申请系统，了解申请流程。
 
 ### 我的申请没有提交，推荐信链接会发送给推荐人吗？
 
