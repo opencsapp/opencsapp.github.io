@@ -12,6 +12,6 @@
 
 ## 介绍帖
 
-[就读+找工+生活体验](https://www.1point3acres.com/bbs/thread-965723-1-1.html)
+- 地里帖子：[就读+找工+生活体验](https://www.1point3acres.com/bbs/thread-965723-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
