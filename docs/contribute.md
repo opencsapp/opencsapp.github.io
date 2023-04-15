@@ -58,7 +58,7 @@ PR (Pull Request) 是基于 Git 的协同创作方式，允许用户方便地进
 
 ## 如何添加新项目
 
-首先点击[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)添加新项目。然后拷贝以下项目模板，并[点击此处](https://github.com/opencsapp/opencsapp.github.io/new/master/docs)创建新文件，保持命名与[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)中一致，完成内容填写后PR即可。
+首先点击[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)添加新项目（顺序随意即可，脚本会自动调整）。然后拷贝以下项目模板，并[点击此处](https://github.com/opencsapp/opencsapp.github.io/new/master/docs)创建新文件，保持命名与[选校梯度](https://github.com/opencsapp/opencsapp.github.io/edit/master/programs_list.yml)中一致，完成内容填写后PR即可。
 
 ``` markdown title="项目模板"
 ## 录取偏好
