@@ -87,6 +87,8 @@
       - MCS@UCI
       - MSWE@UCI
       - CS28@USC
+      - MSCS@uAlberta
+      - MSCS@uCalgary
     NONCS:
       - DS75@UCSD
       - MISM@CMU
@@ -102,9 +104,12 @@
       - MSCS&SE@UWB
       - NetSys@UCI
       - MSECS@JHU
+      - MCS@uOttawa
+      - MSCS@Western
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
+      - MEng Soft@uCalgary
       - MSIM@UIUC
       - MI@UofT
 - B-:
@@ -126,8 +131,10 @@
       - ECE@Duke-Kunshan
       - ECE@GaTech-Shenzhen
       - ECE MEng@uOttawa
+      - ECE MEng@Western
+      - ECE MEng@uAlberta
       - CE@NYU Tandon
-      - VC@SFU
+      - Visual Computing@SFU
       - Cybersecurity@SFU
       - MSIS@NYU Courant
 - C+:
