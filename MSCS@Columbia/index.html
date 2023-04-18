@@ -1,0 +1,1511 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width,initial-scale=1" name="viewport"/>
+<meta content="OpenCSApp" name="author"/>
+<link href="../ScM%20CS%40Brown/" rel="prev"/>
+<link href="../MSCS%40Dartmouth/" rel="next"/>
+<link href="../images/logo.png" rel="icon"/>
+<meta content="mkdocs-1.4.2, mkdocs-material-9.1.6" name="generator"/>
+<title>MSCS@Columbia - Open CS Application</title>
+<link href="../assets/stylesheets/main.ded33207.min.css" rel="stylesheet"/>
+<link href="../assets/stylesheets/palette.a0c5b2b5.min.css" rel="stylesheet"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback" rel="stylesheet"/>
+<style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<link href="../css/timeago.css" rel="stylesheet"/>
+<link href="../stylesheets/extra.css" rel="stylesheet"/>
+<script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<script id="__analytics">function __md_analytics(){function n(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],n("js",new Date),n("config","G-MWWFQ6MJG4"),document.addEventListener("DOMContentLoaded",function(){document.forms.search&&document.forms.search.query.addEventListener("blur",function(){this.value&&n("event","search",{search_term:this.value})}),document$.subscribe(function(){var a=document.forms.feedback;if(void 0!==a)for(var e of a.querySelectorAll("[type=submit]"))e.addEventListener("click",function(e){e.preventDefault();var t=document.location.pathname,e=this.getAttribute("data-md-value");n("event","feedback",{page:t,data:e}),a.firstElementChild.disabled=!0;e=a.querySelector(".md-feedback__note [data-md-value='"+e+"']");e&&(e.hidden=!1)}),a.hidden=!1}),location$.subscribe(function(e){n("config","G-MWWFQ6MJG4",{page_path:e.pathname})})});var e=document.createElement("script");e.async=!0,e.src="https://www.googletagmanager.com/gtag/js?id=G-MWWFQ6MJG4",document.getElementById("__analytics").insertAdjacentElement("afterEnd",e)}</script>
+<script>var consent;"undefined"==typeof __md_analytics||(consent=__md_get("__consent"))&&consent.analytics&&__md_analytics()</script>
+<link href="../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            
+                .gscrollbar-fixer { padding-right: 15px; }
+                .gdesc-inner { font-size: 0.75rem; }
+                body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+                body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+                body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}
+                </style><script src="../assets/javascripts/glightbox.min.js"></script></head>
+<body data-md-color-accent="amber" data-md-color-primary="blue" data-md-color-scheme="default" dir="ltr">
+<script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+<input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
+<input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
+<label class="md-overlay" for="__drawer"></label>
+<div data-md-component="skip">
+<a class="md-skip" href="#_1">
+          Skip to content
+        </a>
+</div>
+<div data-md-component="announce">
+<aside class="md-banner">
+<div class="md-banner__inner md-grid md-typeset">
+<button aria-label="Don't show this again" class="md-banner__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+<h2>刚过415，23Fall已经基本落下帷幕了，希望同学们都拿到了理想的Offer，感谢大家一年的陪伴。</h2>
+<h2>这里诚挚邀请同学们<a href="contribute/">贡献内容</a>和<a href="datapoints/">提交DataPoints</a>，留下申请季宝贵的经验，帮助下一届学弟学妹</h2>
+<h2></h2>
+</div>
+<script>var content,el=document.querySelector("[data-md-component=announce]");el&&(content=el.querySelector(".md-typeset"),__md_hash(content.innerHTML)===__md_get("__announce")&&(el.hidden=!0))</script>
+</aside>
+</div>
+<header class="md-header" data-md-component="header">
+<nav aria-label="Header" class="md-header__inner md-grid">
+<a aria-label="Open CS Application" class="md-header__button md-logo" data-md-component="logo" href="/grade/" title="Open CS Application">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3 1 9l11 6 9-4.91V17h2V9M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82Z"></path></svg>
+</a>
+<label class="md-header__button md-icon" for="__drawer">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"></path></svg>
+</label>
+<div class="md-header__title" data-md-component="header-title">
+<div class="md-header__ellipsis">
+<div class="md-header__topic">
+<span class="md-ellipsis">
+            Open CS Application
+          </span>
+</div>
+<div class="md-header__topic" data-md-component="header-topic">
+<span class="md-ellipsis">
+            
+              MSCS@Columbia
+            
+          </span>
+</div>
+</div>
+</div>
+<form class="md-header__option" data-md-component="palette">
+<input aria-hidden="true" class="md-option" data-md-color-accent="amber" data-md-color-media="" data-md-color-primary="blue" data-md-color-scheme="default" id="__palette_1" name="__palette" type="radio"/>
+</form>
+<label class="md-header__button md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+</label>
+<div class="md-search" data-md-component="search" role="dialog">
+<label class="md-search__overlay" for="__search"></label>
+<div class="md-search__inner" role="search">
+<form class="md-search__form" name="search">
+<input aria-label="Search" autocapitalize="off" autocomplete="off" autocorrect="off" class="md-search__input" data-md-component="search-query" name="query" placeholder="Search" required="" spellcheck="false" type="text"/>
+<label class="md-search__icon md-icon" for="__search">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"></path></svg>
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</label>
+<nav aria-label="Search" class="md-search__options">
+<button aria-label="Clear" class="md-search__icon md-icon" tabindex="-1" title="Clear" type="reset">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"></path></svg>
+</button>
+</nav>
+</form>
+<div class="md-search__output">
+<div class="md-search__scrollwrap" data-md-scrollfix="">
+<div class="md-search-result" data-md-component="search-result">
+<div class="md-search-result__meta">
+            Initializing search
+          </div>
+<ol class="md-search-result__list" role="presentation"></ol>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="md-header__source">
+<a class="md-source" data-md-component="source" href="https://github.com/opencsapp/opencsapp.github.io" title="Go to repository">
+<div class="md-source__icon md-icon">
+<svg viewbox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg>
+</div>
+<div class="md-source__repository">
+    opencsapp
+  </div>
+</a>
+</div>
+</nav>
+</header>
+<div class="md-container" data-md-component="container">
+<nav aria-label="Tabs" class="md-tabs" data-md-component="tabs">
+<div class="md-grid">
+<ul class="md-tabs__list">
+<li class="md-tabs__item">
+<a class="md-tabs__link md-tabs__link--active" href="..">
+        Open CS Application
+      </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../program_info/">
+      项目信息表
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../datapoints/">
+      DataPoints©
+    </a>
+</li>
+<li class="md-tabs__item">
+<a class="md-tabs__link" href="../submit/">
+        DataPoints©提交
+      </a>
+</li>
+</ul>
+</div>
+</nav>
+<main class="md-main" data-md-component="main">
+<div class="md-main__inner md-grid">
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Navigation" class="md-nav md-nav--primary md-nav--lifted" data-md-level="0">
+<label class="md-nav__title" for="__drawer">
+<a aria-label="Open CS Application" class="md-nav__button md-logo" data-md-component="logo" href="/grade/" title="Open CS Application">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 3 1 9l11 6 9-4.91V17h2V9M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82Z"></path></svg>
+</a>
+    Open CS Application
+  </label>
+<div class="md-nav__source">
+<a class="md-source" data-md-component="source" href="https://github.com/opencsapp/opencsapp.github.io" title="Go to repository">
+<div class="md-source__icon md-icon">
+<svg viewbox="0 0 496 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg>
+</div>
+<div class="md-source__repository">
+    opencsapp
+  </div>
+</a>
+</div>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_1" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+          Open CS Application
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_1_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_1">
+<span class="md-nav__icon md-icon"></span>
+          Open CS Application
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="..">
+        Home
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../contribute/">
+        内容征集
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../guide/">
+        使用指南
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../grade/">
+        选校梯度
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_5" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_5" id="__nav_1_5_label" tabindex="0">
+          SSS
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_5_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_5">
+<span class="md-nav__icon md-icon"></span>
+          SSS
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSECS%40Princeton/">
+        MSECS@Princeton
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Stanford/">
+        MSCS@Stanford
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CSE%40MIT/">
+        CSE@MIT
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_6" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_6" id="__nav_1_6_label" tabindex="0">
+          SS
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_6_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_6">
+<span class="md-nav__icon md-icon"></span>
+          SS
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MLT%40CMU/">
+        MLT@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40CMU/">
+        MSCS@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSML%40CMU/">
+        MSML@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSR%40CMU/">
+        MSR@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCIS%40UPenn/">
+        MCIS@UPenn
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UT-Austin/">
+        MSCS@UT-Austin
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Two-Year%20MSCS%40Yale/">
+        Two-Year MSCS@Yale
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CSE%40Harvard/">
+        CSE@Harvard
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DS%40Harvard/">
+        DS@Harvard
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ICME%40Stanford/">
+        ICME@Stanford
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_7" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_7" id="__nav_1_7_label" tabindex="0">
+          S
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_7_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_7">
+<span class="md-nav__icon md-icon"></span>
+          S
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCDS%40CMU/">
+        MCDS@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MIIS%40CMU/">
+        MIIS@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSAII%40CMU/">
+        MSAII@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCV%40CMU/">
+        MSCV@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS%20Meng%40Cornell/">
+        CS Meng@Cornell
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UCLA/">
+        MSCS@UCLA
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UIUC/">
+        MSCS@UIUC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCSE%40UMich/">
+        MSCSE@UMich
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Wisc/">
+        MSCS@Wisc
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../EE%40Stanford/">
+        EE@Stanford
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MS%26E%40Stanford/">
+        MS&amp;E@Stanford
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DS%40UPenn/">
+        DS@UPenn
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_8" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_8" id="__nav_1_8_label" tabindex="0">
+          A+
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_8_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_8">
+<span class="md-nav__icon md-icon"></span>
+          A+
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../EECS%20Meng%40Berkeley/">
+        EECS Meng@Berkeley
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSIN%40CMU/">
+        MSIN@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS%20Meng%40Cornell%20Tech/">
+        CS Meng@Cornell Tech
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Duke/">
+        MSCS@Duke
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40GaTech/">
+        MSCS@GaTech
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40NWU/">
+        MSCS@NWU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40UIUC/">
+        MCS@UIUC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MMath%40Waterloo/">
+        MMath@Waterloo
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../One-Year%20MSCS%40Yale/">
+        One-Year MSCS@Yale
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%40UT%20Austin/">
+        ECE@UT Austin
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20Meng%28coop%29%40Waterloo/">
+        ECE Meng(coop)@Waterloo
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_9" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_9" id="__nav_1_9_label" tabindex="0">
+          A
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_9_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_9">
+<span class="md-nav__icon md-icon"></span>
+          A
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../SESV%40CMU/">
+        SESV@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CM%40Cornell%20Tech/">
+        CM@Cornell Tech
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CSE%40GaTech/">
+        CSE@GaTech
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS75%40UCSD/">
+        CS75@UCSD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%40CMU/">
+        ECE@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MITS%40CMU/">
+        MITS@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DS%40NYU/">
+        DS@NYU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20Meng%40UBC/">
+        ECE Meng@UBC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MScAc%40UofT/">
+        MScAc@UofT
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MDSAI%40Waterloo/">
+        MDSAI@Waterloo
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--active md-nav__item--nested">
+<input checked="" class="md-nav__toggle md-toggle" id="__nav_1_10" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_10" id="__nav_1_10_label" tabindex="0">
+          A-
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="true" aria-labelledby="__nav_1_10_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_10">
+<span class="md-nav__icon md-icon"></span>
+          A-
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ScM%20CS%40Brown/">
+        ScM CS@Brown
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--active">
+<input class="md-nav__toggle md-toggle" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          MSCS@Columbia
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<a class="md-nav__link md-nav__link--active" href="./">
+        MSCS@Columbia
+      </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_1">
+    录取偏好
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#dp">
+    代表性 dp
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+    网申备注
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+    项目特点
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+    申请季实时信息
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+    介绍帖
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Dartmouth/">
+        MSCS@Dartmouth
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40Rice/">
+        MCS@Rice
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UCSB/">
+        MSCS@UCSB
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MPCS%40UChicago/">
+        MPCS@UChicago
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSMITE%40CMU/">
+        MSMITE@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DS%40Columbia/">
+        DS@Columbia
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CSDA%40Dartmouth/">
+        CSDA@Dartmouth
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%40Duke/">
+        ECE@Duke
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%40GaTech/">
+        ECE@GaTech
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MEng%40UCLA/">
+        MEng@UCLA
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../EC79%40UCSD/">
+        EC79@UCSD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DS%40UMich/">
+        DS@UMich
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CGGT%40UPenn/">
+        CGGT@UPenn
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_11" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_11" id="__nav_1_11_label" tabindex="0">
+          B+
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_11_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_11">
+<span class="md-nav__icon md-icon"></span>
+          B+
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSE-SS%40CMU/">
+        MSE-SS@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40NYU%20Courant/">
+        MSCS@NYU Courant
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40NYU%20Tandon/">
+        MSCS@NYU Tandon
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MPCS%40SFU/">
+        MPCS@SFU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40TAMU/">
+        MCS@TAMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40UCI/">
+        MCS@UCI
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSWE%40UCI/">
+        MSWE@UCI
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS28%40USC/">
+        CS28@USC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40uAlberta/">
+        MSCS@uAlberta
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40uCalgary/">
+        MSCS@uCalgary
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MISM%40CMU/">
+        MISM@CMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20MEng%40Cornell/">
+        ECE MEng@Cornell
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MPS-IS%40Cornell/">
+        MPS-IS@Cornell
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../DS75%40UCSD/">
+        DS75@UCSD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../EC82%40UCSD/">
+        EC82@UCSD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../EC93%40UCSD/">
+        EC93@UCSD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20Meng%40UIUC/">
+        ECE Meng@UIUC
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_12" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_12" id="__nav_1_12_label" tabindex="0">
+          B
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_12_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_12">
+<span class="md-nav__icon md-icon"></span>
+          B
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSECS%40JHU/">
+        MSECS@JHU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS%20General%40NEU/">
+        CS General@NEU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../NetSys%40UCI/">
+        NetSys@UCI
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCSE%40UCSC/">
+        MSCSE@UCSC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%26SE%40UWB/">
+        MSCS&amp;SE@UWB
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Western/">
+        MSCS@Western
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40uOttawa/">
+        MCS@uOttawa
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Cybersecurity%40SFU/">
+        Cybersecurity@SFU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../Visual%20Computing%40SFU/">
+        Visual Computing@SFU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSIM%40UIUC/">
+        MSIM@UIUC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20Meng%40UofT/">
+        ECE Meng@UofT
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MI%40UofT/">
+        MI@UofT
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20Meng%40Waterloo/">
+        ECE Meng@Waterloo
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MEng%20Soft%40uCalgary/">
+        MEng Soft@uCalgary
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_13" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_13" id="__nav_1_13_label" tabindex="0">
+          B-
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_13_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_13">
+<span class="md-nav__icon md-icon"></span>
+          B-
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40NCSU/">
+        MCS@NCSU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCSE%40OSU/">
+        MSCSE@OSU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCSE%40PSU/">
+        MSCSE@PSU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Rutgers/">
+        MSCS@Rutgers
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UCD/">
+        MSCS@UCD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UF/">
+        MSCS@UF
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UMN/">
+        MSCS@UMN
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UMass/">
+        MSCS@UMass
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCS%40UVa/">
+        MCS@UVa
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UVa/">
+        MSCS@UVa
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../EE-PMP%40UW/">
+        EE-PMP@UW
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCSS%40UWT/">
+        MSCSS@UWT
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40WUSTL/">
+        MSCS@WUSTL
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%40Duke-Kunshan/">
+        ECE@Duke-Kunshan
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%40GaTech-Shenzhen/">
+        ECE@GaTech-Shenzhen
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSIS%40NYU%20Courant/">
+        MSIS@NYU Courant
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CE%40NYU%20Tandon/">
+        CE@NYU Tandon
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20MEng%40Western/">
+        ECE MEng@Western
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20MEng%40uAlberta/">
+        ECE MEng@uAlberta
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ECE%20MEng%40uOttawa/">
+        ECE MEng@uOttawa
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_14" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_14" id="__nav_1_14_label" tabindex="0">
+          C+
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_14_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_14">
+<span class="md-nav__icon md-icon"></span>
+          C+
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40BU/">
+        MSCS@BU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Emory/">
+        MSCS@Emory
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40SBU/">
+        MSCS@SBU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Tufts/">
+        MSCS@Tufts
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40UTD/">
+        MSCS@UTD
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS%20Meng%40VT/">
+        CS Meng@VT
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Vanderbilt/">
+        MSCS@Vanderbilt
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../IS%40NEU/">
+        IS@NEU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../SES%40NEU/">
+        SES@NEU
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_15" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_15" id="__nav_1_15_label" tabindex="0">
+          C
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_15_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_15">
+<span class="md-nav__icon md-icon"></span>
+          C
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40BC/">
+        MSCS@BC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40GWU/">
+        MSCS@GWU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40SIT/">
+        MSCS@SIT
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../IS%40Pitt/">
+        IS@Pitt
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_16" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_16" id="__nav_1_16_label" tabindex="0">
+          待分类
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_16_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_16">
+<span class="md-nav__icon md-icon"></span>
+          待分类
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40SCU/">
+        MSCS@SCU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40SMU/">
+        MSCS@SMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Syracuse/">
+        MSCS@Syracuse
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Utah/">
+        MSCS@Utah
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS-PMP%40Wisc/">
+        CS-PMP@Wisc
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../PCP%40Wisc/">
+        PCP@Wisc
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_17" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_17" id="__nav_1_17_label" tabindex="0">
+          陆本黑洞
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_17_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_17">
+<span class="md-nav__icon md-icon"></span>
+          陆本黑洞
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Berkeley/">
+        MSCS@Berkeley
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Cornell/">
+        MSCS@Cornell
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Purdue/">
+        MSCS@Purdue
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSc%40UofT/">
+        MSc@UofT
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_1_18" type="checkbox"/>
+<label class="md-nav__link" for="__nav_1_18" id="__nav_1_18_label" tabindex="0">
+          转码
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_1_18_label" class="md-nav" data-md-level="2">
+<label class="md-nav__title" for="__nav_1_18">
+<span class="md-nav__icon md-icon"></span>
+          转码
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Brandeis/">
+        MSCS@Brandeis
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS%20Align%40NEU/">
+        CS Align@NEU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40SCU/">
+        MSCS@SCU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40SMU/">
+        MSCS@SMU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Syracuse/">
+        MSCS@Syracuse
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSWE%40UCI/">
+        MSWE@UCI
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MPCS%40UChicago/">
+        MPCS@UChicago
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MCIT%40UPenn/">
+        MCIT@UPenn
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../CS37%40USC/">
+        CS37@USC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSCS%40Utah/">
+        MSCS@Utah
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../PCP%40Wisc/">
+        PCP@Wisc
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../ISB%40NEU/">
+        ISB@NEU
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSIS%40NYU%20Courant/">
+        MSIS@NYU Courant
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSIM%40UIUC/">
+        MSIM@UIUC
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../MSIS%40UNC/">
+        MSIS@UNC
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../blog/">
+        Blog
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../phdinfo/">
+        PhD申请
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../faq/">
+        申请FAQ
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../link/">
+        外部链接
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../zen/">
+        CS选校之禅
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../sponsor/">
+        赞赏计划
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../program_info/">
+        项目信息表
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../datapoints/">
+        DataPoints©
+      </a>
+</li>
+<li class="md-nav__item md-nav__item--nested">
+<input class="md-nav__toggle md-toggle" id="__nav_4" type="checkbox"/>
+<label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+          DataPoints©提交
+          <span class="md-nav__icon md-icon"></span>
+</label>
+<nav aria-expanded="false" aria-labelledby="__nav_4_label" class="md-nav" data-md-level="1">
+<label class="md-nav__title" for="__nav_4">
+<span class="md-nav__icon md-icon"></span>
+          DataPoints©提交
+        </label>
+<ul class="md-nav__list" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="../submit/">
+        Home
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../newdatapoints/">
+        DataPoints收集表
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../newprogress/">
+        Progress收集表
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../newapplicant/">
+        申请者信息收集表
+      </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="../newprogram/">
+        添加新项目
+      </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+<div class="md-sidebar__scrollwrap">
+<div class="md-sidebar__inner">
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_1">
+    录取偏好
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#dp">
+    代表性 dp
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_2">
+    网申备注
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_3">
+    项目特点
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_4">
+    申请季实时信息
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#_5">
+    介绍帖
+  </a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<div class="md-content" data-md-component="content">
+<article class="md-content__inner md-typeset">
+<a class="md-content__button md-icon" href="https://github.com/opencsapp/opencsapp.github.io/edit/master/docs/MSCS@Columbia.md" title="Edit this page">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"></path></svg>
+</a>
+<h1>MSCS@Columbia</h1>
+<h2 id="_1">录取偏好</h2>
+<p>录取的陆本很多是绩点高排名高，但也不绝对</p>
+<p>转专业友好</p>
+<h2 id="dp">代表性 dp</h2>
+<p>【22fall】SCUT 89+/100 前 3% 一段实习，三段国内科研（T101 G321）</p>
+<h2 id="_2">网申备注</h2>
+<p>收到录取后，需要在两周之内交 4 千刀占位费，占位费可以申请延期（通常能延后一到两周）</p>
+<h2 id="_3">项目特点</h2>
+<p>东海岸大众情人项目，专排综排都很强，NYC location，class size 大</p>
+<p>international student 课程固定为 4+4+2 来上的</p>
+<h2 id="_4">申请季实时信息</h2>
+<p>21fall 以来劝退贴不少，主要控诉 class size 太大以及 career support 不好。哥大老校长 22 年辞职，在任期间搞哥大教育产业化，导致综排很高，硕士 class size 太大，reputation 不好。未来可能会缩招（存疑）</p>
+<p>22fall 缩招</p>
+<h2 id="_5">介绍帖</h2>
+<p><a class="md-button" href="../grade/">回到列表 <span class="twemoji"><svg viewbox="0 0 576 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M575.8 255.5c0 18-15 32.1-32 32.1h-32l.7 160.2c0 2.7-.2 5.4-.5 8.1V472c0 22.1-17.9 40-40 40h-16c-1.1 0-2.2 0-3.3-.1-1.4.1-2.8.1-4.2.1H392c-22.1 0-40-17.9-40-40v-88c0-17.7-14.3-32-32-32h-64c-17.7 0-32 14.3-32 32v88c0 22.1-17.9 40-40 40h-55.9c-1.5 0-3-.1-4.5-.2-1.2.1-2.4.2-3.6.2h-16c-22.1 0-40-17.9-40-40V360c0-.9 0-1.9.1-2.8v-69.6H32c-18 0-32-14-32-32.1 0-9 3-17 10-24L266.4 8c7-7 15-8 22-8s15 2 21 7l255.4 224.5c8 7 12 15 11 24z"></path></svg></span></a></p>
+<hr/>
+<div class="md-source-file">
+<small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2023-04-18T11:50:13+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-04-18</span>
+<br/>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2023-04-18T11:50:13+00:00" locale="en"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-04-18</span>
+</small>
+</div>
+<!-- Giscus -->
+<h2 id="__comments">Comments</h2>
+<script async="" crossorigin="anonymous" data-category="Announcements" data-category-id="DIC_kwDOHE5UVM4COTZx" data-emit-metadata="0" data-input-position="top" data-lang="zh-CN" data-loading="lazy" data-mapping="pathname" data-reactions-enabled="1" data-repo="opencsapp/opencsapp.github.io" data-repo-id="R_kgDOHE5UVA" data-strict="1" data-theme="light" src="https://giscus.app/client.js">
+</script>
+<!-- Reload on palette change -->
+<script>
+    var palette = __md_get("__palette")
+    if (palette && typeof palette.color === "object")
+      if (palette.color.scheme === "slate") {
+        var giscus = document.querySelector("script[src*=giscus]")
+        giscus.setAttribute("data-theme", "dark") 
+      }
+
+    /* Register event handlers after documented loaded */
+    document.addEventListener("DOMContentLoaded", function() {
+      var ref = document.querySelector("[data-md-component=palette]")
+      ref.addEventListener("change", function() {
+        var palette = __md_get("__palette")
+        if (palette && typeof palette.color === "object") {
+          var theme = palette.color.scheme === "slate" ? "dark" : "light"
+
+          /* Instruct Giscus to change theme */
+          var frame = document.querySelector(".giscus-frame")
+          frame.contentWindow.postMessage(
+            { giscus: { setConfig: { theme } } },
+            "https://giscus.app"
+          )
+        }
+      })
+    })
+  </script>
+</article>
+</div>
+</div>
+<button class="md-top md-icon" data-md-component="top" hidden="" type="button">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"></path></svg>
+            Back to top
+          </button>
+</main>
+<footer class="md-footer">
+<nav aria-label="Footer" class="md-footer__inner md-grid">
+<a aria-label="Previous: ScM CS@Brown" class="md-footer__link md-footer__link--prev" href="../ScM%20CS%40Brown/" rel="prev">
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"></path></svg>
+</div>
+<div class="md-footer__title">
+<span class="md-footer__direction">
+                Previous
+              </span>
+<div class="md-ellipsis">
+                ScM CS@Brown
+              </div>
+</div>
+</a>
+<a aria-label="Next: MSCS@Dartmouth" class="md-footer__link md-footer__link--next" href="../MSCS%40Dartmouth/" rel="next">
+<div class="md-footer__title">
+<span class="md-footer__direction">
+                Next
+              </span>
+<div class="md-ellipsis">
+                MSCS@Dartmouth
+              </div>
+</div>
+<div class="md-footer__button md-icon">
+<svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"></path></svg>
+</div>
+</a>
+</nav>
+<div class="md-footer-meta md-typeset">
+<div class="md-footer-meta__inner md-grid">
+<div class="md-copyright">
+<div class="md-copyright__highlight">
+      © 2022-2023 OpenCSApp
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" rel="noopener" target="_blank">
+      Material for MkDocs
+    </a>
+</div>
+<div class="md-social">
+<a class="md-social__link" href="https://jq.qq.com/?_wv=1027&amp;k=yAmXwWYl" rel="noopener" target="_blank" title="jq.qq.com">
+<svg viewbox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M433.754 420.445c-11.526 1.393-44.86-52.741-44.86-52.741 0 31.345-16.136 72.247-51.051 101.786 16.842 5.192 54.843 19.167 45.803 34.421-7.316 12.343-125.51 7.881-159.632 4.037-34.122 3.844-152.316 8.306-159.632-4.037-9.045-15.25 28.918-29.214 45.783-34.415-34.92-29.539-51.059-70.445-51.059-101.792 0 0-33.334 54.134-44.859 52.741-5.37-.65-12.424-29.644 9.347-99.704 10.261-33.024 21.995-60.478 40.144-105.779C60.683 98.063 108.982.006 224 0c113.737.006 163.156 96.133 160.264 214.963 18.118 45.223 29.912 72.85 40.144 105.778 21.768 70.06 14.716 99.053 9.346 99.704z"></path></svg>
+</a>
+<a class="md-social__link" href="https://discord.gg/HeB9QXZdFR" rel="noopener" target="_blank" title="discord.gg">
+<svg viewbox="0 0 640 512" xmlns="http://www.w3.org/2000/svg"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M524.531 69.836a1.5 1.5 0 0 0-.764-.7A485.065 485.065 0 0 0 404.081 32.03a1.816 1.816 0 0 0-1.923.91 337.461 337.461 0 0 0-14.9 30.6 447.848 447.848 0 0 0-134.426 0 309.541 309.541 0 0 0-15.135-30.6 1.89 1.89 0 0 0-1.924-.91 483.689 483.689 0 0 0-119.688 37.107 1.712 1.712 0 0 0-.788.676C39.068 183.651 18.186 294.69 28.43 404.354a2.016 2.016 0 0 0 .765 1.375 487.666 487.666 0 0 0 146.825 74.189 1.9 1.9 0 0 0 2.063-.676A348.2 348.2 0 0 0 208.12 430.4a1.86 1.86 0 0 0-1.019-2.588 321.173 321.173 0 0 1-45.868-21.853 1.885 1.885 0 0 1-.185-3.126 251.047 251.047 0 0 0 9.109-7.137 1.819 1.819 0 0 1 1.9-.256c96.229 43.917 200.41 43.917 295.5 0a1.812 1.812 0 0 1 1.924.233 234.533 234.533 0 0 0 9.132 7.16 1.884 1.884 0 0 1-.162 3.126 301.407 301.407 0 0 1-45.89 21.83 1.875 1.875 0 0 0-1 2.611 391.055 391.055 0 0 0 30.014 48.815 1.864 1.864 0 0 0 2.063.7A486.048 486.048 0 0 0 610.7 405.729a1.882 1.882 0 0 0 .765-1.352c12.264-126.783-20.532-236.912-86.934-334.541ZM222.491 337.58c-28.972 0-52.844-26.587-52.844-59.239s23.409-59.241 52.844-59.241c29.665 0 53.306 26.82 52.843 59.239 0 32.654-23.41 59.241-52.843 59.241Zm195.38 0c-28.971 0-52.843-26.587-52.843-59.239s23.409-59.241 52.843-59.241c29.667 0 53.307 26.82 52.844 59.239 0 32.654-23.177 59.241-52.844 59.241Z"></path></svg>
+</a>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<div class="md-dialog" data-md-component="dialog">
+<div class="md-dialog__inner md-typeset"></div>
+</div>
+<div class="md-consent" data-md-component="consent" hidden="" id="__consent">
+<div class="md-consent__overlay"></div>
+<aside class="md-consent__inner">
+<form class="md-consent__form md-grid md-typeset" name="consent">
+<h4>Cookie consent</h4>
+<p>We use cookies to recognize your repeated visits and preferences, as well as to measure the effectiveness of our documentation and whether users find what they're searching for. With your consent, you're helping us to make our documentation better.</p>
+<input class="md-toggle" id="__settings" type="checkbox"/>
+<div class="md-consent__settings">
+<ul class="task-list">
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="analytics" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          Google Analytics
+        </label>
+</li>
+<li class="task-list-item">
+<label class="task-list-control">
+<input checked="" name="github" type="checkbox"/>
+<span class="task-list-indicator"></span>
+          GitHub
+        </label>
+</li>
+</ul>
+</div>
+<div class="md-consent__controls">
+<button class="md-button md-button--primary">Accept</button>
+<label class="md-button" for="__settings">Manage settings</label>
+</div>
+</form>
+</aside>
+</div>
+<script>var consent=__md_get("__consent");if(consent)for(var input of document.forms.consent.elements)input.name&&(input.checked=consent[input.name]||!1);else"file:"!==location.protocol&&setTimeout(function(){document.querySelector("[data-md-component=consent]").hidden=!1},250);var action,form=document.forms.consent;for(action of["submit","reset"])form.addEventListener(action,function(e){if(e.preventDefault(),"reset"===e.type)for(var n of document.forms.consent.elements)n.name&&(n.checked=!1);__md_set("__consent",Object.fromEntries(Array.from(new FormData(form).keys()).map(function(e){return[e,!0]}))),location.hash="",location.reload()})</script>
+<script id="__config" type="application/json">{"base": "..", "features": ["content.action.edit", "content.code.copy", "navigation.tabs", "navigation.top", "navigation.footer", "navigation.instant", "toc.follow", "search.highlight", "announce.dismiss"], "search": "../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+<script src="../assets/javascripts/bundle.51198bba.min.js"></script>
+<script src="../js/timeago.min.js"></script>
+<script src="../js/timeago_mkdocs_material.js"></script>
+<script>document$.subscribe(() => {const lightbox = GLightbox({"touchNavigation": true, "loop": true, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});})</script></body>
+</html>
