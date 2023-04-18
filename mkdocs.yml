@@ -17,6 +17,7 @@ theme:
     - navigation.instant
     - toc.follow
     - search.highlight
+    - announce.dismiss
   favicon: images/logo.png
   icon:
     logo: material/school
