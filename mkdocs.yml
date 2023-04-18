@@ -50,7 +50,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
-      enable_creation_date: true
 
 nav:
   - Open CS Application:
