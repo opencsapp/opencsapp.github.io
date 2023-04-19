@@ -106,6 +106,7 @@
       - MSECS@JHU
       - MCS@uOttawa
       - MSCS@Western
+      - CE MEng@TAMU
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
@@ -119,6 +120,7 @@
       - MSCSE@OSU
       - MSCSE@PSU
       - MSCS@UCD
+      - MSCS@SBU
       - MSCS@UF
       - MSCS@UMass
       - MSCS@UMN
@@ -141,7 +143,6 @@
     CS:
       - MSCS@BU
       - MSCS@Emory
-      - MSCS@SBU
       - MSCS@Tufts
       - MSCS@UTD
       - MSCS@Vanderbilt

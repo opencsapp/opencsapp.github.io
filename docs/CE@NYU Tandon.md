@@ -2,13 +2,15 @@
 
 EE 背景友好 / 转码友好
 
+985相当友好，3.0以上基本都收
+
 ## 代表性 dp
 
 https://cdn.lukerr.com/nyu/tandon.html 2020Fall Tandon 录取报告包括（CS/CE/EE），非常详细
 
 ## 网申备注
 
-两封推荐信即可
+美本以外需要GRE, 两封推荐信即可
 
 ## 项目特点
 

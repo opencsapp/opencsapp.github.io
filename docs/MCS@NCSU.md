@@ -22,6 +22,8 @@ International MCS 申请者需要 GRE，其他情况不需要。
 
 印度人多，华人偏少。
 
+找工项目，课程很适配sde，RTP的local小厂不少
+
 21 Fall 申请 22 Summer 实习情况：https://drive.google.com/file/d/1-e1vbeC4stv9Z3DNFpL2T58EfwAnKgDz/view
 
 ## 申请季实时信息
