@@ -5,6 +5,8 @@ on:
       - master
     pull_request:
       - master
+permissions:
+  contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -12,9 +14,13 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v4
         with:
           python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
+          path: .cache
       - run: pip install mkdocs-material
       - run: pip install mkdocs-glightbox
       - run: pip install mkdocs-git-revision-date-localized-plugin
