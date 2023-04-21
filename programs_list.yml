@@ -67,6 +67,7 @@
       - MSCS@UCSB
       - MCS@Rice
       - MPCS@UChicago
+      - MCS@UCI
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
@@ -84,7 +85,6 @@
       - MSCS@NYU Tandon
       - MPCS@SFU
       - MCS@TAMU
-      - MCS@UCI
       - MSWE@UCI
       - CS28@USC
       - MSCS@uAlberta
