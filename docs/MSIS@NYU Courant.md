@@ -12,4 +12,6 @@
 ## 介绍帖
 [【19Fall】NYU Courant MSIS/MSCS 一年总结 + 选课指南](https://www.1point3acres.com/bbs/thread-638807-1-1.html)
 
+[【22Fall】NYUCourantMSCS/MSIS一年感受](https://www.1point3acres.com/bbs/thread-989574-1-1.html)
+
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
