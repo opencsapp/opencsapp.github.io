@@ -40,7 +40,7 @@ hide:
   <img src="https://contrib.rocks/image?repo=opencsapp/opencsapp.github.io" />
 </a>
 
-本项目遵循[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
+OpenCSApp follows [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
