@@ -14,8 +14,8 @@
 
 - 西海岸 top2，带 Co-op，比较 mle 向
 - BCPNP
-- 现在项目分裂成三个子项目（针对不同 track）了，都申请的话需要分别交申请费，分别为：
-  - Professional Computer Science MSc (Big Data)
+- 23Fall开始项目分裂成三个子项目（针对不同 track）了，且没看出3个track bar 的区别，都申请的话需要分别交申请费（或者23fall可以通过问卷接受调剂，后续可能没有这种优惠），分别为：
+  - Master of Big Data
   - [Master of Cybersecurity](./Cybersecurity%40SFU.md)
   - [Master of Visual Computing](./VC%40SFU.md)
 
