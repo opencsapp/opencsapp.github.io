@@ -3,8 +3,6 @@ hide:
   - navigation
 ---
 # CS PhD&Master F1签证
-[原文链接](https://denghilbert.github.io/blog/%E6%B5%81%E7%A8%8B)
-
 
 *2023-3-25*
 
