@@ -76,7 +76,11 @@ co-op: Cooperative education，学期内官方带薪实习。
 
 ### 如何选择RA老板？
 
-建议选择影响力高，hands-on，intern数量少的，这样可以最大化你推荐信的牛度以及强度。
+建议选择影响力高，hands-on，intern数量少的，这样可以最大化你推荐信的牛度以及强度。相反，学校title，老板是否为tenure影响都相对较小
+
+### 我是ECE/DS/SE/IS/IM等项目的研究生，会不会影响我找CS系老师做RA？
+
+大部分情况不会，但部分学校如CMU据观察SCS的老师比较少招其他院的RA。
 
 ## 选校
 
@@ -87,6 +91,10 @@ co-op: Cooperative education，学期内官方带薪实习。
 ### 美国有研究型硕士吗？
 
 有，但是很少，比如 UIUC MSCS/CMU MLT/CMU MSR 等，是少数的研究型硕士项目，一般可以争取到 TA/RA 奖。
+
+### 有哪些好转PhD的项目？
+
+首先，美国绝大部分项目都没有Internal Transfer到PhD的途径（加拿大全奖研究型硕士一般可以很方便地转PhD，只要老板同意即可，还可以免除Thesis），都需要重新走申请流程。所以该问题其实是问有哪些项目对申PhD帮助更大，以及哪些学校会prefer招本校master student。第一个问题建议选workload低，有match PoI（最好已经答应进组），项目时间长的，可以参考[这里](https://opencs.app/faq/#phdms)。对于第二个问题，可以看系里各个教授的Lab Members，有没有相当一部分是本校的MS。
 
 ## 网申
 
