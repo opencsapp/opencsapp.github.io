@@ -1,4 +1,4 @@
-# 申请 FAQ
+# Frequently Asked Question (FAQ)
 
 欢迎评论区提问，管理员会回答后编入本文档
 
