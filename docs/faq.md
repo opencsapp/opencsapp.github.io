@@ -178,4 +178,26 @@ PhD申请随时可以和POI update，对于MS，大部分学校是不支持updat
 
 ### 如何筛选 POI？
 
-推荐几个方法，首先可以通过 CSRankings 进行初筛，非常快速方便，但是一个弊端是这种筛选只关注了论文数量，可能没有发现一些数量少质量高的 POI；还有一种方式是从官方的 faculty list 中遍历，这种方式的好处是不会遗漏任何一个老师（除了少数刚来的 AP），但是弊端是工作量非常大，很多学校的 faculty list 堪称噩梦，比如 GaTech CoC，又长又没有老师的研究兴趣。在以上两种方式的基础上，可以通过另外两个辅助方式进行查漏补缺。分别是可以在 Computer Science Professors/Twitter 上查找新入职的 AP；另外一个是可以使用 Google 搜索 学校如 CMU + 你的研究兴趣如 Natural Language Processing + site:github.io，这种方式可以很方便的搜到各个 PhD 学生的主页，看他们的研究兴趣就可以顺藤摸瓜找到他们的老板。上述这些网站都可以在[外部链接](link.md)中找到。
+推荐几个方法，首先可以通过 CSRankings 进行初筛，非常快速方便，但是一个弊端是这种筛选只关注了论文数量，可能没有发现一些数量少质量高的 POI；还有一种方式是从官方的 faculty list 中遍历，这种方式的好处是不会遗漏任何一个老师（除了少数刚来的 AP），但是弊端是工作量非常大，很多学校的 faculty list 过于冗长又没有老师的研究兴趣，比如 GaTech CoC。在以上两种方式的基础上，可以通过另外两个辅助方式进行查漏补缺。分别是可以在 Computer Science Professors/Twitter 上查找新入职的 AP；另外一个是可以使用 Google 搜索 学校如 CMU + 你的研究兴趣如 Natural Language Processing + site:github.io，这种方式可以很方便的搜到各个 PhD 学生的主页，看他们的研究兴趣就可以顺藤摸瓜找到他们的老板。上述这些网站都可以在[外部链接](link.md)中找到。
+
+## 签证
+
+### 美国F1签证拒签风险大吗？
+
+非10043基本没有被拒签的，大部分是check1-3个月。
+
+### 美国F1签证CS专业有可能水过吗？
+
+有可能的，但是属于个例，大部分还是会被check。
+
+### 被check一定是一年签吗？
+
+被check有小概率拿到五年签；水过一定是五年签
+
+### 存在哪个领馆比较容易水过吗？
+
+一段时间内存在，因为水过和分配的VO强相关，但VO不会固定呆在一个使领馆，所以长期来看各个使领馆签证都差不多。
+
+### 加拿大签证安调风险？
+
+参考[加拿大study permit安调情况 by Flash](https://opencs.app/%E5%8A%A0%E6%8B%BF%E5%A4%A7study%20permit%E5%AE%89%E8%B0%83%E6%83%85%E5%86%B5%20by%20Flash/)
