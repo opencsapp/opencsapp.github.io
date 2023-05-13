@@ -71,6 +71,7 @@ $programs_list
     - Home: submit.md
     - DataPoints收集表: newdatapoints.md
     - Progress收集表: newprogress.md
+    - Visa收集表: newvisa.md
     - 申请者信息收集表: newapplicant.md
     - 添加新项目: newprogram.md
 extra:
