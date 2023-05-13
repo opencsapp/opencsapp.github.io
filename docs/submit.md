@@ -5,7 +5,7 @@ hide:
 
 # DataPoints&copy;提交
 
-[:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](newdatapoints.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](newprogress.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](newvisa.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](newapplicant.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](newprogram.md){ .md-button }
+[:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](newdatapoints.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](newprogress.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Visa 收集表](newvisa.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](newapplicant.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](newprogram.md){ .md-button }
 
 [:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary }
 
