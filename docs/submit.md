@@ -15,7 +15,7 @@ hide:
 2. 首先在[申请者信息收集表](newapplicant.md)中提交自己的个人信息（仅需一次，不可更改）
 3. 然后在[DataPoints 收集表](newdatapoints.md)中提交录取 DataPoints，填写过程中可以通过申请者字段链接到自己的账户，并关联以上填写的个人信息。DataPoints 支持无限次更改
 4. 进展的提交可以在[Progress 收集表](newprogress.md)中进行，操作与 DataPoints 相同
-5. Visa的提交可以在[Visa 收集表](newvisa.md)中进行，操作与 DataPoints 相同
+5. Visa的提交可以在[Visa 收集表](newvisa.md)中进行，操作与 DataPoints 相同，可以多次更新签证状态
 6. 对于没有在数据库中录入的项目，通过[添加新项目](newprogram.md)进行添加后，即可在项目字段中找到。
 
 # FAQ
