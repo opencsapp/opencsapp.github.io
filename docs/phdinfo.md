@@ -46,6 +46,14 @@ committee中有两位老师同意就能发offer，所有人前**两年**的fundi
 ### CS PhD
 强Prof, timeline看老板，跨度很大，从1月初到2月中旬都有
 
+## Rice University
+### CS PhD
+强Prof，面试当天就能发offer；第一年名义上rotation, 发fellowship, timeline看老板
+
+## Northeastern University
+### ECE PhD
+强Prof，但committee可以决定一个5k USD/year的持续3年的fellowship的归属，占admitted students的10%，timeline看老板
+
 ## EPFL
 ### EDIC PhD
 第一轮强committee，第二轮强Prof, timeline看老板，一般1月中旬前完成面试
