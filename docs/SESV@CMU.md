@@ -4,6 +4,8 @@
 
 建议early ddl申请
 
+Applied track 2023 Fall之后不再招生
+
 ## 代表性 dp
 
 ## 网申备注
