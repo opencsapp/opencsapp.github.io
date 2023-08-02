@@ -10,57 +10,56 @@
       - MSCS@CMU
       - MSML@CMU
       - MSR@CMU
-      - MCIS@UPenn
       - MSCS@UT-Austin
       - Two-Year MSCS@Yale
     NONCS:
-      - CSE@Harvard
-      - DS@Harvard
       - ICME@Stanford
+      - CSE@Harvard
 - S:
     CS:
+      - MSCS@UIUC
       - MCDS@CMU
       - MIIS@CMU
       - MSAII@CMU
       - MSCV@CMU  
       - MSCS@UCLA
-      - MSCS@UIUC
       - CS Meng@Cornell
       - MSCS@Wisc
+      - MCIS@UPenn
       - MSCSE@UMich
     NONCS:
       - EE@Stanford
       - MS&E@Stanford
-      - DS@UPenn
+      - DS@UPenn      
+      - DS@Harvard
 - A+:
     CS:
       - One-Year MSCS@Yale
       - EECS Meng@Berkeley
       - CS Meng@Cornell Tech
       - MSIN@CMU
-      - MSCS@Duke
       - MSCS@GaTech
-      - MSCS@NWU
       - MCS@UIUC
       - MSCS@UBC
       - MMath@Waterloo
-      - MPhil-CSE@HKUST
+      - CSE@GaTech
     NONCS:
       - ECE Meng(coop)@Waterloo
       - ECE@UT Austin
 - A:
     CS:
       - SESV@CMU
-      - CSE@GaTech
       - CS75@UCSD
+      - MSCS@Duke
+      - MSCS@NWU
       - CM@Cornell Tech
+      - MPhil-CSE@HKUST
     NONCS:
       - MDSAI@Waterloo
       - MScAc@UofT
       - ECE@CMU
       - ECE Meng@UBC
       - MITS@CMU
-      - DS@NYU
 - A-:
     CS:
       - ScM CS@Brown
@@ -70,6 +69,7 @@
       - MCS@Rice
       - MPCS@UChicago
       - MCS@UCI
+      - CS-PMP@Wisc
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
@@ -79,6 +79,7 @@
       - ECE@GaTech
       - CGGT@UPenn
       - DS@UMich
+      - DS@NYU
       - MEng@UCLA
 - B+:
     CS:
@@ -87,6 +88,7 @@
       - MSCS@NYU Tandon
       - MCS@TAMU
       - MSCS@TAMU
+      - MSCS@UVa
       - MSWE@UCI
       - CS28@USC
       - MSCS@uAlberta
@@ -128,7 +130,6 @@
       - MSCS@UMass
       - MSCS@UMN
       - MCS@UVa
-      - MSCS@UVa
       - MSCS@Rutgers
       - MSCS@WUSTL
       - MCS@NCSU
@@ -163,7 +164,6 @@
 - 待分类:
     CS:
       - PCP@Wisc
-      - CS-PMP@Wisc
       - MSCS@SMU
       - MSCS@Utah
       - MSCS@SCU
