@@ -15,9 +15,9 @@ hide:
 
 [opencs.app](https://opencs.app/) | [csmsapp.org](https://csmsapp.org/) | [opencsapp.github.io](https://opencsapp.github.io/)
 
-[~~:fontawesome-brands-qq: Join QQ① 466094878~~（**已满**）]([https://jq.qq.com/?_wv=1027&k=2ui21aMW](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jyDQE5i1T_Obns8xWxMzab51NqGXm3Sm&authKey=RNkbnwhB01W3L%2BLHPCjza6J7Vl%2FvGV11g80uIPvJtT8SCmCU8DjAEZROCkScCNIE&noverify=0&group_code=466094878)){ .md-button}
+[~~:fontawesome-brands-qq: Join QQ① 466094878~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jyDQE5i1T_Obns8xWxMzab51NqGXm3Sm&authKey=RNkbnwhB01W3L%2BLHPCjza6J7Vl%2FvGV11g80uIPvJtT8SCmCU8DjAEZROCkScCNIE&noverify=0&group_code=466094878){ .md-button}
 [:fontawesome-brands-qq: Join QQ 24Fall 832875166](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=R8GK_C1rL6STeJHzblKE2PYnVzKC6ZXt&authKey=ONZY6oHbftyMHCncn8J2GmvlMI%2B27Z2w%2FpfH7vhZWOhUMokGgo8i%2FQJXHcKzcRth&noverify=0&group_code=832875166){ .md-button}
-[:fontawesome-brands-qq: Join QQ② 544855574](点击链接加入群聊【OpenCSApp②】：http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Lw6khzD63SpyFjfzd3xRNJar24Ltsq_k&authKey=Eo%2F5Rfsk7VDsWDTMe6TV61D1otmc4%2BoE%2FfoANBgOZcwklZwBzYz2N1ao13gxoYmi&noverify=0&group_code=544855574){ .md-button}
+[:fontawesome-brands-qq: Join QQ② 544855574](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Lw6khzD63SpyFjfzd3xRNJar24Ltsq_k&authKey=Eo%2F5Rfsk7VDsWDTMe6TV61D1otmc4%2BoE%2FfoANBgOZcwklZwBzYz2N1ao13gxoYmi&noverify=0&group_code=544855574){ .md-button}
 
 [:fontawesome-brands-discord: Join Discord](https://discord.gg/HeB9QXZdFR){ .md-button}
 
