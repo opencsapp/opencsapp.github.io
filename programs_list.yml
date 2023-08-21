@@ -6,10 +6,11 @@
       - CSE@MIT
 - SS:
     CS:
+      - MSCV@CMU  
       - MLT@CMU
       - MSCS@CMU
       - MSML@CMU
-      - MSR@CMU
+
       - MCIS@UPenn
       - MSCS@UT-Austin
       - Two-Year MSCS@Yale
@@ -19,10 +20,10 @@
       - ICME@Stanford
 - S:
     CS:
+      - MSR@CMU
       - MCDS@CMU
       - MIIS@CMU
       - MSAII@CMU
-      - MSCV@CMU  
       - MSCS@UCLA
       - MSCS@UIUC
       - CS Meng@Cornell
@@ -43,7 +44,6 @@
       - MSCS@NWU
       - MCS@UIUC
       - MSCS@UBC
-      - MMath@Waterloo
       - MPhil-CSE@HKUST
     NONCS:
       - ECE Meng(coop)@Waterloo
@@ -51,8 +51,8 @@
 - A:
     CS:
       - SESV@CMU
-      - CSE@GaTech
       - CS75@UCSD
+      - MMath@Waterloo
       - CM@Cornell Tech
     NONCS:
       - MDSAI@Waterloo
@@ -86,6 +86,7 @@
       - MSCS@NYU Courant
       - MSCS@NYU Tandon
       - MCS@TAMU
+      - CSE@GaTech
       - MSCS@TAMU
       - MSWE@UCI
       - CS28@USC
