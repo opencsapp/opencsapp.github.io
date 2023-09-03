@@ -51,7 +51,6 @@
 - A:
     CS:
       - SESV@CMU
-      - CSE@GaTech
       - CS75@UCSD
       - CM@Cornell Tech
     NONCS:
@@ -70,6 +69,7 @@
       - MCS@Rice
       - MPCS@UChicago
       - MCS@UCI
+      - CSE@GaTech
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
