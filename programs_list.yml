@@ -112,6 +112,8 @@
       - MCS@uOttawa
       - MSCS@Western
       - CE MEng@TAMU
+      - MCS@UVa
+      - MSCS@UVa
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
@@ -127,8 +129,6 @@
       - MSCS@UF
       - MSCS@UMass
       - MSCS@UMN
-      - MCS@UVa
-      - MSCS@UVa
       - MSCS@Rutgers
       - MSCS@WUSTL
       - MCS@NCSU
