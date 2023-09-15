@@ -40,7 +40,7 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 为 CS PhD 申请者提供的建议精选列表，由互联网上的博客组成，略微偏重于 AI/ML 和 NLP 领域。
 
-### [Collection of Advice for PhD Application](https://post.bin-hu.com/collection-of-advice-for-phd-application/)
+### [北美CS PhD申请建议合集](https://post.bin-hu.com/collection-of-advice-for-phd-application/)
 
 带中文导读的PhD申请攻略合集，除了博客文章以外还包括一些论坛帖子和实用网站
 
