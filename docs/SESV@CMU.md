@@ -2,6 +2,10 @@
 
 比较看重 SoP，有大段实习经历，出身好，低 GPA 可以逆袭
 
+建议early ddl申请
+
+Applied track 2023 Fall之后不再招生
+
 ## 代表性 dp
 
 ## 网申备注

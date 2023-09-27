@@ -4,6 +4,10 @@
 
 关注文书，非绩点控。
 
+建议early ddl申请
+
+Applied track 2023 Fall不再招生
+
 ## 代表性 dp
 
 【23Spring】top30 3.8+102+325，无 pub 有大厂实习

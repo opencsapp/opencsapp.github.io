@@ -27,6 +27,7 @@
       - MSCS@UIUC
       - CS Meng@Cornell
       - MSCS@Wisc
+      - MSCSE@UMich
     NONCS:
       - EE@Stanford
       - MS&E@Stanford
@@ -39,17 +40,17 @@
       - MSIN@CMU
       - MSCS@Duke
       - MSCS@GaTech
-      - MSCSE@UMich
       - MSCS@NWU
       - MCS@UIUC
+      - MSCS@UBC
       - MMath@Waterloo
+      - MPhil-CSE@HKUST
     NONCS:
       - ECE Meng(coop)@Waterloo
       - ECE@UT Austin
 - A:
     CS:
       - SESV@CMU
-      - CSE@GaTech
       - CS75@UCSD
       - CM@Cornell Tech
     NONCS:
@@ -58,6 +59,7 @@
       - ECE@CMU
       - ECE Meng@UBC
       - MITS@CMU
+      - DS@NYU
 - A-:
     CS:
       - ScM CS@Brown
@@ -66,6 +68,8 @@
       - MSCS@UCSB
       - MCS@Rice
       - MPCS@UChicago
+      - MCS@UCI
+      - CSE@GaTech
     NONCS:
       - EC79@UCSD
       - MSMITE@CMU
@@ -81,11 +85,12 @@
       - MSE-SS@CMU
       - MSCS@NYU Courant
       - MSCS@NYU Tandon
-      - MPCS@SFU
       - MCS@TAMU
-      - MCS@UCI
+      - MSCS@TAMU
       - MSWE@UCI
       - CS28@USC
+      - MSCS@uAlberta
+      - MSCS@uCalgary
     NONCS:
       - DS75@UCSD
       - MISM@CMU
@@ -94,6 +99,9 @@
       - MPS-IS@Cornell
       - EC82@UCSD
       - EC93@UCSD
+      - Visual Computing@SFU
+      - Cybersecurity@SFU
+      - Big Data@SFU
 - B:
     CS:
       - CS General@NEU
@@ -101,9 +109,15 @@
       - MSCS&SE@UWB
       - NetSys@UCI
       - MSECS@JHU
+      - MCS@uOttawa
+      - MSCS@Western
+      - CE MEng@TAMU
+      - MCS@UVa
+      - MSCS@UVa
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
+      - MEng Soft@uCalgary
       - MSIM@UIUC
       - MI@UofT
 - B-:
@@ -111,11 +125,10 @@
       - MSCSE@OSU
       - MSCSE@PSU
       - MSCS@UCD
+      - MSCS@SBU
       - MSCS@UF
       - MSCS@UMass
       - MSCS@UMN
-      - MCS@UVa
-      - MSCS@UVa
       - MSCS@Rutgers
       - MSCS@WUSTL
       - MCS@NCSU
@@ -124,18 +137,22 @@
     NONCS:
       - ECE@Duke-Kunshan
       - ECE@GaTech-Shenzhen
+      - ECE MEng@uOttawa
+      - ECE MEng@Western
+      - ECE MEng@uAlberta
       - CE@NYU Tandon
+      - MSIS@NYU Courant
 - C+:
     CS:
       - MSCS@BU
       - MSCS@Emory
-      - MSCS@SBU
       - MSCS@Tufts
       - MSCS@UTD
       - MSCS@Vanderbilt
       - CS Meng@VT
     NONCS:
       - IS@NEU
+      - SES@NEU
 - C:
     CS:
       - MSCS@BC
@@ -151,6 +168,7 @@
       - MSCS@Utah
       - MSCS@SCU
       - MSCS@Syracuse
+      - MSc@UBC
     NONCS:
 - 陆本黑洞:
     CS:
@@ -172,7 +190,9 @@
       - PCP@Wisc
       - MSCS@SMU
       - MSCS@Utah
+      - BCS@UBC
     NONCS:
       - MSIM@UIUC
       - ISB@NEU
       - MSIS@UNC
+      - MSIS@NYU Courant

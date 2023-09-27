@@ -27,5 +27,6 @@ UofT 录取看大三 GPA，对陆本非常友好（指对北美校没有额外�
 ## 申请季实时信息
 
 ## 介绍帖
+[【22Fall】多大MScACSDE方向项目介绍&找工](https://www.1point3acres.com/bbs/thread-987256-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -17,5 +17,6 @@ SES track 可以当做 CS 来上。class size 很小，tech reputation 好，2 �
 22fall offer 发的很晚，接近 4.15
 
 ## 介绍帖
+[【22spring】UT-Austin ECE-SES入学一年半感受](https://www.1point3acres.com/bbs/thread-992137-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -5,17 +5,18 @@ hide:
 
 # DataPoints&copy;提交
 
-[:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](newdatapoints.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](newprogress.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](newapplicant.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](newprogram.md){ .md-button }
+[:fontawesome-solid-square-poll-horizontal: DataPoints 收集表](newdatapoints.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Progress 收集表](newprogress.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: Visa 收集表](newvisa.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 申请者信息收集表](newapplicant.md){ .md-button } [:fontawesome-solid-square-poll-horizontal: 添加新项目](newprogram.md){ .md-button }
 
 [:fontawesome-solid-database: 访问 DataPoints&copy;数据库](datapoints.md){ .md-button .md-button--primary }
 
 # 如何提交
 
-1. [DataPoints&copy;数据库](datapoints.md)是一个只读的数据表，对应的 DataPoints，Progress，申请者信息，项目列表四个子表的更改请通过[DataPoints 收集表](newdatapoints.md)，[Progress 收集表](newprogress.md)，[申请者信息收集表](newapplicant.md)，[添加新项目](newprogram.md)进行。
+1. [DataPoints&copy;数据库](datapoints.md)是一个只读的数据表，对应的 DataPoints，Progress，Visa, 申请者信息，项目列表五个子表的更改请通过[DataPoints 收集表](newdatapoints.md)，[Progress 收集表](newprogress.md)，[Visa 收集表](newvisa.md), [申请者信息收集表](newapplicant.md)，[添加新项目](newprogram.md)进行。
 2. 首先在[申请者信息收集表](newapplicant.md)中提交自己的个人信息（仅需一次，不可更改）
 3. 然后在[DataPoints 收集表](newdatapoints.md)中提交录取 DataPoints，填写过程中可以通过申请者字段链接到自己的账户，并关联以上填写的个人信息。DataPoints 支持无限次更改
 4. 进展的提交可以在[Progress 收集表](newprogress.md)中进行，操作与 DataPoints 相同
-5. 对于没有在数据库中录入的项目，通过[添加新项目](newprogram.md)进行添加后，即可在项目字段中找到。
+5. Visa的提交可以在[Visa 收集表](newvisa.md)中进行，操作与 DataPoints 相同，可以多次更新签证状态
+6. 对于没有在数据库中录入的项目，通过[添加新项目](newprogram.md)进行添加后，即可在项目字段中找到。
 
 # FAQ
 

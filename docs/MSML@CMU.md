@@ -16,6 +16,8 @@ ML 系下的 Professional ML 项目，出路详细参考[官方 dashboard](https
 
 22fall 感觉 bar 有所降低，并不卡 pub。但项目每年人数大概<=40，所以 bar 在这一档的学校里是偏高的。
 
+23fall 难度变高，不少top30 甚至 top10 PhD录取同学被拒
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

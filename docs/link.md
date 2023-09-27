@@ -40,6 +40,10 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 为 CS PhD 申请者提供的建议精选列表，由互联网上的博客组成，略微偏重于 AI/ML 和 NLP 领域。
 
+### [北美CS PhD申请建议合集](https://post.bin-hu.com/collection-of-advice-for-phd-application/)
+
+带中文导读的PhD申请攻略合集，除了博客文章以外还包括一些论坛帖子和实用网站
+
 ### [美国签证预约时间](https://tuixue.online/visa/)
 
 北京/上海/广州/沈阳美签最早预约时间查询
@@ -53,6 +57,8 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 ### [华中科技大学光电飞跃手册](https://hust-feiyue.github.io/)
 
 ### [四川大学飞跃手册](http://scu-flying.com/)
+
+### [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
 
 ## 生存手册
 

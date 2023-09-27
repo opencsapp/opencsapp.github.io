@@ -1,4 +1,4 @@
-# 申请 FAQ
+# Frequently Asked Question (FAQ)
 
 欢迎评论区提问，管理员会回答后编入本文档
 
@@ -26,6 +26,8 @@ com/comm: committee
 
 IRCC: Immigration, Refugees and Citizenship Canada
 
+STEM: Science, Technology, Engineering, and Math
+
 SDE: Software Development Engineer
 
 MLE: Machine Learning Engineer
@@ -34,7 +36,11 @@ RS: Research Scientist
 
 DS: Data Science
 
-MS: Master of Science
+MS/MSc: Master of Science
+
+MASc: Master of Applied Science
+
+MEng: Master of Engineering
 
 ScM: Science Master
 
@@ -70,7 +76,11 @@ co-op: Cooperative education，学期内官方带薪实习。
 
 ### 如何选择RA老板？
 
-建议选择影响力高，hands-on，intern数量少的，这样可以最大化你推荐信的牛度以及强度。
+建议选择影响力高，hands-on，intern数量少的，这样可以最大化你推荐信的牛度以及强度。相反，学校title，老板是否为tenure影响都相对较小
+
+### 我是ECE/DS/SE/IS/IM等项目的研究生，会不会影响我找CS系老师做RA？
+
+大部分情况不会，但部分学校如CMU据观察SCS的老师比较少招其他院的RA。
 
 ## 选校
 
@@ -82,15 +92,21 @@ co-op: Cooperative education，学期内官方带薪实习。
 
 有，但是很少，比如 UIUC MSCS/CMU MLT/CMU MSR 等，是少数的研究型硕士项目，一般可以争取到 TA/RA 奖。
 
+### 有哪些好转PhD的项目？
+
+首先，美国绝大部分项目都没有Internal Transfer到PhD的途径（加拿大全奖研究型硕士一般可以很方便地转PhD，只要老板同意即可，还可以免除Thesis），都需要重新走申请流程。所以该问题其实是问有哪些项目对申PhD帮助更大，以及哪些学校会prefer招本校master student。第一个问题建议选workload低，有match PoI（最好已经答应进组），项目时间长的，可以参考[这里](https://opencs.app/faq/#phdms)。对于第二个问题，可以看系里各个教授的Lab Members，有没有相当一部分是本校的MS。
+
 ## 网申
 
 ### 如果项目主页只给了 Institute Code，没有给 Department Code，送分的时候应该如何选择？
 
 这种项目是送分统一送到学校的办公室，各个项目都可以 access 到送到学校的分数，只需要选择 Institute Code 即可，Department Code 没有影响，任意填写即可，一般可以选择 99
 
-### TOEFL/GRE 需要提前多久送分？
+### IELTS/TOEFL/GRE 需要提前多久送分？
 
 目前都是电子送分，根据很多项目 FAQ 的描述，ETS 每周两次将分数送到学校，送分之后网申界面没有显示 Verified 是因为小秘没有帮你 match 分数。所以在 ddl 前送分即可。
+
+另外，对于申请**加拿大**的大多数项目，似乎不需要提前送分（具体可查看官网要求或者咨询小蜜），申请时一般只需要在网申页面上传IELTS/TOEFL/GRE的PDF成绩单即可，仅当被正式录取后才需要安排送分。
 
 ### 我是半年前/一年前考的 TOEFL，当时送了分，现在还需要再送一次吗？
 
@@ -98,7 +114,7 @@ co-op: Cooperative education，学期内官方带薪实习。
 
 ### 申请越早提交越好吗？
 
-不是的，大部分项目都是在申请 DDL 之后整理材料进行 review，所以早交没有好处，不如继续打磨材料，丰富背景，到了 DDL 之前再提交。需要注意，有部分学校的申请系统有部分操作是由小秘手工完成的，如 Waterloo，Austin 等，需要交完申请费后等待他们发给你账号，所以建议至少提前 5 天注册一下申请系统，了解申请流程。
+看情况，**大部分项目**都是在申请 DDL 之后整理材料进行 review，所以早交没有好处，不如继续打磨材料，丰富背景，到了 DDL 之前再提交；但是对于某些rolling（滚动录取）的项目，比如CSG@NEU，ECE@uOttawa，ECE@Waterloo等，早提交的确有助于早点拿到录取结果。需要注意，有部分学校的申请系统有部分操作是由小秘手工完成的，如 Waterloo，Austin 等，需要交完申请费后等待他们发给你账号，所以建议至少提前 5 天注册一下申请系统，了解申请流程。
 
 ### 我的申请没有提交，推荐信链接会发送给推荐人吗？
 
@@ -162,4 +178,26 @@ PhD申请随时可以和POI update，对于MS，大部分学校是不支持updat
 
 ### 如何筛选 POI？
 
-推荐几个方法，首先可以通过 CSRankings 进行初筛，非常快速方便，但是一个弊端是这种筛选只关注了论文数量，可能没有发现一些数量少质量高的 POI；还有一种方式是从官方的 faculty list 中遍历，这种方式的好处是不会遗漏任何一个老师（除了少数刚来的 AP），但是弊端是工作量非常大，很多学校的 faculty list 堪称噩梦，比如 GaTech CoC，又长又没有老师的研究兴趣。在以上两种方式的基础上，可以通过另外两个辅助方式进行查漏补缺。分别是可以在 Computer Science Professors/Twitter 上查找新入职的 AP；另外一个是可以使用 Google 搜索 学校如 CMU + 你的研究兴趣如 Natural Language Processing + site:github.io，这种方式可以很方便的搜到各个 PhD 学生的主页，看他们的研究兴趣就可以顺藤摸瓜找到他们的老板。上述这些网站都可以在[外部链接](link.md)中找到。
+推荐几个方法，首先可以通过 CSRankings 进行初筛，非常快速方便，但是一个弊端是这种筛选只关注了论文数量，可能没有发现一些数量少质量高的 POI；还有一种方式是从官方的 faculty list 中遍历，这种方式的好处是不会遗漏任何一个老师（除了少数刚来的 AP），但是弊端是工作量非常大，很多学校的 faculty list 过于冗长又没有老师的研究兴趣，比如 GaTech CoC。在以上两种方式的基础上，可以通过另外两个辅助方式进行查漏补缺。分别是可以在 Computer Science Professors/Twitter 上查找新入职的 AP；另外一个是可以使用 Google 搜索 学校如 CMU + 你的研究兴趣如 Natural Language Processing + site:github.io，这种方式可以很方便的搜到各个 PhD 学生的主页，看他们的研究兴趣就可以顺藤摸瓜找到他们的老板。上述这些网站都可以在[外部链接](link.md)中找到。
+
+## 签证
+
+### 美国F1签证拒签风险大吗？
+
+非10043基本没有被拒签的，大部分是check1-3个月。
+
+### 美国F1签证CS专业有可能水过吗？
+
+有可能的，但是属于个例，大部分还是会被check。
+
+### 被check一定是一年签吗？
+
+被check有小概率拿到五年签；水过一定是五年签
+
+### 存在哪个领馆比较容易水过吗？
+
+一段时间内存在，因为水过和分配的VO强相关，但VO不会固定呆在一个使领馆，所以长期来看各个使领馆签证都差不多。
+
+### 加拿大签证安调风险？
+
+参考[加拿大study permit安调情况 by Flash](https://opencs.app/%E5%8A%A0%E6%8B%BF%E5%A4%A7study%20permit%E5%AE%89%E8%B0%83%E6%83%85%E5%86%B5%20by%20Flash/)
