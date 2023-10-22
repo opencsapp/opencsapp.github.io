@@ -11,7 +11,7 @@
 支持 Interfolio
 
 ## 项目特点
-选 Cornell Tech 的 CS 课很自由，且选满一定量的CS课后会发一个CS的[Certificate](https://cornell.qualtrics.com/jfe/form/SV_3aSQZFFOqZa0D2d)
+选 Cornell Tech 的 CS 课很自由，且选满一定量的 CS 课后会发一个 CS 的 [Certificate](https://cornell.qualtrics.com/jfe/form/SV_3aSQZFFOqZa0D2d)
 
 两年的项目
 
