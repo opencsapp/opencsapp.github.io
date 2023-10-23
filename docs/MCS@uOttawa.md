@@ -10,6 +10,7 @@
 
 ## 项目特点
 
+- 新开了3+1+1项目（仅限合作学校，可咨询本校国际合作处），涉及多个专业，会有9折学费减免，但只能选course-based
 - 有course-based 和 thesis-based 两种track可选
   - 其中 thesis-based 有多个方向可选，**建议**先套磁
   - 只需要两封推荐信，但听说比较prefer学术推
