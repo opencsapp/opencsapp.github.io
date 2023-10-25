@@ -15,7 +15,7 @@
 
 两年的项目
 
-从 24 Spring 开始，由于招来了新的 Professor，Cornell Tech 也开始开设 System 相关课程了 （e.g., Operating System, Networked and Distributed Systems），不再像以前一样只有 ML 的课程了
+从 24 Spring 开始，由于招来了新的 Professor，Cornell Tech 也开始开设 System 相关课程了 （e.g., Networked and Distributed Systems），不再像以前一样只有 ML 的课程了
 ## 申请季实时信息
 
 ## 介绍帖
