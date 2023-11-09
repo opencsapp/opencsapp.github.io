@@ -57,3 +57,9 @@ committee中有两位老师同意就能发offer，所有人前**两年**的fundi
 ## Northeastern University
 ### ECE PhD
 强Prof，但committee可以决定一个5k USD/year的持续3年的fellowship的归属，占admitted students的10%，timeline看老板
+
+## University of Michigan (UMich)
+
+### School of Information (SI) PhD
+
+强Prof
