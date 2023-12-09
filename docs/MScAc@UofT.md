@@ -12,17 +12,23 @@ UofT 录取看大三 GPA，对陆本非常友好（指对北美校没有额外�
 
 截止挺早的，有面试，每个月出一轮结果，最早一轮 22fall 12.21 就放了
 
+录取是rolling admission，最早发offer的是学校觉得所有申请人中最好的，之后依次递减
+
+每年总申请人数差不多在1500-2500之间，总共录取150人左右
+
 需要另外写文书，针对几个问题
 
 网申只填大三 GPA
 
 ## 项目特点
 
-8 个月上课（workload 很低）+8 个月 applied research 实习，实习工资 65k，tuition 45k。
+8 个月上课（workload 很低）+ 8 个月 applied research 实习，实习工资 65k，tuition 45k。
 
 实习是保证上岸的，实习公司和项目可以看 ARIA (applied research in action) 历年的情况，有 return offer 机会
 
 项目整体偏 MLE，实习自己找 SDE 需要学校同意，听说操作不难。
+
+由于学校在多伦多市区，毕业申请 PR 的 OINP 省提名加分不如 Waterloo 等一些远离多伦多市区的学校。
 
 ## 申请季实时信息
 
