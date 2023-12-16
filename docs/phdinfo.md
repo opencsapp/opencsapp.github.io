@@ -59,7 +59,9 @@ committee中有两位老师同意就能发offer，所有人前**两年**的fundi
 强Prof，但committee可以决定一个5k USD/year的持续3年的fellowship的归属，占admitted students的10%，timeline看老板
 
 ## University of Michigan (UMich)
-
 ### School of Information (SI) PhD
-
 强Prof
+
+## University of Toronto (UofT)
+### CS PhD
+强committee，所有申请先由高年级的PhD做triaging，把申请大体分为 top 10%，10-30%，rest 70% 三档。每份申请至少由两个高年级相关方向的PhD triager加上committee chair看过一遍。然后top 10%和10-30%会给具体的申请方向的教授再看。rest 70%的申请基本上就不会再有人看了。
