@@ -16,7 +16,7 @@
 
 东海岸大众情人项目，专排综排都很强，NYC location，class size 大
 
-international student 课程固定为 4+4+2 来上的
+international student 前两学期必须full time，至少修4门课，一般4+4+2毕业，也可以5+5一年毕业，或者5+4+1这样。
 
 ## 申请季实时信息
 
