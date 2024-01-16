@@ -28,6 +28,8 @@ CS76 和 CS75 的选课方案不一样，申请难度相对较低，但实际上
 
 [官方Admission/Enrollment/Placement统计](https://ir.ucsd.edu/grad/index.html)
 
+不允许defer
+
 ## 申请季实时信息
 
 23fall CS76 似乎几乎没录陆本，慎选

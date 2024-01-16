@@ -14,6 +14,8 @@ general CS 项目
 
 出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
+允许defer，23Fall有人发邮件询问。
+
 ## 申请季实时信息
 
 ## 介绍帖
