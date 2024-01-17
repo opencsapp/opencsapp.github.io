@@ -26,6 +26,8 @@ Applied track 2023 Fall不再招生
 
 出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
+可以defer半年，从Fall到Spring。但是不能从Spring到Fall。
+
 ## 申请季实时信息
 
 22fall 坑位较少，大量 defer 到 23spring。
