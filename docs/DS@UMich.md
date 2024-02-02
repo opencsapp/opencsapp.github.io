@@ -16,10 +16,14 @@
 
 ## 介绍帖
 
+[UMich MDS就读体验](https://www.1point3acres.com/bbs/thread-1034803-1-1.html)
+
 [Umich MSDS 项目体验](https://www.1point3acres.com/bbs/thread-968074-1-1.html)
 
 [UMich MSDS 21Fall 就读&转码&ask me anything](https://www.1point3acres.com/bbs/thread-926265-1-1.html)
 
 [2021Fall UMich MS in DataScience 就读体验](https://www.1point3acres.com/bbs/thread-865137-1-1.html)
+
+[UMich MDS就读体验](https://www.1point3acres.com/bbs/thread-1034803-1-1.html)
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
