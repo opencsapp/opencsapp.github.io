@@ -4,9 +4,10 @@
 
 ## 代表性 dp
 
-【22fall】有华 5 gpa3.6+被录的 dp
-【24fall】美本Top 35本科CS+INF gpa3.8+ 3段research round2 AD
-【24fall】美本Top 35本科CS gpa3.8+ 2段实习 round2 WL
+【22fall】有华 5 gpa3.6+被录的 dp  
+【24fall】美本Top 35 本科CS+INF gpa3.8+ 3段research round2 AD  
+【24fall】美本Top 35 本科CS gpa3.8+ 2段实习 round2 WL  
+【24fall】陆本Top 15 本科SWE gpa3.85+ 2段实习 1段research 2区独立一作pub x1 round2 REJ
 
 ## 网申备注
 
