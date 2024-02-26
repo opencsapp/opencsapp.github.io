@@ -9,6 +9,8 @@
 
 ## 网申备注
 
+非常看中Pub，非常看重推荐信（但是也比较玄学，好友6pub也rej了）
+
 ## 项目特点
 
 RI 下的 2 年带 thesis 科研型硕士，转博率不错，出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
