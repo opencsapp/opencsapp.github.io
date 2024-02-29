@@ -4,7 +4,7 @@
 
 ## 网申备注
 
-支持 Interfolio
+支持 Interfolio，不交GRE疑似会全部rej(22 fall信息）
 
 ## 项目特点
 
