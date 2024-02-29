@@ -1,5 +1,7 @@
 ## 录取偏好
 
+海本+清北复交人，24fall陆本非清北复交人录取mcds极少
+
 ## 代表性 dp
 
 【22fall】SJTU CS 年级第一，GPA 94/100，无 Pub，三段数据库硬核实习，GitHub 3k followers，多个高 star 项目录取
@@ -18,7 +20,7 @@
 
 ## 项目特点
 
-SCS 就业旗舰项目，毕业后大部分大厂 SDE，出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
+SCS 就业旗舰项目，仅次于mscs，毕业后大部分大厂 SDE，出路详细参考[官方 dashboard](https://www.cmu.edu/career/outcomes/post-grad-dashboard.html)
 
 ## 申请季实时信息
 
