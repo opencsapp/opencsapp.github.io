@@ -1,6 +1,7 @@
 ## 录取偏好
 
 录取的陆本很多是绩点高排名高，但也不绝对
+感觉不是很看video essay，不少人讲的时候因为紧张导致录得稀烂也被录取了。
 
 转专业友好
 
@@ -23,6 +24,8 @@ international student 前两学期必须full time，至少修4门课，一般4+4
 21fall 以来劝退贴不少，主要控诉 class size 太大以及 career support 不好。哥大老校长 22 年辞职，在任期间搞哥大教育产业化，导致综排很高，硕士 class size 太大，reputation 不好。未来可能会缩招（存疑）
 
 22fall 缩招
+
+24fall 招了一大堆ucsd的人，bg都很diverse，感觉只看gpa。
 
 ## 介绍帖
 
