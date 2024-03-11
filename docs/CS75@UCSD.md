@@ -39,7 +39,7 @@ CS76 和 CS75 的选课方案不一样，申请难度相对较低，但实际上
 
 不允许defer，defer还需要重新提交下一年申请，且不保证录取。
 
-收到offer，过几天application界面出现pid（学号）就可以排学生公寓了，甚至不用接offer就可以排！Waitlist是先到先得，房型志愿可以之后任意编辑调整，建议尽早占位:-)
+收到offer，过几天application界面出现pid(学号)就可以排学生公寓了，甚至不用接offer就可以排！Waitlist是先到先得，房型志愿可以之后任意编辑调整，建议尽早占位:-)
 
 [查看公寓预计排期](https://its-netweb.ucsd.edu/hdh-gfh-community-statistics/statistics.aspx#3)
 
