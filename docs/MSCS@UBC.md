@@ -3,6 +3,7 @@
 - CS 科班 (偏好海本, 对陆本基本一视同仁, 主要看科研和成绩)
 - 科研型 (偏好有科研经历的同学: 参与科研, 做实验, 发论文等)
 - 高绩点 (一般至少 90+ and 高排名, 否则靠科研成果弥补)
+- UBC 的 CS 系比较小，所以每年招生的教授没有那么多
 
 ## 代表性 dp
 
@@ -12,7 +13,7 @@
 
 - 一般 15 Sep 开启网申系统, 15 Dec 截止递交申请.
 - 第二年二月到四月是主要面试/出 offer 的时间.
-- 该研究型项目基本是靠教授拍板招人, 所以要积极套瓷/面试.
+- 该研究型项目基本是靠教授拍板招人, 所以要积极套瓷/面试.申请之前最好打听一下你感兴趣的方向有几个教授在招生.
 - 对于想申 CS PhD 的同学, 如果不是在美加取得硕士学位, 则基本上都不会直接录为 PhD, 而是先录为 PhD-Track MSCS, 然后一年后转博 (也可以选择不转, 两年硕士毕业).
     - 在申请 MSc in CS 项目的网申系统里有个选项, 可选择是否申请 PhD Track, 如果录取了则为 PhD-Track MSCS.
 - 往年录取比例见[官网](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). 项目的华人占比约为 1/3.
@@ -44,7 +45,7 @@
     - 地理环境: Vancouver 环境优美、气候宜人, 沿海、靠南、临近美国西雅图. UBC 校园也绝美.
     - 人文环境: 温哥华繁华且包容, 吸引全球各国人士居住, 也是北美最大的华人聚居地之一 (其它: 多伦多, 纽约, 洛杉矶/旧金山).
     - 实习就业: IT 类工作数量虽不及 Toronto 更不及美国, 但也有很多机会, 微软和亚麻也有 base. (取得特殊福利后, 可自由选择去何处发展)
-    - 特殊福利: [BCPNP](https://www.welcomebc.ca/Immigrate-to-B-C/Skills-Immigration#IPG), 在[列表](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)中的硕士毕业后即可申请; 除 JD 和 MD 以外的所有博士取得 PhD Candidacy 后即可申请.
+    - 特殊福利: [BCPNP](https://www.welcomebc.ca/Immigrate-to-B-C/Skills-Immigration#IPG), 在[列表](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)中的硕士毕业后即可申请; 除 JD 和 MD 以外的所有博士取得 PhD Candidacy 后即可申请获得加拿大PR。
 
 ## 申请季实时信息
 

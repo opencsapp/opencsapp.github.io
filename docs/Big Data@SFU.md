@@ -18,6 +18,7 @@
   - Master of Big Data
   - [Master of Cybersecurity](./Cybersecurity%40SFU.md)
   - [Master of Visual Computing](./VC%40SFU.md)
+- 允许defer
 
 ## 申请季实时信息
 

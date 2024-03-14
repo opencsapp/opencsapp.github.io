@@ -24,6 +24,10 @@ Computer Science Professors 收录了各校各年度新晋 faculty 名录和研�
 
 使用 Instruction Tuning 微调过的语言模型，可以高效高质量的支持文书润色。prompt 举例 polish this:
 
+### [levels.fyi](https://www.levels.fyi/)
+
+比较和查看各个tech company salary & 职级的网站
+
 ### [The GradCafe](https://www.thegradcafe.com/)
 
 实时录取结果更新，PhD dp比较多

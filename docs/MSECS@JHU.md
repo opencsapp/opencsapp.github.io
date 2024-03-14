@@ -14,6 +14,8 @@ workload 较大；class size较小，两位数，diversity有优势；找工情�
 
 巴尔的摩治安不好，但 JHU 校警很给力，校内安全有保障，出校有校车接驳
 
+允许defer，可以defer半年或者一年
+
 ## 申请季实时信息
 
 23fall难度仍然较低，但JHU MSECS在目前找工环境下较为flexible，也是research牛校，无论找工还是读PhD都出路不错，属于宝藏项目，预期24fall申请人数会迎来上涨。
