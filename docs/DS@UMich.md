@@ -14,6 +14,8 @@
 
 ## 申请季实时信息
 
+24fall 申请难度显著增加，考虑升档
+
 ## 介绍帖
 
 [UMich MDS就读体验](https://www.1point3acres.com/bbs/thread-1034803-1-1.html)
