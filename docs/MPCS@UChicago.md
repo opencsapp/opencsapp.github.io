@@ -17,17 +17,17 @@ pre-doc有无面录取的dp（23fall)；奖学金只有pre-doc可能会有，24f
 
 ## 项目特点
 
-人少，夜校，课程很基础，追求课程质量的建议别来
+人少，夜校，课程很基础，追求课程质量的建议别来; 教授多业界背景
 
-课程可以选本科至博士level，9/12 courses的具体track可以入学再次选择
+课程可以选本科至博士level，9/12 courses的具体track可以入学再次选择.
 
 9/12 courses可以更改到12/9 courses, 可以同时找full time和intern
 
-有入学placement exam, 没有通过需要在summer/autumn quarter take immersion classes
+有入学placement exam, 没有通过需要在入学前的summer/第一个autumn quarter take immersion classes
 
 12 courses在summer quarter要做degree required internship，可以通过和prof做项目满足要求。
 
-12 courses (4 quarters) 可延期至18months (5 quarters)
+12 courses (4 quarters) 可延期至18months (5 quarters)，通过第一个autumn quarter上immersion classes或者最后一个quarter选课不满足毕业要求的方式。
 
 ## 申请季实时信息
 
