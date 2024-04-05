@@ -10,6 +10,8 @@
 
 ## 申请季实时信息
 
+24fall first round UCSD被录取一男一女两人
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

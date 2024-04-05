@@ -61,6 +61,7 @@
       - ECE Meng@UBC
       - MITS@CMU
       - DS@NYU
+      - DS@UMich
 - A-:
     CS:
       - ScM CS@Brown
@@ -79,7 +80,6 @@
       - ECE@Duke
       - ECE@GaTech
       - CGGT@UPenn
-      - DS@UMich
       - MEng@UCLA
 - B+:
     CS:
@@ -115,6 +115,7 @@
       - CE MEng@TAMU
       - MCS@UVa
       - MSCS@UVa
+      - MSCS@Virginia Tech
     NONCS:
       - ECE Meng@UofT
       - ECE Meng@Waterloo
@@ -171,6 +172,7 @@
       - MSCS@SCU
       - MSCS@Syracuse
     NONCS:
+      - MSECE@UIUC
 - 陆本黑洞:
     CS:
       - MSCS@Berkeley

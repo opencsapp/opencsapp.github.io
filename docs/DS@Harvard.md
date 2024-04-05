@@ -20,6 +20,8 @@
 
 22fall 无陆本录取。
 
+24fall UCSD 🈚️绿卡两人（一男一女）录取。（两人还是一对）
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
