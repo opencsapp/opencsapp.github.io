@@ -10,7 +10,7 @@
 
 ## 项目特点
 
-项目也着重培养软件方面的manger（晋升速度比CMU SCS average要快很多）。课程非常应用，涵盖方方面面（api design, quality assurance, DevOps, design pattern, software architecture, agile methods....），还有选修课可以任选两节12 units。
+项目也着重培养软件方面的manager（晋升速度比CMU SCS average要快很多）。课程非常应用，涵盖方方面面（api design, quality assurance, DevOps, design pattern, software architecture, agile methods....），还有选修课可以任选两节12 units。
 
 暑假有强制的实习semester（要自己找，但是尽管市场多不景气，所有人都可以自己找到，上一届也是100%），然后第二年秋季（最后一个学期）是capstone project，和企业对接（项目给找）然后每周各种meeting完成项目的全流程开发（从用户故事这钟开始）。
 
