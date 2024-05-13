@@ -3,11 +3,8 @@
 - CS 科班 (偏好海本, 对陆本基本一视同仁, 主要看科研和成绩)
 - 科研型 (偏好有科研经历的同学: 参与科研, 做实验, 发论文等)
 - 高绩点 (一般至少 90+ and 高排名, 否则靠科研成果弥补)
-- UBC 的 CS 系比较小，所以每年招生的教授没有那么多
 
 ## 代表性 dp
-
-- 【23 Fall】普通陆本 CS, GPA 93/100, Rank 1st, MSRA Intern, HKU RA, AI/NLP Conf Pubs. 录取项目: PhD-Track MSCS at UBC Van
 
 ## 网申备注
 
@@ -16,19 +13,21 @@
 - 该研究型项目基本是靠教授拍板招人, 所以要积极套瓷/面试.申请之前最好打听一下你感兴趣的方向有几个教授在招生.
 - 对于想申 CS PhD 的同学, 如果不是在美加取得硕士学位, 则基本上都不会直接录为 PhD, 而是先录为 PhD-Track MSCS, 然后一年后转博 (也可以选择不转, 两年硕士毕业).
     - 在申请 MSc in CS 项目的网申系统里有个选项, 可选择是否申请 PhD Track, 如果录取了则为 PhD-Track MSCS.
-- 往年录取比例见[官网](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). 项目的华人占比约为 1/3.
+- 往年录取比例见[官网](https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-science-computer-science). 项目的华人占比约为 1/4 ~ 1/3.
 
-| 年份     | 2021 | 2020 | 2019 | 2018 | 2017  |
-|--------|------|------|------|------|-------|
-| 申请人数   | 2368 | 1746 | 1765 | 1319 | 1011  |
-| 录取人数   | 91   | 123  | 86   | 87   | 111   |
-| 录取比例   | 3.8% | 7.0% | 4.9% | 6.6% | 11.0% |
-| 注册入学人数 | 49   | 54   | 37   | 36   | 55    |
-| 总在读人数  | 122  | 109  | 109  | 110  | 101   |
+| 年份     | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017  |
+|--------|------|------|------|------|------|------|-------|
+| 申请人数   | 1727 | 2025 | 2491 | 1799 | 1829 | 1319 | 1011  |
+| 录取人数   | 53   | 65   | 92   | 124  | 91   | 87   | 111   |
+| 录取比例   | 3.1% | 3.2% | 3.7% | 6.9% | 5.0% | 6.6% | 11.0% |
+| 注册入学人数 | 35   | 34   | 49   | 53   | 40   | 36   | 55    |
+| 总在读人数  | 112  | 123  | 123  | 109  | 115  | 110  | 101   |
 
 - 其它注意事项:
     - 注意[英语分数要求](https://www.cs.ubc.ca/students/grad/admissions/application-components-required-documents/english-proficiency-requirement).
-    - 在注册完网申系统之后, 就可以开始排队学校宿舍了. 宿舍分为 Winter Session 和 Year Round 两种, 都可以开始申请. 如果之后录取了, 那么有宿舍住会省一大笔开销 (宿舍一般 1000-1200 加元一个月; 在外面住一般 1500-2500 加元一个月.)
+    - 在注册完网申系统之后, 就可以开始排队[学校宿舍](https://vancouver.housing.ubc.ca/residences-rooms/residences/)了.
+    - 宿舍分为 Winter Session 和 Year Round 两种, 在递交入学申请的同时就已经可以开始申请宿舍了 (YR 单人间一般要排队1-2年才排到).
+    - 如果之后录取了, 有宿舍住会省一大笔开销 (学校宿舍单人间月租大约 1300-1500 加元; 在外面住月租通常 1500-2500 加元.)
     - 签证申请存在被安调的风险, 陆本 all in CA 需谨慎; 海本尽量在海外递交学签申请.
 
 ## 项目特点
@@ -44,8 +43,8 @@
     - 学校专业: UBC 国际排名前五十, 加拿大前三, CS 也是 UBC 优势学科之一, 在北美声誉好.
     - 地理环境: Vancouver 环境优美、气候宜人, 沿海、靠南、临近美国西雅图. UBC 校园也绝美.
     - 人文环境: 温哥华繁华且包容, 吸引全球各国人士居住, 也是北美最大的华人聚居地之一 (其它: 多伦多, 纽约, 洛杉矶/旧金山).
-    - 实习就业: IT 类工作数量虽不及 Toronto 更不及美国, 但也有很多机会, 微软和亚麻也有 base. (取得特殊福利后, 可自由选择去何处发展)
-    - 特殊福利: [BCPNP](https://www.welcomebc.ca/Immigrate-to-B-C/Skills-Immigration#IPG), 在[列表](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)中的硕士毕业后即可申请; 除 JD 和 MD 以外的所有博士取得 PhD Candidacy 后即可申请获得加拿大PR。
+    - 实习就业: IT 类工作数量虽不及 Toronto 更不及美国, 但也有很多机会, 一些知名公司比如 Microsoft/Meta/Amazon/TikTok/Huawei.
+    - 获得身份: [BCPNP-IPG](https://www.welcomebc.ca/Immigrate-to-B-C/Skills-Immigration#IPG): 在[列表](https://www.welcomebc.ca/Immigrate-to-B-C/documents/BC-PNP-IPG-EEBC-IPG-Eligible-Programs-of-Study.aspx)中的硕士毕业后 拿到BC省的工作Offer并提供语言成绩 即可申请; 除 JD 和 MD 以外的所有博士取得 PhD Candidacy 后, 提供语言成绩 即可申请。
 
 ## 申请季实时信息
 
