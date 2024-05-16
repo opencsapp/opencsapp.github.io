@@ -18,6 +18,8 @@ MS 严卡托福 105
 
 22fall 扩招中，需要关注 class size 相较之前变大
 
+24fall 官方预计入读总人数为130+，微信offer holder group内bg调查结果：https://docs.google.com/presentation/d/11ruKcNZc-_Y7Uu4o1E9Vw-oBi05lb4Gy/edit?usp=sharing&ouid=108807744109224173527&rtpof=true&sd=true
+
 ## 介绍帖
 [【22Fall】Brown CS 一学期就读体验，推荐追求wlb以及找工的同学选择](https://www.1point3acres.com/bbs/thread-953121-1-1.html)
 
