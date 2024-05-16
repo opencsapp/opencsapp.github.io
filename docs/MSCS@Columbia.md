@@ -29,7 +29,7 @@ international student 前两学期必须full time，至少修4门课，一般4+4
 
 22fall 缩招
 
-24fall 招了一大堆ucsd的人，bg都很diverse，感觉只看gpa。
+24fall 招了一大堆ucsd的人，bg都很diverse，感觉只看gpa。offer holder group内bg调查结果：https://docs.google.com/presentation/d/1AML5hko22h42KR6bLO38fYklMqvLCtIH/edit?usp=sharing&ouid=116730452879259903552&rtpof=true&sd=true
 
 ## 介绍帖
 
