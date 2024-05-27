@@ -14,6 +14,8 @@
 
 ## 申请季实时信息
 
+24fall rolling decision时间跨度很大。
+
 ## 介绍帖
 
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }
