@@ -1,10 +1,11 @@
 ## 录取偏好
 
-录取数量极少
+committee决定录取，录取数量极少
 
 ## 代表性 dp
 
 ## 网申备注
+网申需根据德州大学系统[`ApplyTexas`](https://www.applytexas.org/)先行进行注册和缴费，等待后续邮件通知后再在Austin CS网站提交个人信息。
 
 ## 项目特点
 
