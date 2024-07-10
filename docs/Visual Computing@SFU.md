@@ -11,7 +11,8 @@
 ## 项目特点
 
 - Master of Visual Computing 比较偏ml和cv
-
+- Co-op可以4个月（16个月毕业）或8个月（20个月毕业）。
+- 根据学校提供的2024年三月底的Co-op数据：_"Current Co-op placement in VC programs (Cohort 2023) is 42%"_。Co-op如果summer没找到fall可以接着找。
 ## 申请季实时信息
 
 ## 介绍帖
