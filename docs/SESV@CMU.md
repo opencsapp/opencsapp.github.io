@@ -6,6 +6,7 @@
 
 Applied track 2023 Fall之后不再招生
 
+会发很多defer到春季的录取
 ## 代表性 dp
 
 ## 网申备注

@@ -13,5 +13,5 @@ HDSI从18年开始筹备资金，21年挖了很多其他top15的senior和四大p
 ## 申请季实时信息
 
 22fall疑似点击就送
-
+24fall录取很偏向统计/数学背景
 [回到列表 :fontawesome-solid-house:](grade.md){ .md-button }

@@ -10,6 +10,7 @@
 Google target school
 
 ## 申请季实时信息
+24fall免申请费导致bar猛增
 
 ## 介绍帖
 
