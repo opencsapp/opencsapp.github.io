@@ -11,6 +11,7 @@
 本站内容开源协同创作，期待你[贡献内容](https://opencs.app/contribute/)。如果你喜欢这个网站，请点亮 :star:Star 支持我们！
 
 欢迎加入社区讨论：
+- [QQ 26Fall 群：195142580](https://qm.qq.com/q/tvYpfwqnOU)
 - [QQ 25Fall 群：336579136](https://qm.qq.com/q/58AfqUcs1W)
 - [~~QQ 24Fall 群：832875166~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=R8GK_C1rL6STeJHzblKE2PYnVzKC6ZXt&authKey=ONZY6oHbftyMHCncn8J2GmvlMI%2B27Z2w%2FpfH7vhZWOhUMokGgo8i%2FQJXHcKzcRth&noverify=0&group_code=832875166)
 - [~~QQ① 群：466094878~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jyDQE5i1T_Obns8xWxMzab51NqGXm3Sm&authKey=RNkbnwhB01W3L%2BLHPCjza6J7Vl%2FvGV11g80uIPvJtT8SCmCU8DjAEZROCkScCNIE&noverify=0&group_code=466094878)
