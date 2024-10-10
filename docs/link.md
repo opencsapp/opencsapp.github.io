@@ -6,7 +6,7 @@
 
 ### [GradHub](https://gradhubs.com/)
 
-GradHub 由MIT, Stanford, UCB, CMU, UW, ETH, 牛津, 清北等世界名校的硕士生和博士生共同创立。 其中多数 Mentor 将从往年OpenCSAPP 申请者择优选择
+GradHub 由MIT, Stanford, UCB, CMU, UW, ETH, 牛津, 清北等世界名校的硕士生和博士生共同创立。 其中多数 Mentor 将从往年OpenCSAPP 申请者中择优选择。
 
 ## 工具网站
 
