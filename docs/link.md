@@ -2,6 +2,12 @@
 
 本页面提供了很多有帮助的外部链接，欢迎修改此页面补充
 
+## 申请服务类网站
+
+### [GradHub](https://gradhubs.com/)
+
+GradHub 由MIT, Stanford, UCB, CMU, UW, ETH, 牛津, 清北等世界名校的硕士生和博士生共同创立。 其中多数 Mentor 将从往年OpenCSAPP 申请者择优选择
+
 ## 工具网站
 
 ### [CSRankings](https://csrankings.org/)
