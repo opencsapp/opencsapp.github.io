@@ -26,6 +26,8 @@ hide:
 
 很高兴介绍我们的[Blog](blog.md)版块，欢迎投稿！
 
+[OpenCSAPP](https://opencs.app/) X [GradHub](https://gradhubs.com/) 强强联合提供最新的申请信息和最快的问题解答！
+
 [DataPoints&copy;](datapoints.md)提供了录取结果实时播报，快来尝试吧！期待大家[提交 DataPoints](submit.md)
 
 [申请 FAQ](faq.md)栏目中收录了常见问题及解答。
