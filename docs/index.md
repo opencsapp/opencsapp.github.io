@@ -35,6 +35,8 @@ hide:
 
 [外部链接](link.md)中收录了很多实用的工具网站。
 
+[2025USNEWS美国TOP200大学地图](https://www.google.com/maps/d/u/0/edit?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4&usp=sharing)可以评估判断学校附近的地理位置并根据地域选校。
+
 [![Star History Chart](https://api.star-history.com/svg?repos=opencsapp/opencsapp.github.io&type=Date)](https://star-history.com/#opencsapp/opencsapp.github.io&Date)
 
 [![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/opencsapp/opencsapp.github.io)](https://github.com/opencsapp/opencsapp.github.io/stargazers)
