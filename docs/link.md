@@ -18,6 +18,10 @@ CSRankings 根据 dblp 中收录顶会论文数量进行排名
 
 各校教授，排名，最佳论文，津贴信息
 
+### [Map of TOP 200 US University](https://www.google.com/maps/d/u/0/edit?mid=1ejHyjTJx0D7FoI_xaUDileyIFoDkjK4&usp=sharing)
+
+2025年USNEWS全美最佳200所大学分布地图
+
 ### [CS Open Rankings](https://drafty.cs.brown.edu/csopenrankings/)
 
 CS Open Rankings 是结合了 U.S. News, csrankings.org, placement rank, best paper awards 进行的综合排名
