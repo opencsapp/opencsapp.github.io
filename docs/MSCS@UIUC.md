@@ -1,8 +1,8 @@
 ## 录取偏好
 
 可以当做 PhD/PhD 保底项目申请，非常看重推荐信
-
-录取上 POI 自主权很大，向 committee 提名即可大大提升录取几率
+推荐信 > connection >= pub > 三维
+录取上 POI 自主权很大，向 committee 提名即可大大提升录取几率；在有老师愿意当你的thesis advisor情况下；若三维达标，录取八九不离十
 
 ## 代表性 dp
 
@@ -14,7 +14,8 @@
 
 ## 项目特点
 
-研究型硕士，带 thesis，转博率可观。运气好老师可以给 RA-funding，托福口语达到 24 可以拿 TA funding 保底，可以看成 PhD 待遇
+研究型硕士，带 thesis，老师点头就可以转博。运气好老师可以给 RA-funding，托福口语达到 24 可以拿 TA funding 保底，可以看成 PhD 待遇
+所有学生均拿到全奖
 
 ## 申请季实时信息
 
