@@ -10,6 +10,10 @@ GradHub 由MIT, Stanford, UCB, CMU, UW, ETH, 牛津, 清北等世界名校的硕
 
 ## 工具网站
 
+### GoGrads (微信小程序)
+
+简单易用、零门槛的MS/PhD申请结果/咨询交流平台 - 一个由Stanford、NEU等世界名校的硕士生和博士生开发的公益项目
+
 ### [CSRankings](https://csrankings.org/)
 
 CSRankings 根据 dblp 中收录顶会论文数量进行排名
