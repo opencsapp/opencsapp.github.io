@@ -18,7 +18,6 @@
 - [~~QQ① 群：466094878~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jyDQE5i1T_Obns8xWxMzab51NqGXm3Sm&authKey=RNkbnwhB01W3L%2BLHPCjza6J7Vl%2FvGV11g80uIPvJtT8SCmCU8DjAEZROCkScCNIE&noverify=0&group_code=466094878)
 - [~~QQ② 群：544855574~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Lw6khzD63SpyFjfzd3xRNJar24Ltsq_k&authKey=Eo%2F5Rfsk7VDsWDTMe6TV61D1otmc4%2BoE%2FfoANBgOZcwklZwBzYz2N1ao13gxoYmi&noverify=0&group_code=544855574)
 - [Discord：https://discord.gg/HeB9QXZdFR](https://discord.gg/HeB9QXZdFR)
-
 [![Star History Chart](https://api.star-history.com/svg?repos=opencsapp/opencsapp.github.io&type=Date)](https://star-history.com/#opencsapp/opencsapp.github.io&Date)
 
 [![Stargazers repo roster for @opencsapp/opencsapp.github.io](https://reporoster.com/stars/opencsapp/opencsapp.github.io)](https://github.com/opencsapp/opencsapp.github.io/stargazers)
