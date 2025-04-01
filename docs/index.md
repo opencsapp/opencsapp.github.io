@@ -17,11 +17,11 @@ hide:
 
 [:fontawesome-brands-qq: QQ 26Fall 195142580](https://qm.qq.com/q/tvYpfwqnOU){ .md-button}
 [~~:fontawesome-brands-qq: QQ 25Fall 336579136~~（**已满**）](https://qm.qq.com/q/58AfqUcs1W){ .md-button}
-[:fontawesome-brands-qq: QQ 25Fall ②群：676446749](https://qm.qq.com/q/b293aAoC2c){ .md-button}
-[:fontawesome-brands-qq: CCF-A 顶会顶刊投稿交流群 1039880110](https://qm.qq.com/q/aF7f6WwC3K){ .md-button}
+[:fontawesome-brands-qq: QQ 25Fall ②群: 676446749](https://qm.qq.com/q/b293aAoC2c){ .md-button}
+[:fontawesome-brands-qq: CCF-A 顶会顶刊投稿交流群: 1039880110](https://qm.qq.com/q/aF7f6WwC3K){ .md-button}
 [~~:fontawesome-brands-qq: Join QQ① 466094878~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jyDQE5i1T_Obns8xWxMzab51NqGXm3Sm&authKey=RNkbnwhB01W3L%2BLHPCjza6J7Vl%2FvGV11g80uIPvJtT8SCmCU8DjAEZROCkScCNIE&noverify=0&group_code=466094878){ .md-button}
 [~~:fontawesome-brands-qq: Join QQ② 544855574~~（**已满**）](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=Lw6khzD63SpyFjfzd3xRNJar24Ltsq_k&authKey=Eo%2F5Rfsk7VDsWDTMe6TV61D1otmc4%2BoE%2FfoANBgOZcwklZwBzYz2N1ao13gxoYmi&noverify=0&group_code=544855574){ .md-button}
-[:fontawesome-brands-telegram: Join Telegram（**推荐**）](https://t.me/+7N7X2BGrBlE4OTYx){ .md-button} [:fontawesome-brands-discord: Join Discord](https://discord.gg/HeB9QXZdFR){ .md-button}
+[:fontawesome-brands-telegram: Join Telegram](https://t.me/+7N7X2BGrBlE4OTYx){ .md-button} [:fontawesome-brands-discord: Join Discord](https://discord.gg/HeB9QXZdFR){ .md-button}
 
 ## Insights
 
