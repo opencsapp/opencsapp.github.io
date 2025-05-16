@@ -11,11 +11,16 @@
 
 ## 网申备注
 
+一共三轮申请，注意时间：
+第一轮DDL：11月30日 (1月10日左右出结果)，
+第二轮DDL：12月31日 (2月10日左右出结果)，
+第三轮DDL：2月28日 (4月30日左右出结果)，时间详见[官网](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
+
 出结果非常快，23年12月31日提交申请（24年1月18日交齐最后一封推荐信）2月2日一早就出结果了。西北是自己的系统，如果成绩单有加密需要去掉加密才能上传。
 
 ## 项目特点
 
-比较 research 向的项目，class size 偏小，转博友好，只要教授答应提供funding（Such a transfer request is only seriously considered if there is a CS faculty member who advocates the transfer and commits to financially supporting the student）。
+比较 research 向的项目，class size 偏小：60 ~ 90左右，详细历年录取比例以及入学比例见[官网](https://tableau.northwestern.edu/t/TGS/views/OnlineDataMasters/OnlineData?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Amobile=true)。转博友好，只要教授答应提供funding（Such a transfer request is only seriously considered if there is a CS faculty member who advocates the transfer and commits to financially supporting the student）。项目为quarter制，可通过project、thesis分别延1、2 quarter，因此该项目最长可延至两年。
 
 ## 申请季实时信息
 
