@@ -20,7 +20,9 @@
 
 ## 项目特点
 
-比较 research 向的项目，class size 偏小：60 ~ 90左右，详细历年录取比例以及入学比例见[官网](https://tableau.northwestern.edu/t/TGS/views/OnlineDataMasters/OnlineData?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Amobile=true)。转博友好，只要教授答应提供funding（Such a transfer request is only seriously considered if there is a CS faculty member who advocates the transfer and commits to financially supporting the student）。项目为quarter制，可通过project、thesis分别延1、2 quarter，因此该项目最长可延至两年。
+比较 research 向的项目，class size 偏小：60 ~ 90左右，详细历年录取比例以及入学比例见[官网](https://tableau.northwestern.edu/t/TGS/views/OnlineDataMasters/OnlineData?iframeSizedToWindow=true&%3Aembed=y&%3AshowAppBanner=false&%3Adisplay_count=no&%3AshowVizHome=no&%3Amobile=true)。
+
+转博基本不可能，平均每年少于 1 人，需要教授答应提供 funding（Such a transfer request is only seriously considered if there is a CS faculty member who advocates the transfer and commits to financially supporting the student）。项目为 quarter 制，可通过project、thesis 分别延 1、2 quarter（可以同时 CPT），因此该项目最长可延至两年。
 
 ## 申请季实时信息
 
