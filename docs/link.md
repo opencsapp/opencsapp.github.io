@@ -78,6 +78,8 @@ TransferWiki 详细介绍了 transfer 相关信息。transfer 到海本可以极
 
 ### [山东大学飞跃手册](https://sdu-application.github.io/sduapplication.github.io/#/)
 
+### [清华大学飞跃手册](https://feiyue.online/)
+
 ## 生存手册
 
 ### [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)
