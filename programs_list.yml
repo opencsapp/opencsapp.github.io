@@ -53,6 +53,7 @@
 - A:
     CS:
       - SESV@CMU
+      - MSE-SS@CMU
       - CS75@UCSD
       - CM@Cornell Tech
     NONCS:
@@ -85,7 +86,6 @@
       - MEng@UCLA
 - B+:
     CS:
-      - MSE-SS@CMU
       - MSCS@NYU Courant
       - MSCS@NYU Tandon
       - MCS@TAMU
